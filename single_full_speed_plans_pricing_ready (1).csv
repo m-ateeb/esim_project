@@ -1,0 +1,983 @@
+     Type,Plan Category,Location Name,Plan Name,Price,GBs,Days,Pre-activation days,SMS,Reloadable,Operators,Country Codes,Slug,PlanId,proposed_price_usd,Country,our_cost,applied_markup_pct
+Single 1️⃣,Full Speed,Afghanistan,Afghanistan  1GB 7Days,4.5,1,7,180,API,yes,AF - Etisalat 3G,AF,AF_1_7,PC2G2GAZG,5.85,Afghanistan,4.5,30
+Single 1️⃣,Full Speed,Afghanistan,Afghanistan 3GB 15Days,11.8,3,15,180,API,yes,AF - Etisalat 3G,AF,AF_3_15,PH204G43G,15.34,Afghanistan,11.8,30
+Single 1️⃣,Full Speed,Afghanistan,Afghanistan 3GB 30Days,12.5,3,30,180,API,yes,AF - Etisalat 3G,AF,AF_3_30,P7PPTTG21,16.25,Afghanistan,12.5,30
+Single 1️⃣,Full Speed,Afghanistan,Afghanistan 5GB 30Days,19.6,5,30,180,API,yes,AF - Etisalat 3G,AF,AF_5_30,PFNZN562P,25.48,Afghanistan,19.6,30
+Single 1️⃣,Full Speed,Afghanistan,Afghanistan 10GB 30Days,36.8,10,30,180,API,yes,AF - Etisalat 3G,AF,AF_10_30,PN41KUBY9,47.84,Afghanistan,36.8,30
+Single 1️⃣,Full Speed,Afghanistan,Afghanistan 20GB 30Days,68.6,20,30,180,API,yes,AF - Etisalat 3G,AF,AF_20_30,P859ELARY,89.18,Afghanistan,68.6,30
+Single 1️⃣,Full Speed,Aland Islands,Aland Islands 1GB 7Days,1.8,1,7,180,API,yes,AX - AMT 5G,AX,AX_1_7,CKH256,2.86,Aland Islands,1.8,59
+Single 1️⃣,Full Speed,Aland Islands,Aland Islands 3GB 15Days,3.1,3,15,180,API,yes,AX - AMT 5G,AX,AX_3_15,CKH257,4.93,Aland Islands,3.1,59
+Single 1️⃣,Full Speed,Aland Islands,Aland Islands 3GB 30Days,3.16,3,30,180,API,yes,AX - AMT 5G,AX,AX_3_30,CKH105,5.02,Aland Islands,3.16,59
+Single 1️⃣,Full Speed,Aland Islands,Aland Islands 5GB 30Days,5.27,5,30,180,API,yes,AX - AMT 5G,AX,AX_5_30,CKH144,8.38,Aland Islands,5.27,59
+Single 1️⃣,Full Speed,Aland Islands,Aland Islands 10GB 30Days,10.53,10,30,180,API,yes,AX - AMT 5G,AX,AX_10_30,CKH258,16.74,Aland Islands,10.53,59
+Single 1️⃣,Full Speed,Aland Islands,Aland Islands 20GB 30Days,20,20,30,180,API,yes,AX - AMT 5G,AX,AX_20_30,CKH740,31.8,Aland Islands,20,59
+Single 1️⃣,Full Speed,Albania,Albania 100MB 7Days,0.3,0.1,7,180,no,yes,AL - Vodafone 4G,AL,AL_0.1_7,PFRQ8FIBC,0.46,Albania,0.3,53
+Single 1️⃣,Full Speed,Albania,Albania 500MB 7Days,1,0.5,7,180,no,yes,AL - Vodafone 4G,AL,AL_0.5_7,PYFAJFXKY,1.53,Albania,1,53
+Single 1️⃣,Full Speed,Albania,Albania 1GB 7Days,1.8,1,7,180,no,yes,AL - Vodafone 4G,AL,AL_1_7,CKH525,2.75,Albania,1.8,53
+Single 1️⃣,Full Speed,Albania,Albania 3GB 15Days,4.6,3,15,180,no,yes,AL - Vodafone 4G,AL,AL_3_15,CKH548,7.04,Albania,4.6,53
+Single 1️⃣,Full Speed,Albania,Albania 3GB 30Days,4.7,3,30,180,no,yes,AL - Vodafone 4G,AL,AL_3_30,PL5JS8GQQ,7.19,Albania,4.7,53
+Single 1️⃣,Full Speed,Albania,Albania 5GB 30Days,9,5,30,180,no,yes,AL - Vodafone 4G,AL,AL_5_30,CKH549,13.77,Albania,9,53
+Single 1️⃣,Full Speed,Albania,Albania 10GB 30Days,15,10,30,180,no,yes,AL - Vodafone 4G,AL,AL_10_30,CKH952,22.95,Albania,15,53
+Single 1️⃣,Full Speed,Albania,Albania 20GB 30Days,24,20,30,180,no,yes,AL - Vodafone 4G,AL,AL_20_30,CKH953,36.72,Albania,24,53
+Single 1️⃣,Full Speed,Algeria,Algeria 100MB 7Days,0.3,0.1,7,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_0.1_7,PJVN54W3O,0.82,Algeria,0.3,172
+Single 1️⃣,Full Speed,Algeria,Algeria 500MB 7Days,0.6,0.5,7,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_0.5_7,P2K7J4WGD,1.63,Algeria,0.6,172
+Single 1️⃣,Full Speed,Algeria,Algeria 1GB 7Days,1.1,1,7,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_1_7,CKH515,2.99,Algeria,1.1,172
+Single 1️⃣,Full Speed,Algeria,Algeria 3GB 15Days,2.8,3,15,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_3_15,CKH551,7.62,Algeria,2.8,172
+Single 1️⃣,Full Speed,Algeria,Algeria 3GB 30Days,3,3,30,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_3_30,PWI9OQIY7,8.16,Algeria,3,172
+Single 1️⃣,Full Speed,Algeria,Algeria 5GB 30Days,4.4,5,30,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_5_30,CKH552,11.97,Algeria,4.4,172
+Single 1️⃣,Full Speed,Algeria,Algeria 10GB 30Days,7.6,10,30,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_10_30,CKH809,20.67,Algeria,7.6,172
+Single 1️⃣,Full Speed,Algeria,Algeria 20GB 30Days,12.9,20,30,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_20_30,CKH810,35.09,Algeria,12.9,172
+Single 1️⃣,Full Speed,Algeria,Algeria 50GB 30Days,29.5,50,30,180,API,yes,"DZ - Mobilis 4G, Ooredoo 4G",DZ,DZ_50_30,CKH811,80.24,Algeria,29.5,172
+Single 1️⃣,Full Speed,Argentina,Argentina 100MB 7Days,0.46,0.1,7,180,API,yes,"AR - Movistar 5G, Claro 5G",AR,AR_0.1_7,PHDE7ZP42,0.68,Argentina,0.46,47
+Single 1️⃣,Full Speed,Argentina,Argentina 500MB 7Days,2,0.5,7,180,API,yes,"AR - Movistar 5G, Claro 5G",AR,AR_0.5_7,PMXFVU33D,2.94,Argentina,2,47
+Single 1️⃣,Full Speed,Argentina,Argentina 1GB 7Days,3.6,1,7,180,API,yes,"AR - Movistar 5G, Claro 5G",AR,AR_1_7,CKH293,5.29,Argentina,3.6,47
+Single 1️⃣,Full Speed,Argentina,Argentina 3GB 15Days,8.9,3,15,180,API,yes,"AR - Movistar 5G, Claro 5G",AR,AR_3_15,CKH294,13.08,Argentina,8.9,47
+Single 1️⃣,Full Speed,Argentina,Argentina 3GB 30Days,9,3,30,180,API,yes,"AR - Movistar 5G, Claro 5G",AR,AR_3_30,PZEN2IE1G,13.23,Argentina,9,47
+Single 1️⃣,Full Speed,Argentina,Argentina 5GB 30Days,14,5,30,180,API,yes,"AR - Movistar 5G, Claro 5G",AR,AR_5_30,CKH295,20.58,Argentina,14,47
+Single 1️⃣,Full Speed,Argentina,Argentina 10GB 30Days,26,10,30,180,API,yes,"AR - Movistar 5G, Claro 5G",AR,AR_10_30,CKH296,38.22,Argentina,26,47
+Single 1️⃣,Full Speed,Argentina,Argentina 20GB 30Days,40,20,30,180,API,yes,"AR - Movistar 5G, Claro 5G",AR,AR_20_30,CKH858,58.8,Argentina,40,47
+Single 1️⃣,Full Speed,Armenia,Armenia 100MB 7Days,0.45,0.1,7,180,API,yes,"AM - Ucom 4G, Vivacell 4G",AM,AM_0.1_7,PZBBJD4HG,0.59,Armenia,0.45,30
+Single 1️⃣,Full Speed,Armenia,Armenia 500MB 7Days,1.9,0.5,7,180,API,yes,"AM - Ucom 4G, Vivacell 4G",AM,AM_0.5_7,PUCP0HJ3Z,2.47,Armenia,1.9,30
+Single 1️⃣,Full Speed,Armenia,Armenia 1GB 7Days,3.9,1,7,180,API,yes,"AM - Ucom 4G, Vivacell 4G",AM,AM_1_7,CKH514,5.07,Armenia,3.9,30
+Single 1️⃣,Full Speed,Armenia,Armenia 3GB 15Days,9.9,3,15,180,API,yes,"AM - Ucom 4G, Vivacell 4G",AM,AM_3_15,CKH555,12.87,Armenia,9.9,30
+Single 1️⃣,Full Speed,Armenia,Armenia 3GB 30Days,10.5,3,30,180,API,yes,"AM - Ucom 4G, Vivacell 4G",AM,AM_3_30,CKH030,13.65,Armenia,10.5,30
+Single 1️⃣,Full Speed,Armenia,Armenia 5GB 30Days,21,5,30,180,API,yes,"AM - Ucom 4G, Vivacell 4G",AM,AM_5_30,CKH556,27.3,Armenia,21,30
+Single 1️⃣,Full Speed,Armenia,Armenia 10GB 30Days,37,10,30,180,API,yes,"AM - Ucom 4G, Vivacell 4G",AM,AM_10_30,CKH775,48.1,Armenia,37,30
+Single 1️⃣,Full Speed,Armenia,Armenia 20GB 30Days,63,20,30,180,API,yes,"AM - Ucom 4G, Vivacell 4G",AM,AM_20_30,CKH776,81.9,Armenia,63,30
+Single 1️⃣,Full Speed,Australia,Australia 100MB 7Days,0.3,0.1,7,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_0.1_7,PGWEQ1CSB,0.94,Australia,0.3,212
+Single 1️⃣,Full Speed,Australia,Australia 500MB 7Days,0.4,0.5,7,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_0.5_7,PI27MAKKL,1.25,Australia,0.4,212
+Single 1️⃣,Full Speed,Australia,Australia 1GB 7Days,0.7,1,7,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_1_7,JC018,2.18,Australia,0.7,212
+Single 1️⃣,Full Speed,Australia,Australia 1GB 7Days (nonhkip),1.02,1,7,180,API,yes,AU - Optus 5G,AU,AU_1_7_nonhkip,PBNG7JU46,3.18,Australia,1.02,212
+Single 1️⃣,Full Speed,Australia,Australia 3GB 15Days,1.7,3,15,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_3_15,JC019,5.3,Australia,1.7,212
+Single 1️⃣,Full Speed,Australia,Australia 3GB 30Days,1.9,3,30,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_3_30,PM2ZWH3G5,5.93,Australia,1.9,212
+Single 1️⃣,Full Speed,Australia,Australia 5GB 30Days,2.7,5,30,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_5_30,JC020,8.42,Australia,2.7,212
+Single 1️⃣,Full Speed,Australia,Australia 3GB 15Days (nonhkip),2.72,3,15,180,API,yes,AU - Optus 5G,AU,AU_3_15_nonhkip,PMJWN96M5,8.49,Australia,2.72,212
+Single 1️⃣,Full Speed,Australia,Australia 3GB 30Days (nonhkip),2.89,3,30,180,API,yes,AU - Optus 5G,AU,AU_3_30_nonhkip,P5WU3XAH8,9.02,Australia,2.89,212
+Single 1️⃣,Full Speed,Australia,Australia 5GB 30Days (nonhkip),4.53,5,30,180,API,yes,AU - Optus 5G,AU,AU_5_30_nonhkip,PTV5G02KL,14.13,Australia,4.53,212
+Single 1️⃣,Full Speed,Australia,Australia 10GB 30Days,4.7,10,30,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_10_30,JC101,14.66,Australia,4.7,212
+Single 1️⃣,Full Speed,Australia,Australia 20GB 30Days,8.2,20,30,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_20_30,JC102,25.58,Australia,8.2,212
+Single 1️⃣,Full Speed,Australia,Australia 10GB 30Days (nonhkip),8.49,10,30,180,API,yes,AU - Optus 5G,AU,AU_10_30_nonhkip,PN9GT8RR1,26.49,Australia,8.49,212
+Single 1️⃣,Full Speed,Australia,Australia 20GB 30Days (nonhkip),15.84,20,30,180,API,yes,AU - Optus 5G,AU,AU_20_30_nonhkip,P1B5ZKL9Y,49.42,Australia,15.84,212
+Single 1️⃣,Full Speed,Australia,Australia 50GB 30Days,17,50,30,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_50_30,PQGQ6Y07S,53.04,Australia,17,212
+Single 1️⃣,Full Speed,Australia,Australia 50GB 180Days,28,50,180,180,no,yes,"AU - Optus 5G, Vodafone 5G",AU,AU_50_180,POU9P9TSZ,87.36,Australia,28,212
+Single 1️⃣,Full Speed,Austria,Austria 1GB 7Days,0.9,1,7,180,API,yes,AT - Hutchison 5G,AT,AT_1_7,CKH157,2.07,Austria,0.9,130
+Single 1️⃣,Full Speed,Austria,Austria 3GB 15Days,2.2,3,15,180,API,yes,AT - Hutchison 5G,AT,AT_3_15,CKH158,5.06,Austria,2.2,130
+Single 1️⃣,Full Speed,Austria,Austria 3GB 30Days,2.3,3,30,180,API,yes,AT - Hutchison 5G,AT,AT_3_30,CKH076,5.29,Austria,2.3,130
+Single 1️⃣,Full Speed,Austria,Austria 5GB 30Days,3.4,5,30,180,API,yes,AT - Hutchison 5G,AT,AT_5_30,CKH115,7.82,Austria,3.4,130
+Single 1️⃣,Full Speed,Austria,Austria 10GB 30Days,6.1,10,30,180,API,yes,AT - Hutchison 5G,AT,AT_10_30,CKH159,14.03,Austria,6.1,130
+Single 1️⃣,Full Speed,Austria,Austria 20GB 30Days,9.9,20,30,180,API,yes,AT - Hutchison 5G,AT,AT_20_30,CKH537,22.77,Austria,9.9,130
+Single 1️⃣,Full Speed,Austria,Austria 50GB 180Days,22,50,180,180,API,yes,AT - Hutchison 5G,AT,AT_50_180,PJG7CZ02I,50.6,Austria,22,130
+Single 1️⃣,Full Speed,Azerbaijan,Azerbaijan 100MB 7Days,0.79,0.1,7,180,API,yes,"AZ - Bakcell 3G, Azercell 4G",AZ,AZ_0.1_7,PLYTQ0XIR,1.03,Azerbaijan,0.79,30
+Single 1️⃣,Full Speed,Azerbaijan,Azerbaijan 500MB 7Days,3.9,0.5,7,180,API,yes,"AZ - Bakcell 3G, Azercell 4G",AZ,AZ_0.5_7,PRC8ZLO48,5.07,Azerbaijan,3.9,30
+Single 1️⃣,Full Speed,Azerbaijan,Azerbaijan 1GB 7Days,7.1,1,7,180,no,yes,"AZ - Azercell 4G, Bakcell 3G, Azercell 5G",AZ,AZ_1_7,CKH281,9.23,Azerbaijan,7.1,30
+Single 1️⃣,Full Speed,Azerbaijan,Azerbaijan 3GB 15Days,17.6,3,15,180,API,yes,"AZ - Bakcell 3G, Azercell 4G",AZ,AZ_3_15,CKH282,22.88,Azerbaijan,17.6,30
+Single 1️⃣,Full Speed,Azerbaijan,Azerbaijan 3GB 30Days,17.9,3,30,180,API,yes,"AZ - Bakcell 3G, Azercell 4G",AZ,AZ_3_30,CKH032,23.27,Azerbaijan,17.9,30
+Single 1️⃣,Full Speed,Azerbaijan,Azerbaijan 5GB 30Days,26,5,30,180,API,yes,"AZ - Bakcell 3G, Azercell 4G",AZ,AZ_5_30,CKH283,33.8,Azerbaijan,26,30
+Single 1️⃣,Full Speed,Azerbaijan,Azerbaijan 10GB 30Days,46,10,30,180,API,yes,"AZ - Bakcell 3G, Azercell 4G",AZ,AZ_10_30,CKH284,59.8,Azerbaijan,46,30
+Single 1️⃣,Full Speed,Azerbaijan,Azerbaijan 20GB 30Days,79,20,30,180,API,yes,"AZ - Bakcell 3G, Azercell 4G",AZ,AZ_20_30,CKH864,102.7,Azerbaijan,79,30
+Single 1️⃣,Full Speed,Bahrain,Bahrain 1GB 7Days,2.5,1,7,180,no,yes,BH - Zain 5G,BH,BH_1_7,CKH289,4.22,Bahrain,2.5,69
+Single 1️⃣,Full Speed,Bahrain,Bahrain 3GB 15Days,6.2,3,15,180,no,yes,BH - Zain 5G,BH,BH_3_15,CKH290,10.48,Bahrain,6.2,69
+Single 1️⃣,Full Speed,Bahrain,Bahrain 3GB 30Days,6.33,3,30,180,no,yes,BH - Zain 5G,BH,BH_3_30,CKH035,10.7,Bahrain,6.33,69
+Single 1️⃣,Full Speed,Bangladesh,Bangladesh 1GB 7Days,2.9,1,7,180,API,yes,BD - Grameenphone 4G,BD,BD_1_7,JC110,3.77,Bangladesh,2.9,30
+Single 1️⃣,Full Speed,Bangladesh,Bangladesh 3GB 15Days,7.2,3,15,180,API,yes,BD - Grameenphone 4G,BD,BD_3_15,JC112,9.36,Bangladesh,7.2,30
+Single 1️⃣,Full Speed,Bangladesh,Bangladesh 3GB 30Days,7.3,3,30,180,API,yes,BD - Grameenphone 4G,BD,BD_3_30,PKR3FXF16,9.49,Bangladesh,7.3,30
+Single 1️⃣,Full Speed,Bangladesh,Bangladesh 5GB 30Days,11,5,30,180,API,yes,BD - Grameenphone 4G,BD,BD_5_30,JC113,14.3,Bangladesh,11,30
+Single 1️⃣,Full Speed,Bangladesh,Bangladesh 10GB 30Days,20,10,30,180,API,yes,BD - Grameenphone 4G,BD,BD_10_30,JC155,26,Bangladesh,20,30
+Single 1️⃣,Full Speed,Bangladesh,Bangladesh 20GB 30Days,32,20,30,180,API,yes,BD - Grameenphone 4G,BD,BD_20_30,JC156,41.6,Bangladesh,32,30
+Single 1️⃣,Full Speed,Belarus,Belarus 1GB 7Days,2.1,1,7,180,API,yes,BY - A1 5G,BY,BY_1_7,EF4MLC10,7.73,Belarus,2.1,268
+Single 1️⃣,Full Speed,Belarus,Belarus 3GB 15Days,6.3,3,15,180,API,yes,BY - A1 5G,BY,BY_3_15,ALL95F6M,23.18,Belarus,6.3,268
+Single 1️⃣,Full Speed,Belarus,Belarus 3GB 30Days,6.4,3,30,180,API,yes,BY - A1 5G,BY,BY_3_30,P7SD3JF4A,23.55,Belarus,6.4,268
+Single 1️⃣,Full Speed,Belarus,Belarus 5GB 30Days,10.5,5,30,180,no,yes,BY - A1 4G,BY,BY_5_30,G9EDN4W6,38.64,Belarus,10.5,268
+Single 1️⃣,Full Speed,Belarus,Belarus 10GB 30Days,20,10,30,180,no,yes,BY - A1 4G,BY,BY_10_30,TZ1VPT78,73.6,Belarus,20,268
+Single 1️⃣,Full Speed,Belarus,Belarus 20GB 30Days,38,20,30,180,no,yes,BY - A1 4G,BY,BY_20_30,ULP92N4J,139.84,Belarus,38,268
+Single 1️⃣,Full Speed,Belgium,Belgium 1GB 7Days,0.9,1,7,180,API,yes,"BE - Base 5G, Orange 5G, Proximus 5G",BE,BE_1_7,CKH202,2.69,Belgium,0.9,199
+Single 1️⃣,Full Speed,Belgium,Belgium 3GB 15Days,2.2,3,15,180,API,yes,"BE - Base 5G, Orange 5G, Proximus 5G",BE,BE_3_15,CKH203,6.58,Belgium,2.2,199
+Single 1️⃣,Full Speed,Belgium,Belgium 3GB 30Days,2.3,3,30,180,API,yes,"BE - Base 5G, Orange 5G, Proximus 5G",BE,BE_3_30,CKH077,6.88,Belgium,2.3,199
+Single 1️⃣,Full Speed,Belgium,Belgium 5GB 30Days,3.4,5,30,180,API,yes,"BE - Base 5G, Orange 5G, Proximus 5G",BE,BE_5_30,CKH116,10.17,Belgium,3.4,199
+Single 1️⃣,Full Speed,Belgium,Belgium 10GB 30Days,6.1,10,30,180,API,yes,"BE - Base 5G, Orange 5G, Proximus 5G",BE,BE_10_30,CKH204,18.24,Belgium,6.1,199
+Single 1️⃣,Full Speed,Belgium,Belgium 20GB 30Days,10.6,20,30,180,API,yes,"BE - Base 5G, Orange 5G, Proximus 5G",BE,BE_20_30,CKH502,31.69,Belgium,10.6,199
+Single 1️⃣,Full Speed,Belgium,Belgium 50GB 180Days,22,50,180,180,API,yes,"BE - Base 5G, Orange 5G, Proximus 5G",BE,BE_50_180,PJ4UJHAJC,65.78,Belgium,22,199
+Single 1️⃣,Full Speed,Bolivia,Bolivia 100MB 7Days,0.63,0.1,7,180,API,yes,BO - Tigo 5G,BO,BO_0.1_7,PWB2NZA39,0.83,Bolivia,0.63,31
+Single 1️⃣,Full Speed,Bolivia,Bolivia 500MB 7Days,3.1,0.5,7,180,API,yes,BO - Tigo 5G,BO,BO_0.5_7,P3TUFRWYX,4.06,Bolivia,3.1,31
+Single 1️⃣,Full Speed,Bolivia,Bolivia 1GB 7Days,5.7,1,7,180,API,yes,BO - Tigo 5G,BO,BO_1_7,CKH297,7.47,Bolivia,5.7,31
+Single 1️⃣,Full Speed,Bolivia,Bolivia 3GB 15Days,16.8,3,15,180,API,yes,BO - Tigo 5G,BO,BO_3_15,CKH298,22.01,Bolivia,16.8,31
+Single 1️⃣,Full Speed,Bolivia,Bolivia 20GB 30Days,99,20,30,180,API,yes,BO - Tigo 5G,BO,BO_20_30,CKH831,129.69,Bolivia,99,31
+Single 1️⃣,Full Speed,Bosnia and Herzegovina,Bosnia and Herzegovina 1GB 7Days,1.69,1,7,180,no,yes,"BA - BH Mobile 4G, m:tel BiH 4G",BA,BA_1_7,CKH531,2.82,Bosnia and Herzegovina,1.69,67
+Single 1️⃣,Full Speed,Bosnia and Herzegovina,Bosnia and Herzegovina 3GB 15Days,5.07,3,15,180,no,yes,"BA - BH Mobile 4G, m:tel BiH 4G",BA,BA_3_15,CKH563,8.47,Bosnia and Herzegovina,5.07,67
+Single 1️⃣,Full Speed,Bosnia and Herzegovina,Bosnia and Herzegovina 3GB 30Days,5.1,3,30,180,no,yes,"BA - BH Mobile 4G, m:tel BiH 4G",BA,BA_3_30,PM8VIQATX,8.52,Bosnia and Herzegovina,5.1,67
+Single 1️⃣,Full Speed,Bosnia and Herzegovina,Bosnia and Herzegovina 5GB 30Days,8,5,30,180,no,no,"BA - BH Mobile 4G, m:tel BiH 4G",BA,BA_5_30,CKH564,13.36,Bosnia and Herzegovina,8,67
+Single 1️⃣,Full Speed,Bosnia and Herzegovina,Bosnia and Herzegovina 10GB 30Days,16,10,30,180,no,no,"BA - BH Mobile 4G, m:tel BiH 4G",BA,BA_10_30,CKH1034,26.72,Bosnia and Herzegovina,16,67
+Single 1️⃣,Full Speed,Botswana,Botswana 1GB 7Days,7.1,1,7,180,API,yes,"BW - Orange 5G, Mascom 5G",BW,BW_1_7,CKH368,9.23,Botswana,7.1,30
+Single 1️⃣,Full Speed,Botswana,Botswana 3GB 15Days,17.6,3,15,180,API,yes,"BW - Orange 5G, Mascom 5G",BW,BW_3_15,CKH397,22.88,Botswana,17.6,30
+Single 1️⃣,Full Speed,Brazil,Brazil 100MB 7Days,0.3,0.1,7,180,API,yes,"BR - TIM 5G, Claro 5G, Vivo 5G",BR,BR_0.1_7,PTN42GL18,0.44,Brazil,0.3,48
+Single 1️⃣,Full Speed,Brazil,Brazil 500MB 7Days,1.3,0.5,7,180,API,yes,"BR - TIM 5G, Claro 5G, Vivo 5G",BR,BR_0.5_7,PDMS0E5SJ,1.92,Brazil,1.3,48
+Single 1️⃣,Full Speed,Brazil,Brazil 1GB 7Days,2.3,1,7,180,API,yes,"BR - TIM 5G, Claro 5G, Vivo 5G",BR,BR_1_7,CKH301,3.4,Brazil,2.3,48
+Single 1️⃣,Full Speed,Brazil,Brazil 3GB 15Days,5.7,3,15,180,API,yes,"BR - TIM 5G, Claro 5G, Vivo 5G",BR,BR_3_15,CKH317,8.44,Brazil,5.7,48
+Single 1️⃣,Full Speed,Brazil,Brazil 3GB 30Days,5.8,3,30,180,API,yes,"BR - TIM 5G, Claro 5G, Vivo 5G",BR,BR_3_30,PWUJG82CJ,8.58,Brazil,5.8,48
+Single 1️⃣,Full Speed,Brazil,Brazil 5GB 30Days,9,5,30,180,API,yes,"BR - TIM 5G, Claro 5G, Vivo 5G",BR,BR_5_30,CKH333,13.32,Brazil,9,48
+Single 1️⃣,Full Speed,Brazil,Brazil 10GB 30Days,17,10,30,180,API,yes,"BR - TIM 5G, Claro 5G, Vivo 5G",BR,BR_10_30,CKH349,25.16,Brazil,17,48
+Single 1️⃣,Full Speed,Brazil,Brazil 20GB 30Days,25,20,30,180,API,yes,"BR - TIM 5G, Claro 5G, Vivo 5G",BR,BR_20_30,CKH860,37,Brazil,25,48
+Single 1️⃣,Full Speed,Brunei Darussalam,Brunei Darussalam 1GB 7Days,4.6,1,7,180,API,yes,BN - DST 4G,BN,BN_1_7,CKH833,7.82,Brunei Darussalam,4.6,70
+Single 1️⃣,Full Speed,Brunei Darussalam,Brunei Darussalam 3GB 15Days,11.2,3,15,180,API,yes,BN - DST 4G,BN,BN_3_15,CKH834,19.04,Brunei Darussalam,11.2,70
+Single 1️⃣,Full Speed,Brunei Darussalam,Brunei Darussalam 3GB 30Days,11.4,3,30,180,API,no,BN - DST 4G,BN,BN_3_30,P5X4PKYN3,19.38,Brunei Darussalam,11.4,70
+Single 1️⃣,Full Speed,Brunei Darussalam,Brunei Darussalam 20GB 30Days,50,20,30,180,API,yes,BN - DST 4G,BN,BN_20_30,CKH837,85,Brunei Darussalam,50,70
+Single 1️⃣,Full Speed,Bulgaria,Bulgaria 1GB 7Days,0.9,1,7,180,API,yes,"BG - Vivacom 5G, Telenor 4G, A1 4G",BG,BG_1_7,CKH205,2.2,Bulgaria,0.9,145
+Single 1️⃣,Full Speed,Bulgaria,Bulgaria 3GB 15Days,2.2,3,15,180,API,yes,"BG - Vivacom 5G, Telenor 4G, A1 4G",BG,BG_3_15,CKH206,5.39,Bulgaria,2.2,145
+Single 1️⃣,Full Speed,Bulgaria,Bulgaria 3GB 30Days,2.3,3,30,180,API,yes,"BG - Vivacom 5G, Telenor 4G, A1 4G",BG,BG_3_30,CKH078,5.64,Bulgaria,2.3,145
+Single 1️⃣,Full Speed,Bulgaria,Bulgaria 5GB 30Days,3.2,5,30,180,API,yes,"BG - Vivacom 5G, Telenor 4G, A1 4G",BG,BG_5_30,CKH117,7.84,Bulgaria,3.2,145
+Single 1️⃣,Full Speed,Bulgaria,Bulgaria 10GB 30Days,6.1,10,30,180,API,yes,"BG - Vivacom 5G, Telenor 4G, A1 4G",BG,BG_10_30,CKH207,14.94,Bulgaria,6.1,145
+Single 1️⃣,Full Speed,Bulgaria,Bulgaria 20GB 30Days,11.9,20,30,180,API,yes,"BG - Vivacom 5G, Telenor 4G, A1 4G",BG,BG_20_30,CKH718,29.16,Bulgaria,11.9,145
+Single 1️⃣,Full Speed,Bulgaria,Bulgaria 50GB 180Days,30,50,180,180,API,yes,"BG - Vivacom 5G, Telenor 4G, A1 4G",BG,BG_50_180,PQQINSIX3,73.5,Bulgaria,30,145
+Single 1️⃣,Full Speed,Bulgaria,Bulgaria 50GB 30Days,36,50,30,180,API,no,"BG - Vivacom 5G, Telenor 4G, A1 4G",BG,BG_50_30,CKH719,88.2,Bulgaria,36,145
+Single 1️⃣,Full Speed,Burkina Faso,Burkina Faso 1GB 7Days,7.1,1,7,180,API,yes,BF - Orange 5G,BF,BF_1_7,CKH521,9.23,Burkina Faso,7.1,30
+Single 1️⃣,Full Speed,Burkina Faso,Burkina Faso 3GB 15Days,17.6,3,15,180,API,yes,BF - Orange 5G,BF,BF_3_15,CKH572,22.88,Burkina Faso,17.6,30
+Single 1️⃣,Full Speed,Burkina Faso,Burkina Faso 5GB 30Days,26,5,30,180,API,yes,BF - Orange 5G,BF,BF_5_30,CKH573,33.8,Burkina Faso,26,30
+Single 1️⃣,Full Speed,Cambodia,Cambodia 100MB 7Days,0.3,0.1,7,180,API,yes,KH - Smart 4G,KH,KH_0.1_7,P04JLSJF8,0.44,Cambodia,0.3,45
+Single 1️⃣,Full Speed,Cambodia,Cambodia 500MB 7Days,1.3,0.5,7,180,API,yes,KH - Smart 4G,KH,KH_0.5_7,P8X892WLZ,1.88,Cambodia,1.3,45
+Single 1️⃣,Full Speed,Cambodia,Cambodia 1GB 7Days,2.3,1,7,180,API,yes,KH - Smart 4G,KH,KH_1_7,JC109,3.33,Cambodia,2.3,45
+Single 1️⃣,Full Speed,Cambodia,Cambodia 3GB 15Days,5.7,3,15,180,API,yes,KH - Smart 4G,KH,KH_3_15,JC115,8.26,Cambodia,5.7,45
+Single 1️⃣,Full Speed,Cambodia,Cambodia 3GB 30Days,5.8,3,30,180,API,yes,KH - Smart 4G,KH,KH_3_30,PKP0J85GD,8.41,Cambodia,5.8,45
+Single 1️⃣,Full Speed,Cambodia,Cambodia 5GB 30Days,7.5,5,30,180,API,yes,KH - Smart 4G,KH,KH_5_30,JC116,10.88,Cambodia,7.5,45
+Single 1️⃣,Full Speed,Cambodia,Cambodia 10GB 30Days,15.2,10,30,180,API,yes,KH - Smart 4G,KH,KH_10_30,JC149,22.04,Cambodia,15.2,45
+Single 1️⃣,Full Speed,Cambodia,Cambodia 20GB 30Days,25,20,30,180,API,yes,KH - Smart 4G,KH,KH_20_30,JC150,36.25,Cambodia,25,45
+Single 1️⃣,Full Speed,Cameroon,Cameroon 1GB 7Days,7.1,1,7,180,API,yes,"CM - Orange 5G, MTN Cameroon 5G",CM,CM_1_7,CKH526,9.23,Cameroon,7.1,30
+Single 1️⃣,Full Speed,Cameroon,Cameroon 3GB 15Days,17.6,3,15,180,API,yes,"CM - Orange 5G, MTN Cameroon 5G",CM,CM_3_15,CKH575,22.88,Cameroon,17.6,30
+Single 1️⃣,Full Speed,Canada,Canada 100MB 7Days,0.3,0.1,7,180,API,yes,CA - Rogers Wireless 5G,CA,CA_0.1_7,PT73ZDYVK,0.79,Canada,0.3,164
+Single 1️⃣,Full Speed,Canada,Canada 500MB 7Days,0.8,0.5,7,180,API,yes,CA - Rogers Wireless 5G,CA,CA_0.5_7,PIORZG0R5,2.11,Canada,0.8,164
+Single 1️⃣,Full Speed,Canada,Canada 1GB 7Days,1.5,1,7,180,API,yes,CA - Rogers Wireless 5G,CA,CA_1_7,CKH516,3.96,Canada,1.5,164
+Single 1️⃣,Full Speed,Canada,Canada 3GB 15Days,3.7,3,15,180,API,yes,CA - Rogers Wireless 5G,CA,CA_3_15,CKH578,9.77,Canada,3.7,164
+Single 1️⃣,Full Speed,Canada,Canada 3GB 30Days,3.8,3,30,180,API,yes,CA - Rogers Wireless 5G,CA,CA_3_30,PJYU684PF,10.03,Canada,3.8,164
+Single 1️⃣,Full Speed,Canada,Canada 5GB 30Days,5.7,5,30,180,API,yes,CA - Rogers Wireless 5G,CA,CA_5_30,CKH579,15.05,Canada,5.7,164
+Single 1️⃣,Full Speed,Canada,Canada 10GB 30Days,9.9,10,30,180,API,yes,CA - Rogers Wireless 5G,CA,CA_10_30,CKH778,26.14,Canada,9.9,164
+Single 1️⃣,Full Speed,Canada,Canada 20GB 30Days,16.8,20,30,180,API,yes,CA - Rogers Wireless 5G,CA,CA_20_30,CKH779,44.35,Canada,16.8,164
+Single 1️⃣,Full Speed,Central African Republic,Central African Republic 1GB 7Days,7.1,1,7,180,API,yes,CF - Orange 5G,CF,CF_1_7,CKH370,9.23,Central African Republic,7.1,30
+Single 1️⃣,Full Speed,Central African Republic,Central African Republic 3GB 15Days,17.6,3,15,180,API,yes,CF - Orange 5G,CF,CF_3_15,CKH399,22.88,Central African Republic,17.6,30
+Single 1️⃣,Full Speed,Central African Republic,Central African Republic 5GB 30Days,26,5,30,180,API,yes,CF - Orange 5G,CF,CF_5_30,CKH428,33.8,Central African Republic,26,30
+Single 1️⃣,Full Speed,Chad,Chad 1GB 7Days,5.7,1,7,180,no,yes,TD - Airtel 4G,TD,TD_1_7,CKH371,7.41,Chad,5.7,30
+Single 1️⃣,Full Speed,Chad,Chad 3GB 15Days,14.1,3,15,180,no,yes,TD - Airtel 4G,TD,TD_3_15,CKH400,18.33,Chad,14.1,30
+Single 1️⃣,Full Speed,Chad,Chad 3GB 30Days,14.4,3,30,180,no,no,TD - Airtel 4G,TD,TD_3_30,PINU8CQ2D,18.72,Chad,14.4,30
+Single 1️⃣,Full Speed,Chad,Chad 5GB 30Days,21,5,30,180,no,yes,TD - Airtel 4G,TD,TD_5_30,CKH429,27.3,Chad,21,30
+Single 1️⃣,Full Speed,Chile,Chile 100MB 7Days,0.57,0.1,7,180,API,yes,"CL - entel 5G, movistar 5G, WOM 5G",CL,CL_0.1_7,PMQYGG8GO,0.74,Chile,0.57,30
+Single 1️⃣,Full Speed,Chile,Chile 500MB 7Days,3.1,0.5,7,180,API,yes,"CL - entel 5G, movistar 5G, WOM 5G",CL,CL_0.5_7,PPOB1J6C1,4.03,Chile,3.1,30
+Single 1️⃣,Full Speed,Chile,Chile 1GB 7Days,5.7,1,7,180,API,yes,"CL - entel 5G, movistar 5G, WOM 5G",CL,CL_1_7,CKH302,7.41,Chile,5.7,30
+Single 1️⃣,Full Speed,Chile,Chile 3GB 15Days,14.1,3,15,180,API,yes,"CL - entel 5G, movistar 5G, WOM 5G",CL,CL_3_15,CKH318,18.33,Chile,14.1,30
+Single 1️⃣,Full Speed,Chile,Chile 3GB 30Days,14.4,3,30,180,API,yes,"CL - entel 5G, movistar 5G, WOM 5G",CL,CL_3_30,PE362ZII0,18.72,Chile,14.4,30
+Single 1️⃣,Full Speed,Chile,Chile 5GB 30Days,21,5,30,180,API,yes,"CL - entel 5G, movistar 5G, WOM 5G",CL,CL_5_30,CKH334,27.3,Chile,21,30
+Single 1️⃣,Full Speed,Chile,Chile 10GB 30Days,37,10,30,180,API,yes,"CL - entel 5G, movistar 5G, WOM 5G",CL,CL_10_30,CKH350,48.1,Chile,37,30
+Single 1️⃣,Full Speed,Chile,Chile 20GB 30Days,63,20,30,180,API,yes,"CL - entel 5G, movistar 5G, WOM 5G",CL,CL_20_30,CKH875,81.9,Chile,63,30
+Single 1️⃣,Full Speed,China mainland,China mainland 100MB 7Days,0.3,0.1,7,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_0.1_7,PLSSSXN2L,1.34,China mainland,0.3,345
+Single 1️⃣,Full Speed,China mainland,China mainland 500MB 7Days,0.4,0.5,7,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_0.5_7,PW9DB7WEK,1.78,China mainland,0.4,345
+Single 1️⃣,Full Speed,China mainland,China 1GB 7Days,0.7,1,7,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_1_7,JC052,3.12,China mainland,0.7,345
+Single 1️⃣,Full Speed,China mainland,China mainland 1GB 7Days (nonhkip),1.01,1,7,180,API,yes,CN - China Mobile 5G,CN,CN_1_7_nonhkip,PW3XK1K7U,4.49,China mainland,1.01,345
+Single 1️⃣,Full Speed,China mainland,China 3GB 15Days,1.7,3,15,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_3_15,JC053,7.56,China mainland,1.7,345
+Single 1️⃣,Full Speed,China mainland,China 3GB 30Days,1.8,3,30,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_3_30,P0R7HML2W,8.01,China mainland,1.8,345
+Single 1️⃣,Full Speed,China mainland,China mainland 3GB 15Days (nonhkip),2.42,3,15,180,API,yes,CN - China Mobile 5G,CN,CN_3_15_nonhkip,PG2YTC5T6,10.77,China mainland,2.42,345
+Single 1️⃣,Full Speed,China mainland,China 5GB 30Days,2.7,5,30,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_5_30,JC054,12.02,China mainland,2.7,345
+Single 1️⃣,Full Speed,China mainland,China mainland 5GB 30Days (nonhkip),3.52,5,30,180,API,yes,CN - China Mobile 5G,CN,CN_5_30_nonhkip,PJ21HG5FJ,15.66,China mainland,3.52,345
+Single 1️⃣,Full Speed,China mainland,China 10GB 30Days,4.7,10,30,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_10_30,JC055,20.92,China mainland,4.7,345
+Single 1️⃣,Full Speed,China mainland,China mainland 10GB 30Days (nonhkip),6.78,10,30,180,API,yes,CN - China Mobile 5G,CN,CN_10_30_nonhkip,PYEJ62J8F,30.17,China mainland,6.78,345
+Single 1️⃣,Full Speed,China mainland,China 20GB 30Days,8.2,20,30,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_20_30,JC090,36.49,China mainland,8.2,345
+Single 1️⃣,Full Speed,China mainland,China mainland 20GB 30Days (nonhkip),13.81,20,30,180,API,yes,CN - China Mobile 5G,CN,CN_20_30_nonhkip,P0XPU6NY1,61.45,China mainland,13.81,345
+Single 1️⃣,Full Speed,China mainland,China 50GB 30Days,17,50,30,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_50_30,JC091,75.65,China mainland,17,345
+Single 1️⃣,Full Speed,China mainland,China 50GB 180Days,28,50,180,180,no,yes,"CN - China Unicom 5G, China Mobile 5G, China Telecom 4G",CN,CN_50_180,PXI7MA5MW,124.6,China mainland,28,345
+Single 1️⃣,Full Speed,China mainland,China mainland 50GB 30Days (nonhkip),28.6,50,30,180,API,yes,CN - China Mobile 5G,CN,CN_50_30_nonhkip,PS30ZAQ7S,127.27,China mainland,28.6,345
+Single 1️⃣,Full Speed,Colombia,Colombia 100MB 7Days,0.56,0.1,7,180,no,yes,CO - movistar 5G,CO,CO_0.1_7,PPHO2UDYS,0.74,Colombia,0.56,32
+Single 1️⃣,Full Speed,Colombia,Colombia 500MB 7Days,1.58,0.5,7,180,no,yes,CO - movistar 5G,CO,CO_0.5_7,PB36IRVNM,2.09,Colombia,1.58,32
+Single 1️⃣,Full Speed,Colombia,Colombia 1GB 7Days,2.65,1,7,180,no,yes,CO - movistar 5G,CO,CO_1_7,CKH303,3.5,Colombia,2.65,32
+Single 1️⃣,Full Speed,Colombia,Colombia 3GB 15Days,6.9,3,15,180,no,yes,CO - movistar 5G,CO,CO_3_15,CKH319,9.11,Colombia,6.9,32
+Single 1️⃣,Full Speed,Colombia,Colombia 3GB 30Days,7,3,30,180,no,yes,CO - movistar 5G,CO,CO_3_30,PHX3BYM8E,9.24,Colombia,7,32
+Single 1️⃣,Full Speed,Colombia,Colombia 5GB 30Days,11.2,5,30,180,no,yes,CO - movistar 5G,CO,CO_5_30,CKH335,14.78,Colombia,11.2,32
+Single 1️⃣,Full Speed,Colombia,Colombia 10GB 30Days,19.5,10,30,180,no,yes,CO - movistar 5G,CO,CO_10_30,CKH351,25.74,Colombia,19.5,32
+Single 1️⃣,Full Speed,Colombia,Colombia 20GB 30Days,37,20,30,180,no,yes,CO - movistar 5G,CO,CO_20_30,CKH877,48.84,Colombia,37,32
+Single 1️⃣,Full Speed,Costa Rica,Costa Rica 1GB 7Days,4.6,1,7,180,API,yes,"CR - Claro 5G, movistar 5G",CR,CR_1_7,CKH304,6.95,Costa Rica,4.6,51
+Single 1️⃣,Full Speed,Costa Rica,Costa Rica 3GB 15Days,11.2,3,15,180,API,yes,"CR - Claro 5G, movistar 5G",CR,CR_3_15,CKH320,16.91,Costa Rica,11.2,51
+Single 1️⃣,Full Speed,Costa Rica,Costa Rica 3GB 30Days,11.4,3,30,180,API,yes,"CR - Claro 5G, movistar 5G",CR,CR_3_30,PGHZVEQV6,17.21,Costa Rica,11.4,51
+Single 1️⃣,Full Speed,Costa Rica,Costa Rica 5GB 30Days,17.1,5,30,180,API,yes,"CR - Claro 5G, movistar 5G",CR,CR_5_30,CKH336,25.82,Costa Rica,17.1,51
+Single 1️⃣,Full Speed,Costa Rica,Costa Rica 10GB 30Days,29,10,30,180,API,yes,"CR - Claro 5G, movistar 5G",CR,CR_10_30,CKH352,43.79,Costa Rica,29,51
+Single 1️⃣,Full Speed,Costa Rica,Costa Rica 20GB 30Days,50,20,30,180,API,yes,"CR - Claro 5G, movistar 5G",CR,CR_20_30,CKH940,75.5,Costa Rica,50,51
+Single 1️⃣,Full Speed,Cote d'Ivoire,Cote d'Ivoire 1GB 7Days,7.1,1,7,180,API,yes,CI - Orange 5G,CI,CI_1_7,CKH374,9.23,Cote d'Ivoire,7.1,30
+Single 1️⃣,Full Speed,Cote d'Ivoire,Cote d'Ivoire 3GB 15Days,17.6,3,15,180,API,yes,CI - Orange 5G,CI,CI_3_15,CKH403,22.88,Cote d'Ivoire,17.6,30
+Single 1️⃣,Full Speed,Cote d'Ivoire,Cote d'Ivoire 5GB 30Days,26,5,30,180,API,yes,CI - Orange 5G,CI,CI_5_30,CKH432,33.8,Cote d'Ivoire,26,30
+Single 1️⃣,Full Speed,Croatia,Croatia 1GB 7Days,0.9,1,7,180,API,yes,"HR - Tele2 5G, A1 5G",HR,HR_1_7,CKH160,2.87,Croatia,0.9,219
+Single 1️⃣,Full Speed,Croatia,Croatia 3GB 15Days,2.2,3,15,180,API,yes,"HR - Tele2 5G, A1 5G",HR,HR_3_15,CKH161,7.02,Croatia,2.2,219
+Single 1️⃣,Full Speed,Croatia,Croatia 3GB 30Days,2.3,3,30,180,API,yes,"HR - Tele2 5G, A1 5G",HR,HR_3_30,CKH079,7.34,Croatia,2.3,219
+Single 1️⃣,Full Speed,Croatia,Croatia 5GB 30Days,3.4,5,30,180,API,yes,"HR - Tele2 5G, A1 5G",HR,HR_5_30,CKH118,10.85,Croatia,3.4,219
+Single 1️⃣,Full Speed,Croatia,Croatia 10GB 30Days,6.1,10,30,180,API,yes,"HR - Tele2 5G, A1 5G",HR,HR_10_30,CKH162,19.46,Croatia,6.1,219
+Single 1️⃣,Full Speed,Croatia,Croatia 20GB 30Days,9.6,20,30,180,API,yes,"HR - Tele2 5G, A1 5G",HR,HR_20_30,CKH539,30.62,Croatia,9.6,219
+Single 1️⃣,Full Speed,Croatia,Croatia 50GB 180Days,28,50,180,180,API,yes,"HR - Tele2 5G, A1 5G",HR,HR_50_180,PQCZMPBQD,89.32,Croatia,28,219
+Single 1️⃣,Full Speed,Cyprus,Cyprus 1GB 7Days,0.9,1,7,180,API,yes,"CY - Vodafone 5G, Epic 5G, PrimeTel 5G",CY,CY_1_7,CKH208,2.48,Cyprus,0.9,176
+Single 1️⃣,Full Speed,Cyprus,Cyprus 3GB 15Days,2.2,3,15,180,API,yes,"CY - Vodafone 5G, Epic 5G, PrimeTel 5G",CY,CY_3_15,CKH209,6.07,Cyprus,2.2,176
+Single 1️⃣,Full Speed,Cyprus,Cyprus 3GB 30Days,2.3,3,30,180,API,yes,"CY - Vodafone 5G, Epic 5G, PrimeTel 5G",CY,CY_3_30,CKH080,6.35,Cyprus,2.3,176
+Single 1️⃣,Full Speed,Cyprus,Cyprus 5GB 30Days,3.4,5,30,180,API,yes,"CY - Vodafone 5G, Epic 5G, PrimeTel 5G",CY,CY_5_30,CKH119,9.38,Cyprus,3.4,176
+Single 1️⃣,Full Speed,Cyprus,Cyprus 10GB 30Days,6.1,10,30,180,API,yes,"CY - Vodafone 5G, Epic 5G, PrimeTel 5G",CY,CY_10_30,CKH210,16.84,Cyprus,6.1,176
+Single 1️⃣,Full Speed,Cyprus,Cyprus 20GB 30Days,11.8,20,30,180,API,yes,"CY - Vodafone 5G, Epic 5G, PrimeTel 5G",CY,CY_20_30,CKH708,32.57,Cyprus,11.8,176
+Single 1️⃣,Full Speed,Cyprus,Cyprus 50GB 180Days,30,50,180,180,API,yes,"CY - Vodafone 5G, Epic 5G, PrimeTel 5G",CY,CY_50_180,PXHQDYUBO,82.8,Cyprus,30,176
+Single 1️⃣,Full Speed,Czech Republic,Czech Republic 1GB 7Days,0.9,1,7,180,API,yes,"CZ - Vodafone 5G, O2 5G",CZ,CZ_1_7,CKH163,2.33,Czech Republic,0.9,159
+Single 1️⃣,Full Speed,Czech Republic,Czech Republic 3GB 15Days,2.2,3,15,180,API,yes,"CZ - Vodafone 5G, O2 5G",CZ,CZ_3_15,CKH164,5.7,Czech Republic,2.2,159
+Single 1️⃣,Full Speed,Czech Republic,Czech Republic 3GB 30Days,2.3,3,30,180,API,yes,"CZ - Vodafone 5G, O2 5G",CZ,CZ_3_30,CKH081,5.96,Czech Republic,2.3,159
+Single 1️⃣,Full Speed,Czech Republic,Czech Republic 5GB 30Days,3.4,5,30,180,API,yes,"CZ - Vodafone 5G, O2 5G",CZ,CZ_5_30,CKH120,8.81,Czech Republic,3.4,159
+Single 1️⃣,Full Speed,Czech Republic,Czech Republic 10GB 30Days,6.1,10,30,180,API,yes,"CZ - Vodafone 5G, O2 5G",CZ,CZ_10_30,CKH165,15.8,Czech Republic,6.1,159
+Single 1️⃣,Full Speed,Czech Republic,Czech Republic 20GB 30Days,9.9,20,30,180,API,yes,"CZ - Vodafone 5G, O2 5G",CZ,CZ_20_30,CKH541,25.64,Czech Republic,9.9,159
+Single 1️⃣,Full Speed,Czech Republic,Czech Republic 50GB 180Days,30,50,180,180,API,yes,"CZ - Vodafone 5G, O2 5G",CZ,CZ_50_180,PVFLCUSP6,77.7,Czech Republic,30,159
+Single 1️⃣,Full Speed,Denmark,Denmark 1GB 7Days,0.9,1,7,180,API,yes,"DK - 3 5G, Telia 5G, TDC 5G, Telenor 5G",DK,DK_1_7,CKH166,2.84,Denmark,0.9,216
+Single 1️⃣,Full Speed,Denmark,Denmark 3GB 15Days,2.2,3,15,180,API,yes,"DK - 3 5G, Telia 5G, TDC 5G, Telenor 5G",DK,DK_3_15,CKH167,6.95,Denmark,2.2,216
+Single 1️⃣,Full Speed,Denmark,Denmark 3GB 30Days,2.3,3,30,180,API,yes,"DK - 3 5G, Telia 5G, TDC 5G, Telenor 5G",DK,DK_3_30,CKH082,7.27,Denmark,2.3,216
+Single 1️⃣,Full Speed,Denmark,Denmark 5GB 30Days,3.4,5,30,180,API,yes,"DK - 3 5G, Telia 5G, TDC 5G, Telenor 5G",DK,DK_5_30,CKH121,10.74,Denmark,3.4,216
+Single 1️⃣,Full Speed,Denmark,Denmark 10GB 30Days,6.1,10,30,180,API,yes,"DK - 3 5G, Telia 5G, TDC 5G, Telenor 5G",DK,DK_10_30,CKH168,19.28,Denmark,6.1,216
+Single 1️⃣,Full Speed,Denmark,Denmark 20GB 30Days,9.6,20,30,180,API,yes,"DK - 3 5G, Telia 5G, TDC 5G, Telenor 5G",DK,DK_20_30,CKH543,30.34,Denmark,9.6,216
+Single 1️⃣,Full Speed,Denmark,Denmark 50GB 180Days,22,50,180,180,API,yes,"DK - 3 5G, Telia 5G, TDC 5G, Telenor 5G",DK,DK_50_180,PJJEKFZJ0,69.52,Denmark,22,216
+Single 1️⃣,Full Speed,Dominican Republic,Dominican Republic 100MB 7Days,0.58,0.1,7,180,API,yes,DO - Altice 3G,DO,DO_0.1_7,PSW0PJJ42,0.75,Dominican Republic,0.58,30
+Single 1️⃣,Full Speed,Dominican Republic,Dominican Republic 500MB 7Days,3.1,0.5,7,180,API,yes,DO - Altice 3G,DO,DO_0.5_7,P1P67TYB0,4.03,Dominican Republic,3.1,30
+Single 1️⃣,Full Speed,Dominican Republic,Dominican Republic 1GB 7Days,5.7,1,7,180,API,yes,DO - Altice 3G,DO,DO_1_7,JC158,7.41,Dominican Republic,5.7,30
+Single 1️⃣,Full Speed,Dominican Republic,Dominican Republic 3GB 15Days,14.1,3,15,180,API,yes,DO - Altice 3G,DO,DO_3_15,JC159,18.33,Dominican Republic,14.1,30
+Single 1️⃣,Full Speed,Dominican Republic,Dominican Republic 3GB 30Days,14.2,3,30,180,API,yes,DO - Altice 3G,DO,DO_3_30,PVH90GG32,18.46,Dominican Republic,14.2,30
+Single 1️⃣,Full Speed,Dominican Republic,Dominican Republic 5GB 30Days,21,5,30,180,API,yes,DO - Altice 3G,DO,DO_5_30,JC160,27.3,Dominican Republic,21,30
+Single 1️⃣,Full Speed,Dominican Republic,Dominican Republic 10GB 30Days,40,10,30,180,API,yes,DO - Altice 3G,DO,DO_10_30,JC161,52,Dominican Republic,40,30
+Single 1️⃣,Full Speed,Dominican Republic,Dominican Republic 20GB 30Days,63,20,30,180,API,yes,DO - Altice 3G,DO,DO_20_30,JC162,81.9,Dominican Republic,63,30
+Single 1️⃣,Full Speed,Ecuador,Ecuador 1GB 7Days,4.6,1,7,180,API,yes,EC - Movistar 5G,EC,EC_1_7,CKH305,5.98,Ecuador,4.6,30
+Single 1️⃣,Full Speed,Ecuador,Ecuador 3GB 15Days,11.2,3,15,180,API,yes,EC - Movistar 5G,EC,EC_3_15,CKH321,14.56,Ecuador,11.2,30
+Single 1️⃣,Full Speed,Egypt,Egypt 100MB 7Days,0.3,0.1,7,180,API,yes,EG - Orange 5G,EG,EG_0.1_7,PXG3YL37H,0.84,Egypt,0.3,180
+Single 1️⃣,Full Speed,Egypt,Egypt 500MB 7Days,1,0.5,7,180,API,yes,EG - Orange 5G,EG,EG_0.5_7,PA9ETM2M0,2.8,Egypt,1,180
+Single 1️⃣,Full Speed,Egypt,Egypt 1GB 7Days,1.8,1,7,180,API,yes,EG - Orange 5G,EG,EG_1_7,MB024,5.04,Egypt,1.8,180
+Single 1️⃣,Full Speed,Egypt,Egypt 3GB 15Days,4.6,3,15,180,API,yes,EG - Orange 5G,EG,EG_3_15,MB029,12.88,Egypt,4.6,180
+Single 1️⃣,Full Speed,Egypt,Egypt 3GB 30Days,4.7,3,30,180,API,yes,EG - Orange 5G,EG,EG_3_30,PNLOUKFKT,13.16,Egypt,4.7,180
+Single 1️⃣,Full Speed,Egypt,Egypt 5GB 30Days,8.8,5,30,180,API,yes,EG - Orange 5G,EG,EG_5_30,MB034,24.64,Egypt,8.8,180
+Single 1️⃣,Full Speed,Egypt,Egypt 10GB 30Days,12.2,10,30,180,API,yes,EG - Orange 5G,EG,EG_10_30,MB039,34.16,Egypt,12.2,180
+Single 1️⃣,Full Speed,Egypt,Egypt 20GB 30Days,21,20,30,180,API,yes,EG - Orange 5G,EG,EG_20_30,PIXA8CXUL,58.8,Egypt,21,180
+Single 1️⃣,Full Speed,El Salvador,El Salvador 100MB 7Days,0.57,0.1,7,180,API,yes,"SV - Digicel 4G, Tigo 4G, movistar 4G, Claro 4G",SV,SV_0.1_7,P5LC2VD5D,0.74,El Salvador,0.57,30
+Single 1️⃣,Full Speed,El Salvador,El Salvador 500MB 7Days,3.1,0.5,7,180,API,yes,"SV - Digicel 4G, Tigo 4G, movistar 4G, Claro 4G",SV,SV_0.5_7,PNPJOTSWS,4.03,El Salvador,3.1,30
+Single 1️⃣,Full Speed,El Salvador,El Salvador 1GB 7Days,5.7,1,7,180,API,yes,"SV - Digicel 4G, Tigo 4G, movistar 4G, Claro 4G",SV,SV_1_7,CKH306,7.41,El Salvador,5.7,30
+Single 1️⃣,Full Speed,El Salvador,El Salvador 3GB 15Days,14.1,3,15,180,API,yes,"SV - Digicel 4G, Tigo 4G, movistar 4G, Claro 4G",SV,SV_3_15,CKH322,18.33,El Salvador,14.1,30
+Single 1️⃣,Full Speed,Estonia,Estonia 1GB 7Days,0.9,1,7,180,API,yes,"EE - Telia 5G, Elisa 5G, Tele2 5G",EE,EE_1_7,CKH211,2.73,Estonia,0.9,203
+Single 1️⃣,Full Speed,Estonia,Estonia 3GB 15Days,2.2,3,15,180,API,yes,"EE - Telia 5G, Elisa 5G, Tele2 5G",EE,EE_3_15,CKH212,6.67,Estonia,2.2,203
+Single 1️⃣,Full Speed,Estonia,Estonia 3GB 30Days,2.3,3,30,180,API,yes,"EE - Telia 5G, Elisa 5G, Tele2 5G",EE,EE_3_30,CKH083,6.97,Estonia,2.3,203
+Single 1️⃣,Full Speed,Estonia,Estonia 5GB 30Days,3.4,5,30,180,API,yes,"EE - Telia 5G, Elisa 5G, Tele2 5G",EE,EE_5_30,CKH122,10.3,Estonia,3.4,203
+Single 1️⃣,Full Speed,Estonia,Estonia 10GB 30Days,6.1,10,30,180,API,yes,"EE - Telia 5G, Elisa 5G, Tele2 5G",EE,EE_10_30,CKH213,18.48,Estonia,6.1,203
+Single 1️⃣,Full Speed,Estonia,Estonia 20GB 30Days,10.6,20,30,180,API,yes,"EE - Telia 5G, Elisa 5G, Tele2 5G",EE,EE_20_30,CKH710,32.12,Estonia,10.6,203
+Single 1️⃣,Full Speed,Estonia,Estonia 50GB 180Days,30,50,180,180,API,yes,"EE - Telia 5G, Elisa 5G, Tele2 5G",EE,EE_50_180,PF1EBHZY5,90.9,Estonia,30,203
+Single 1️⃣,Full Speed,Eswatini,Eswatini 1GB 7Days,7.1,1,7,180,API,yes,"SZ - Swazi Mobile 5G, Swazi MTN 5G",SZ,SZ_1_7,CKH389,9.23,Eswatini,7.1,30
+Single 1️⃣,Full Speed,Eswatini,Eswatini 3GB 15Days,17.6,3,15,180,API,yes,"SZ - Swazi Mobile 5G, Swazi MTN 5G",SZ,SZ_3_15,CKH418,22.88,Eswatini,17.6,30
+Single 1️⃣,Full Speed,Finland,Finland 1GB 7Days,0.7,1,7,180,API,yes,"FI - Elisa 5G, Telia 5G, Telia / DNA 5G, DNA 4G",FI,FI_1_7,CKH214,2.44,Finland,0.7,249
+Single 1️⃣,Full Speed,Finland,Finland 3GB 15Days,1.7,3,15,180,API,yes,"FI - Elisa 5G, Telia 5G, Telia / DNA 5G, DNA 4G",FI,FI_3_15,CKH215,5.93,Finland,1.7,249
+Single 1️⃣,Full Speed,Finland,Finland 3GB 30Days,1.8,3,30,180,API,yes,"FI - Elisa 5G, Telia 5G, Telia / DNA 5G, DNA 4G",FI,FI_3_30,CKH084,6.28,Finland,1.8,249
+Single 1️⃣,Full Speed,Finland,Finland 5GB 30Days,2.7,5,30,180,API,yes,"FI - Elisa 5G, Telia 5G, Telia / DNA 5G, DNA 4G",FI,FI_5_30,CKH123,9.42,Finland,2.7,249
+Single 1️⃣,Full Speed,Finland,Finland 10GB 30Days,4.7,10,30,180,API,yes,"FI - Elisa 5G, Telia 5G, Telia / DNA 5G, DNA 4G",FI,FI_10_30,CKH216,16.4,Finland,4.7,249
+Single 1️⃣,Full Speed,Finland,Finland 20GB 30Days,9,20,30,180,API,yes,"FI - Elisa 5G, Telia 5G, Telia / DNA 5G, DNA 4G",FI,FI_20_30,CKH712,31.41,Finland,9,249
+Single 1️⃣,Full Speed,Finland,Finland 50GB 180Days,28,50,180,180,API,yes,"FI - Elisa 5G, Telia 5G, Telia / DNA 5G, DNA 4G",FI,FI_50_180,PU4UANEPA,97.72,Finland,28,249
+Single 1️⃣,Full Speed,France,France 100MB 7Days,0.3,0.1,7,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_0.1_7,PJSV39OVZ,1.1,France,0.3,265
+Single 1️⃣,Full Speed,France,France 1GB 7Days,0.7,1,7,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_1_7,CKH990,2.55,France,0.7,265
+Single 1️⃣,Full Speed,France,France 3GB 15Days,1.7,3,15,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_3_15,CKH991,6.2,France,1.7,265
+Single 1️⃣,Full Speed,France,France 3GB 30Days,1.8,3,30,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_3_30,CKH977,6.57,France,1.8,265
+Single 1️⃣,Full Speed,France,France 5GB 30Days,2.7,5,30,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_5_30,CKH983,9.86,France,2.7,265
+Single 1️⃣,Full Speed,France,France 10GB 30Days,4.7,10,30,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_10_30,CKH992,17.16,France,4.7,265
+Single 1️⃣,Full Speed,France,France 20GB 30Days,8.2,20,30,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_20_30,CKH1005,29.93,France,8.2,265
+Single 1️⃣,Full Speed,France,France 50GB 30Days,17,50,30,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_50_30,CKH1006,62.05,France,17,265
+Single 1️⃣,Full Speed,France,France 50GB 180Days,22,50,180,180,API,yes,"FR - SFR 5G, Bouygues 5G, Free Mobile 5G",FR,FR_50_180,P5ML89XJG,80.3,France,22,265
+Single 1️⃣,Full Speed,Gabon,Gabon 1GB 7Days,4.6,1,7,180,API,yes,GA - Airtel 5G,GA,GA_1_7,CKH376,5.98,Gabon,4.6,30
+Single 1️⃣,Full Speed,Gabon,Gabon 3GB 15Days,11.2,3,15,180,API,yes,GA - Airtel 5G,GA,GA_3_15,CKH405,14.56,Gabon,11.2,30
+Single 1️⃣,Full Speed,Georgia,Georgia 1GB 7Days,1.5,1,7,180,no,yes,GE - Geocell 4G,GE,GE_1_7,CKH511,3.96,Georgia,1.5,164
+Single 1️⃣,Full Speed,Georgia,Georgia 3GB 15Days,3.7,3,15,180,no,yes,GE - Geocell 4G,GE,GE_3_15,CKH601,9.77,Georgia,3.7,164
+Single 1️⃣,Full Speed,Georgia,Georgia 3GB 30Days,3.8,3,30,180,no,yes,GE - Geocell 4G,GE,GE_3_30,CKH970,10.03,Georgia,3.8,164
+Single 1️⃣,Full Speed,Georgia,Georgia 5GB 30Days,5.7,5,30,180,no,yes,GE - Geocell 4G,GE,GE_5_30,CKH602,15.05,Georgia,5.7,164
+Single 1️⃣,Full Speed,Georgia,Georgia 10GB 30Days,11,10,30,180,no,yes,GE - Geocell 4G,GE,GE_10_30,CKH742,29.04,Georgia,11,164
+Single 1️⃣,Full Speed,Georgia,Georgia 20GB 30Days,16.8,20,30,180,no,yes,GE - Geocell 4G,GE,GE_20_30,CKH743,44.35,Georgia,16.8,164
+Single 1️⃣,Full Speed,Germany,Germany 1GB 7Days,0.7,1,7,180,API,yes,"DE - Vodafone 5G, O2 5G",DE,DE_1_7,CKH993,2.7,Germany,0.7,286
+Single 1️⃣,Full Speed,Germany,Germany 3GB 15Days,1.7,3,15,180,API,yes,"DE - Vodafone 5G, O2 5G",DE,DE_3_15,CKH994,6.56,Germany,1.7,286
+Single 1️⃣,Full Speed,Germany,Germany 3GB 30Days,1.8,3,30,180,API,yes,"DE - Vodafone 5G, O2 5G",DE,DE_3_30,CKH978,6.95,Germany,1.8,286
+Single 1️⃣,Full Speed,Germany,Germany 5GB 30Days,2.7,5,30,180,API,yes,"DE - Vodafone 5G, O2 5G",DE,DE_5_30,CKH984,10.42,Germany,2.7,286
+Single 1️⃣,Full Speed,Germany,Germany 10GB 30Days,4.7,10,30,180,API,yes,"DE - Vodafone 5G, O2 5G",DE,DE_10_30,CKH995,18.14,Germany,4.7,286
+Single 1️⃣,Full Speed,Germany,Germany 20GB 30Days,8.2,20,30,180,API,yes,"DE - Vodafone 5G, O2 5G",DE,DE_20_30,CKH1013,31.65,Germany,8.2,286
+Single 1️⃣,Full Speed,Germany,Germany 50GB 30Days,17,50,30,180,API,yes,"DE - Vodafone 5G, O2 5G",DE,DE_50_30,CKH1014,65.62,Germany,17,286
+Single 1️⃣,Full Speed,Germany,Germany 50GB 180Days,22,50,180,180,API,yes,"DE - Vodafone 5G, O2 5G",DE,DE_50_180,PMDYU8KU3,84.92,Germany,22,286
+Single 1️⃣,Full Speed,Gibraltar,Gibraltar 1GB 7Days,2.9,1,7,180,API,yes,GI - GibTel 5G,GI,GI_1_7,CKH481,3.89,Gibraltar,2.9,34
+Single 1️⃣,Full Speed,Gibraltar,Gibraltar 3GB 15Days,7.2,3,15,180,API,yes,GI - GibTel 5G,GI,GI_3_15,CKH482,9.65,Gibraltar,7.2,34
+Single 1️⃣,Full Speed,Gibraltar,Gibraltar 3GB 30Days,7.3,3,30,180,API,yes,GI - GibTel 5G,GI,GI_3_30,CKH114,9.78,Gibraltar,7.3,34
+Single 1️⃣,Full Speed,Gibraltar,Gibraltar 10GB 30Days,19,10,30,180,API,yes,GI - GibTel 5G,GI,GI_10_30,CKH483,25.46,Gibraltar,19,34
+Single 1️⃣,Full Speed,Greece,Greece 100MB 7Days,0.3,0.1,7,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_0.1_7,PFUXC3Q25,1.05,Greece,0.3,249
+Single 1️⃣,Full Speed,Greece,Greece 500MB 7Days,0.5,0.5,7,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_0.5_7,PT6Q7SZKX,1.74,Greece,0.5,249
+Single 1️⃣,Full Speed,Greece,Greece 1GB 7Days,0.9,1,7,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_1_7,CKH996,3.14,Greece,0.9,249
+Single 1️⃣,Full Speed,Greece,Greece 3GB 15Days,2.2,3,15,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_3_15,CKH997,7.68,Greece,2.2,249
+Single 1️⃣,Full Speed,Greece,Greece 3GB 30Days,2.3,3,30,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_3_30,CKH979,8.03,Greece,2.3,249
+Single 1️⃣,Full Speed,Greece,Greece 5GB 30Days,3.4,5,30,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_5_30,CKH985,11.87,Greece,3.4,249
+Single 1️⃣,Full Speed,Greece,Greece 10GB 30Days,6.1,10,30,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_10_30,CKH998,21.29,Greece,6.1,249
+Single 1️⃣,Full Speed,Greece,Greece 20GB 30Days,9.9,20,30,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_20_30,CKH1007,34.55,Greece,9.9,249
+Single 1️⃣,Full Speed,Greece,Greece 50GB 30Days,21,50,30,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_50_30,CKH1008,73.29,Greece,21,249
+Single 1️⃣,Full Speed,Greece,Greece 50GB 180Days,22,50,180,180,API,yes,"GR - Vodafone 5G, Wind 5G",GR,GR_50_180,PGLSEATB8,76.78,Greece,22,249
+Single 1️⃣,Full Speed,Guadeloupe,Guadeloupe 1GB 7Days,2.9,1,7,180,API,yes,GP - Digicel 4G,GP,GP_1_7,CKH812,3.86,Guadeloupe,2.9,33
+Single 1️⃣,Full Speed,Guadeloupe,Guadeloupe 3GB 15Days,7.2,3,15,180,API,yes,GP - Digicel 4G,GP,GP_3_15,CKH813,9.58,Guadeloupe,7.2,33
+Single 1️⃣,Full Speed,Guadeloupe,Guadeloupe 10GB 30Days,18,10,30,180,API,yes,GP - Digicel 4G,GP,GP_10_30,CKH815,23.94,Guadeloupe,18,33
+Single 1️⃣,Full Speed,Guadeloupe,Guadeloupe 20GB 30Days,32,20,30,180,API,yes,GP - Digicel 4G,GP,GP_20_30,CKH816,42.56,Guadeloupe,32,33
+Single 1️⃣,Full Speed,Guam,Guam 1GB 7Days,3.6,1,7,180,API,yes,GU - Docomo 4G,GU,GU_1_7,PNCYQZAZN,6.12,Guam,3.6,70
+Single 1️⃣,Full Speed,Guam,Guam 3GB 15Days,8.9,3,15,180,API,yes,GU - Docomo 4G,GU,GU_3_15,PKEMRQFAC,15.13,Guam,8.9,70
+Single 1️⃣,Full Speed,Guam,Guam 3GB 30Days,9.1,3,30,180,API,yes,GU - Docomo 4G,GU,GU_3_30,PEOWI61PF,15.47,Guam,9.1,70
+Single 1️⃣,Full Speed,Guam,Guam 5GB 30Days,13.6,5,30,180,API,yes,GU - Docomo 4G,GU,GU_5_30,PIN2SHYSA,23.12,Guam,13.6,70
+Single 1️⃣,Full Speed,Guam,Guam 10GB 30Days,23,10,30,180,API,yes,GU - Docomo 4G,GU,GU_10_30,PMYQIPASB,39.1,Guam,23,70
+Single 1️⃣,Full Speed,Guam,Guam 20GB 30Days,40,20,30,180,API,yes,GU - Docomo 4G,GU,GU_20_30,P04857JJB,68,Guam,40,70
+Single 1️⃣,Full Speed,Guatemala,Guatemala 100MB 7Days,0.57,0.1,7,180,API,yes,"GT - Claro 5G, movistar 3G, Tigo 4G",GT,GT_0.1_7,PAQGBYCEU,0.74,Guatemala,0.57,30
+Single 1️⃣,Full Speed,Guatemala,Guatemala 500MB 7Days,3.1,0.5,7,180,API,yes,"GT - Claro 5G, movistar 3G, Tigo 4G",GT,GT_0.5_7,PBXNQWYKN,4.03,Guatemala,3.1,30
+Single 1️⃣,Full Speed,Guatemala,Guatemala 1GB 7Days,5.7,1,7,180,API,yes,"GT - Claro 5G, movistar 3G, Tigo 4G",GT,GT_1_7,CKH309,7.41,Guatemala,5.7,30
+Single 1️⃣,Full Speed,Guatemala,Guatemala 3GB 15Days,14.1,3,15,180,API,yes,"GT - Claro 5G, movistar 3G, Tigo 4G",GT,GT_3_15,CKH325,18.33,Guatemala,14.1,30
+Single 1️⃣,Full Speed,Guernsey,Guernsey 1GB 7Days,2.8,1,7,180,no,yes,GG - Sure 4G,GG,GG_1_7,CKH608,4.76,Guernsey,2.8,70
+Single 1️⃣,Full Speed,Guernsey,Guernsey 3GB 15Days,7,3,15,180,no,yes,GG - Sure 4G,GG,GG_3_15,CKH609,11.9,Guernsey,7,70
+Single 1️⃣,Full Speed,Guernsey,Guernsey 3GB 30Days,7.05,3,30,180,no,yes,GG - Sure 4G,GG,GG_3_30,CKH109,11.98,Guernsey,7.05,70
+Single 1️⃣,Full Speed,Guernsey,Guernsey 5GB 30Days,11.5,5,30,180,no,yes,GG - Sure 4G,GG,GG_5_30,CKH148,19.55,Guernsey,11.5,70
+Single 1️⃣,Full Speed,Guernsey,Guernsey 20GB 30Days,33.79,20,30,180,no,yes,GG - Sure 4G,GG,GG_20_30,CKH788,57.44,Guernsey,33.79,70
+Single 1️⃣,Full Speed,Honduras,Honduras 100MB 7Days,0.57,0.1,7,180,API,yes,HN - Tigo 5G,HN,HN_0.1_7,P3WDTMWGS,0.74,Honduras,0.57,30
+Single 1️⃣,Full Speed,Honduras,Honduras 500MB 7Days,2.5,0.5,7,180,API,yes,HN - Tigo 5G,HN,HN_0.5_7,PUVM8ICPC,3.25,Honduras,2.5,30
+Single 1️⃣,Full Speed,Honduras,Honduras 1GB 7Days,4.6,1,7,180,API,yes,HN - Tigo 5G,HN,HN_1_7,CKH310,5.98,Honduras,4.6,30
+Single 1️⃣,Full Speed,Honduras,Honduras 3GB 15Days,11.2,3,15,180,API,yes,HN - Tigo 5G,HN,HN_3_15,CKH326,14.56,Honduras,11.2,30
+Single 1️⃣,Full Speed,Honduras,Honduras 3GB 30Days,11.3,3,30,180,API,yes,HN - Tigo 5G,HN,HN_3_30,PMVR6J422,14.69,Honduras,11.3,30
+Single 1️⃣,Full Speed,Honduras,Honduras 5GB 30Days,17.5,5,30,180,API,yes,HN - Tigo 5G,HN,HN_5_30,CKH342,22.75,Honduras,17.5,30
+Single 1️⃣,Full Speed,Honduras,Honduras 10GB 30Days,32,10,30,180,API,yes,HN - Tigo 5G,HN,HN_10_30,CKH358,41.6,Honduras,32,30
+Single 1️⃣,Full Speed,Honduras,Honduras 20GB 30Days,60,20,30,180,API,yes,HN - Tigo 5G,HN,HN_20_30,CKH895,78,Honduras,60,30
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong (China) 100MB 7Days,0.3,0.1,7,180,no,yes,HK - 3 5G,HK,HK_0.1_7,P8TY7BI5M,1.2,Hong Kong (China),0.3,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong (China) 500MB 7Days,0.4,0.5,7,180,no,yes,HK - 3 5G,HK,HK_0.5_7,PHEVTW8NP,1.6,Hong Kong (China),0.4,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong 1GB 7Days,0.7,1,7,180,no,yes,HK - 3 5G,HK,HK_1_7,JC021,2.8,Hong Kong (China),0.7,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong 3GB 15Days,1.7,3,15,180,no,yes,HK - 3 5G,HK,HK_3_15,JC022,6.8,Hong Kong (China),1.7,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong 3GB 30Days,1.8,3,30,180,no,yes,HK - 3 5G,HK,HK_3_30,JC004,7.2,Hong Kong (China),1.8,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong 5GB 30Days,2.7,5,30,180,no,yes,HK - 3 5G,HK,HK_5_30,JC005,10.8,Hong Kong (China),2.7,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong 10GB 30Days,4.7,10,30,180,no,yes,HK - 3 5G,HK,HK_10_30,JC023,18.8,Hong Kong (China),4.7,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong 20GB 30Days,8.2,20,30,180,no,yes,HK - 3 5G,HK,HK_20_30,JC104,32.8,Hong Kong (China),8.2,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong 50GB 30Days,17,50,30,180,no,yes,HK - 3 5G,HK,HK_50_30,JC105,68,Hong Kong (China),17,300
+Single 1️⃣,Full Speed,Hong Kong (China),Hong Kong 50GB 180Days,28,50,180,180,no,yes,HK - 3 5G,HK,HK_50_180,P4MCCLBKV,112,Hong Kong (China),28,300
+Single 1️⃣,Full Speed,Hungary,Hungary 1GB 7Days,0.9,1,7,180,API,yes,"HU - Telenor Hungary 5G, Vodafone 5G",HU,HU_1_7,CKH178,2.95,Hungary,0.9,228
+Single 1️⃣,Full Speed,Hungary,Hungary 3GB 15Days,2.2,3,15,180,API,yes,"HU - Telenor Hungary 5G, Vodafone 5G",HU,HU_3_15,CKH179,7.22,Hungary,2.2,228
+Single 1️⃣,Full Speed,Hungary,Hungary 3GB 30Days,2.3,3,30,180,API,yes,"HU - Telenor Hungary 5G, Vodafone 5G",HU,HU_3_30,CKH088,7.54,Hungary,2.3,228
+Single 1️⃣,Full Speed,Hungary,Hungary 5GB 30Days,3.4,5,30,180,API,yes,"HU - Telenor Hungary 5G, Vodafone 5G",HU,HU_5_30,CKH127,11.15,Hungary,3.4,228
+Single 1️⃣,Full Speed,Hungary,Hungary 10GB 30Days,6.1,10,30,180,API,yes,"HU - Telenor Hungary 5G, Vodafone 5G",HU,HU_10_30,CKH180,20.01,Hungary,6.1,228
+Single 1️⃣,Full Speed,Hungary,Hungary 20GB 30Days,10.6,20,30,180,API,yes,"HU - Telenor Hungary 5G, Vodafone 5G",HU,HU_20_30,CKH545,34.77,Hungary,10.6,228
+Single 1️⃣,Full Speed,Hungary,Hungary 50GB 180Days,22,50,180,180,API,yes,"HU - Telenor Hungary 5G, Vodafone 5G",HU,HU_50_180,PNLUHHYLQ,72.16,Hungary,22,228
+Single 1️⃣,Full Speed,Iceland,Iceland 1GB 7Days,1.5,1,7,180,API,yes,"IS - Nova 5G, Síminn 5G",IS,IS_1_7,CKH217,3.08,Iceland,1.5,105
+Single 1️⃣,Full Speed,Iceland,Iceland 3GB 15Days,3.1,3,15,180,API,yes,"IS - Nova 5G, Síminn 5G",IS,IS_3_15,CKH218,6.36,Iceland,3.1,105
+Single 1️⃣,Full Speed,Iceland,Iceland 3GB 30Days,3.25,3,30,180,API,yes,"IS - Nova 5G, Síminn 5G",IS,IS_3_30,CKH089,6.66,Iceland,3.25,105
+Single 1️⃣,Full Speed,Iceland,Iceland 5GB 30Days,5.7,5,30,180,API,yes,"IS - Nova 5G, Síminn 5G",IS,IS_5_30,CKH128,11.68,Iceland,5.7,105
+Single 1️⃣,Full Speed,Iceland,Iceland 10GB 30Days,9.9,10,30,180,API,yes,"IS - Nova 5G, Síminn 5G",IS,IS_10_30,CKH219,20.29,Iceland,9.9,105
+Single 1️⃣,Full Speed,Iceland,Iceland 20GB 30Days,16.8,20,30,180,API,yes,"IS - Nova 5G, Síminn 5G",IS,IS_20_30,CKH714,34.44,Iceland,16.8,105
+Single 1️⃣,Full Speed,Iceland,Iceland 50GB 180Days,37,50,180,180,API,yes,"IS - Nova 5G, Síminn 5G",IS,IS_50_180,PKK3BVKVF,75.85,Iceland,37,105
+Single 1️⃣,Full Speed,India,India 100MB 7Days,0.3,0.1,7,180,API,yes,"IN - AirTel 5G, Jio 4G",IN,IN_0.1_7,PNJCUC29S,0.42,India,0.3,41
+Single 1️⃣,Full Speed,India,India 500MB 7Days,1.3,0.5,7,180,API,yes,"IN - AirTel 5G, Jio 4G",IN,IN_0.5_7,P6YUDXUN4,1.83,India,1.3,41
+Single 1️⃣,Full Speed,India,India 1GB 7Days,2.3,1,7,180,API,yes,"IN - AirTel 5G, Jio 4G",IN,IN_1_7,JC060,3.24,India,2.3,41
+Single 1️⃣,Full Speed,India,India 3GB 15Days,5.7,3,15,180,API,yes,"IN - AirTel 5G, Jio 4G",IN,IN_3_15,JC061,8.04,India,5.7,41
+Single 1️⃣,Full Speed,India,India 3GB 30Days,5.9,3,30,180,API,yes,"IN - AirTel 5G, Jio 4G",IN,IN_3_30,PJV33QPAB,8.32,India,5.9,41
+Single 1️⃣,Full Speed,India,India 5GB 30Days,8.8,5,30,180,API,yes,"IN - AirTel 5G, Jio 4G",IN,IN_5_30,JC062,12.41,India,8.8,41
+Single 1️⃣,Full Speed,India,India 10GB 30Days,15.2,10,30,180,API,yes,"IN - AirTel 5G, Jio 4G",IN,IN_10_30,JC140,21.43,India,15.2,41
+Single 1️⃣,Full Speed,India,India 20GB 30Days,25,20,30,180,API,yes,"IN - AirTel 5G, Jio 4G",IN,IN_20_30,JC141,35.25,India,25,41
+Single 1️⃣,Full Speed,Indonesia,Indonesia 100MB 7Days,0.3,0.1,7,180,API,yes,ID - Telkomsel 5G,ID,ID_0.1_7,P402OGJG8,1.27,Indonesia,0.3,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 500MB 7Days,0.4,0.5,7,180,API,yes,ID - Telkomsel 5G,ID,ID_0.5_7,PXAMZZVNT,1.69,Indonesia,0.4,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 1GB 7Days,0.7,1,7,180,API,yes,ID - Telkomsel 5G,ID,ID_1_7,JC056,2.95,Indonesia,0.7,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 1GB 7Days (nonhkip),1.14,1,7,180,API,yes,ID - Telkomsel 4G,ID,ID_1_7_nonhkip,PRG960RGE,4.81,Indonesia,1.14,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 3GB 15Days,1.7,3,15,180,API,yes,ID - Telkomsel 5G,ID,ID_3_15,JC057,7.17,Indonesia,1.7,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 3GB 30Days,1.8,3,30,180,no,yes,"ID - Telkomsel 5G, XL 4G",ID,ID_3_30,P3H6TP1TU,7.6,Indonesia,1.8,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 3GB 15Days (nonhkip),2.64,3,15,180,API,yes,ID - Telkomsel 4G,ID,ID_3_15_nonhkip,P0BS87WNL,11.14,Indonesia,2.64,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 5GB 30Days,2.7,5,30,180,API,yes,ID - Telkomsel 5G,ID,ID_5_30,JC058,11.39,Indonesia,2.7,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 5GB 30Days (nonhkip),4.4,5,30,180,API,yes,ID - Telkomsel 4G,ID,ID_5_30_nonhkip,P0YGLXY82,18.57,Indonesia,4.4,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 10GB 30Days,4.7,10,30,180,API,yes,ID - Telkomsel 5G,ID,ID_10_30,JC059,19.83,Indonesia,4.7,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 10GB 30Days (nonhkip),7.61,10,30,180,API,yes,ID - Telkomsel 4G,ID,ID_10_30_nonhkip,PSGW82WV9,32.11,Indonesia,7.61,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 20GB 30Days,8.2,20,30,180,API,yes,ID - Telkomsel 5G,ID,ID_20_30,JC143,34.6,Indonesia,8.2,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 20GB 30Days (nonhkip),10.56,20,30,180,API,yes,ID - Telkomsel 4G,ID,ID_20_30_nonhkip,PNRFJ542B,44.56,Indonesia,10.56,322
+Single 1️⃣,Full Speed,Indonesia,Indonesia 50GB 30Days,17,50,30,180,API,yes,ID - Telkomsel 5G,ID,ID_50_30,JC144,71.74,Indonesia,17,322
+Single 1️⃣,Full Speed,Iraq,Iraq 1GB 7Days,2.3,1,7,180,API,yes,"IQ - Zain 5G, Korek 5G",IQ,IQ_1_7,PYWYI9SF9,3.47,Iraq,2.3,51
+Single 1️⃣,Full Speed,Iraq,Iraq 3GB 15Days,6.5,3,15,180,API,yes,"IQ - Zain 5G, Korek 5G",IQ,IQ_3_15,PTNYXA9SL,9.82,Iraq,6.5,51
+Single 1️⃣,Full Speed,Iraq,Iraq 3GB 30Days,6.6,3,30,180,API,yes,"IQ - Zain 5G, Korek 5G",IQ,IQ_3_30,PZ946KWYR,9.97,Iraq,6.6,51
+Single 1️⃣,Full Speed,Iraq,Iraq 5GB 30Days,10,5,30,180,API,yes,"IQ - Zain 5G, Korek 5G",IQ,IQ_5_30,PDWAU6W53,15.1,Iraq,10,51
+Single 1️⃣,Full Speed,Iraq,Iraq 10GB 30Days,18,10,30,180,API,yes,"IQ - Zain 5G, Korek 5G",IQ,IQ_10_30,PXN1G3M0J,27.18,Iraq,18,51
+Single 1️⃣,Full Speed,Iraq,Iraq 20GB 30Days,34,20,30,180,API,yes,"IQ - Zain 5G, Korek 5G",IQ,IQ_20_30,PL9XC4P2C,51.34,Iraq,34,51
+Single 1️⃣,Full Speed,Ireland,Ireland 500MB 3Days,0.6,0.5,3,180,API,yes,"IE - Vodafone 5G, 3 5G, Eir 5G",IE,IE_500M_3,PC3TTT87P,1.88,Ireland,0.6,214
+Single 1️⃣,Full Speed,Ireland,Ireland 1GB 7Days,0.9,1,7,180,API,yes,"IE - Vodafone 5G, 3 5G, Eir 5G",IE,IE_1_7,CKH220,2.83,Ireland,0.9,214
+Single 1️⃣,Full Speed,Ireland,Ireland 3GB 15Days,2.2,3,15,180,API,yes,"IE - Vodafone 5G, 3 5G, Eir 5G",IE,IE_3_15,CKH221,6.91,Ireland,2.2,214
+Single 1️⃣,Full Speed,Ireland,Ireland 3GB 30Days,2.3,3,30,180,API,yes,"IE - Vodafone 5G, 3 5G, Eir 5G",IE,IE_3_30,CKH090,7.22,Ireland,2.3,214
+Single 1️⃣,Full Speed,Ireland,Ireland 5GB 30Days,3.4,5,30,180,API,yes,"IE - Vodafone 5G, 3 5G, Eir 5G",IE,IE_5_30,CKH129,10.68,Ireland,3.4,214
+Single 1️⃣,Full Speed,Ireland,Ireland 10GB 30Days,6.1,10,30,180,API,yes,"IE - Vodafone 5G, 3 5G, Eir 5G",IE,IE_10_30,CKH222,19.15,Ireland,6.1,214
+Single 1️⃣,Full Speed,Ireland,Ireland 20GB 30Days,9.6,20,30,180,API,yes,"IE - Vodafone 5G, 3 5G, Eir 5G",IE,IE_20_30,CKH720,30.14,Ireland,9.6,214
+Single 1️⃣,Full Speed,Ireland,Ireland 50GB 180Days,22,50,180,180,API,yes,"IE - Vodafone 5G, 3 5G, Eir 5G",IE,IE_50_180,PJVVSY6IR,69.08,Ireland,22,214
+Single 1️⃣,Full Speed,Isle of Man,Isle of Man 1GB 7Days,1.1,1,7,180,API,yes,IM - Pronto GSM 5G,IM,IM_1_7,CKH259,3.75,Isle of Man,1.1,241
+Single 1️⃣,Full Speed,Isle of Man,Isle of Man 3GB 15Days,2.8,3,15,180,API,yes,IM - Pronto GSM 5G,IM,IM_3_15,CKH260,9.55,Isle of Man,2.8,241
+Single 1️⃣,Full Speed,Isle of Man,Isle of Man 3GB 30Days,3,3,30,180,API,yes,IM - Pronto GSM 5G,IM,IM_3_30,CKH106,10.23,Isle of Man,3,241
+Single 1️⃣,Full Speed,Isle of Man,Isle of Man 5GB 30Days,4.4,5,30,180,API,yes,IM - Pronto GSM 5G,IM,IM_5_30,CKH145,15,Isle of Man,4.4,241
+Single 1️⃣,Full Speed,Isle of Man,Isle of Man 10GB 30Days,7.6,10,30,180,API,yes,IM - Pronto GSM 5G,IM,IM_10_30,CKH261,25.92,Isle of Man,7.6,241
+Single 1️⃣,Full Speed,Isle of Man,Isle of Man 20GB 30Days,12.9,20,30,180,API,yes,IM - Pronto GSM 5G,IM,IM_20_30,CKH745,43.99,Isle of Man,12.9,241
+Single 1️⃣,Full Speed,Israel,Israel 1GB 7Days,1.5,1,7,180,API,yes,"IL - Cellcom 5G, Pelephone 5G, Hot Mobile 5G",IL,IL_1_7,CKH223,2.43,Israel,1.5,62
+Single 1️⃣,Full Speed,Israel,Israel 3GB 15Days,3.7,3,15,180,API,yes,"IL - Cellcom 5G, Pelephone 5G, Hot Mobile 5G",IL,IL_3_15,CKH224,5.99,Israel,3.7,62
+Single 1️⃣,Full Speed,Israel,Israel 3GB 30Days,3.8,3,30,180,API,yes,"IL - Cellcom 5G, Pelephone 5G, Hot Mobile 5G",IL,IL_3_30,CKH024,6.16,Israel,3.8,62
+Single 1️⃣,Full Speed,Israel,Israel 5GB 30Days,5.7,5,30,180,API,yes,"IL - Cellcom 5G, Pelephone 5G, Hot Mobile 5G",IL,IL_5_30,CKH225,9.23,Israel,5.7,62
+Single 1️⃣,Full Speed,Israel,Israel 10GB 30Days,9.9,10,30,180,API,yes,"IL - Cellcom 5G, Pelephone 5G, Hot Mobile 5G",IL,IL_10_30,CKH226,16.04,Israel,9.9,62
+Single 1️⃣,Full Speed,Israel,Israel 20GB 30Days,16.8,20,30,180,API,yes,"IL - Cellcom 5G, Pelephone 5G, Hot Mobile 5G",IL,IL_20_30,CKH722,27.22,Israel,16.8,62
+Single 1️⃣,Full Speed,Israel,Israel 50GB 180Days,37,50,180,180,API,yes,"IL - Cellcom 5G, Pelephone 5G, Hot Mobile 5G",IL,IL_50_180,PWCDVUQGM,59.94,Israel,37,62
+Single 1️⃣,Full Speed,Italy,Italy 1GB 7Days,0.7,1,7,180,API,yes,"IT - Iliad 5G, Vodafone 5G, Wind 5G",IT,IT_1_7,CKH227,3.09,Italy,0.7,342
+Single 1️⃣,Full Speed,Italy,Italy 3GB 15Days,1.7,3,15,180,API,yes,"IT - Iliad 5G, Vodafone 5G, Wind 5G",IT,IT_3_15,CKH228,7.51,Italy,1.7,342
+Single 1️⃣,Full Speed,Italy,Italy 3GB 30Days,1.8,3,30,180,API,yes,"IT - Iliad 5G, Vodafone 5G, Wind 5G",IT,IT_3_30,CKH091,7.96,Italy,1.8,342
+Single 1️⃣,Full Speed,Italy,Italy 5GB 30Days,2.7,5,30,180,API,yes,"IT - Iliad 5G, Vodafone 5G, Wind 5G",IT,IT_5_30,CKH130,11.93,Italy,2.7,342
+Single 1️⃣,Full Speed,Italy,Italy 10GB 30Days,4.7,10,30,180,API,yes,"IT - Iliad 5G, Vodafone 5G, Wind 5G",IT,IT_10_30,CKH229,20.77,Italy,4.7,342
+Single 1️⃣,Full Speed,Italy,Italy 20GB 30Days,8.2,20,30,180,API,yes,"IT - Iliad 5G, Vodafone 5G, Wind 5G",IT,IT_20_30,CKH504,36.24,Italy,8.2,342
+Single 1️⃣,Full Speed,Italy,Italy 50GB 30Days,17,50,30,180,API,yes,"IT - Iliad 5G, Vodafone 5G, Wind 5G",IT,IT_50_30,CKH505,75.14,Italy,17,342
+Single 1️⃣,Full Speed,Italy,Italy 50GB 180Days,22,50,180,180,API,yes,"IT - Iliad 5G, Vodafone 5G, Wind 5G",IT,IT_50_180,PX1CNITSE,97.24,Italy,22,342
+Single 1️⃣,Full Speed,Jamaica,Jamaica 100MB 7Days,0.73,0.1,7,180,API,yes,"JM - FLOW 5G, Digicel 5G",JM,JM_0.1_7,PTFBO8IJH,0.95,Jamaica,0.73,30
+Single 1️⃣,Full Speed,Jamaica,Jamaica 500MB 7Days,3.9,0.5,7,180,API,yes,"JM - FLOW 5G, Digicel 5G",JM,JM_0.5_7,PQEWVNTV7,5.07,Jamaica,3.9,30
+Single 1️⃣,Full Speed,Jamaica,Jamaica 1GB 7Days,7.1,1,7,180,API,yes,"JM - FLOW 5G, Digicel 5G",JM,JM_1_7,P0CM6KM7E,9.23,Jamaica,7.1,30
+Single 1️⃣,Full Speed,Jamaica,Jamaica 3GB 15Days,17.6,3,15,180,API,yes,"JM - FLOW 5G, Digicel 5G",JM,JM_3_15,P5KF3LWV4,22.88,Jamaica,17.6,30
+Single 1️⃣,Full Speed,Jamaica,Jamaica 3GB 30Days,17.9,3,30,180,API,yes,"JM - FLOW 5G, Digicel 5G",JM,JM_3_30,PTJ9SYG69,23.27,Jamaica,17.9,30
+Single 1️⃣,Full Speed,Jamaica,Jamaica 5GB 30Days,26,5,30,180,API,yes,"JM - FLOW 5G, Digicel 5G",JM,JM_5_30,PPDAG2ZLG,33.8,Jamaica,26,30
+Single 1️⃣,Full Speed,Jamaica,Jamaica 10GB 30Days,50.58,10,30,180,API,yes,"JM - FLOW 5G, Digicel 5G",JM,JM_10_30,PMB6QS4ZN,65.75,Jamaica,50.58,30
+Single 1️⃣,Full Speed,Jamaica,Jamaica 20GB 30Days,89.58,20,30,180,API,yes,"JM - FLOW 5G, Digicel 5G",JM,JM_20_30,PLKIA6PIQ,116.45,Jamaica,89.58,30
+Single 1️⃣,Full Speed,Japan,Japan 100MB 7Days,0.3,0.1,7,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_0.1_7,P6ZMSDS1G,1.07,Japan,0.3,258
+Single 1️⃣,Full Speed,Japan,Japan 500MB 7Days,0.4,0.5,7,180,no,yes,JP - NTT docomo 4G,JP,JP_0.5_7,PVDISIFP6,1.43,Japan,0.4,258
+Single 1️⃣,Full Speed,Japan,Japan 1GB 7Days,0.7,1,7,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_1_7,JC063,2.51,Japan,0.7,258
+Single 1️⃣,Full Speed,Japan,Japan 1GB 7Days (IIJ),0.7,1,7,180,no,yes,JP - NTT docomo 4G,JP,JP_1_7_IIJ,PK3VHQ9T6,2.51,Japan,0.7,258
+Single 1️⃣,Full Speed,Japan,Japan 1GB 7Days (nonhkip),1.05,1,7,180,API,yes,JP - KDDI 5G,JP,JP_1_7_nonhkip,P94JA3ZNK,3.76,Japan,1.05,258
+Single 1️⃣,Full Speed,Japan,Japan 3GB 15Days,1.7,3,15,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_3_15,JC064,6.09,Japan,1.7,258
+Single 1️⃣,Full Speed,Japan,Japan 3GB 15Days (IIJ),1.7,3,15,180,no,yes,JP - NTT docomo 4G,JP,JP_3_15_IIJ,PR8JET2E0,6.09,Japan,1.7,258
+Single 1️⃣,Full Speed,Japan,Japan 3GB 30Days,1.8,3,30,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_3_30,P2AJZD4YX,6.44,Japan,1.8,258
+Single 1️⃣,Full Speed,Japan,Japan 3GB 30Days (IIJ),1.8,3,30,180,no,yes,JP - NTT docomo 4G,JP,JP_3_30_IIJ,P2P4EE3TH,6.44,Japan,1.8,258
+Single 1️⃣,Full Speed,Japan,Japan 5GB 30Days,2.7,5,30,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_5_30,JC065,9.67,Japan,2.7,258
+Single 1️⃣,Full Speed,Japan,Japan 5GB 30Days (IIJ),2.7,5,30,180,no,yes,JP - NTT docomo 4G,JP,JP_5_30_IIJ,PYTKZG843,9.67,Japan,2.7,258
+Single 1️⃣,Full Speed,Japan,Japan 3GB 15Days (nonhkip),2.86,3,15,180,API,yes,JP - KDDI 5G,JP,JP_3_15_nonhkip,PYA70JN8W,10.24,Japan,2.86,258
+Single 1️⃣,Full Speed,Japan,Japan 5GB 30Days (nonhkip),3.96,5,30,180,API,yes,JP - KDDI 5G,JP,JP_5_30_nonhkip,PCUVF4Y91,14.18,Japan,3.96,258
+Single 1️⃣,Full Speed,Japan,Japan 10GB 30Days,4.7,10,30,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_10_30,JC066,16.83,Japan,4.7,258
+Single 1️⃣,Full Speed,Japan,Japan 10GB 30Days (IIJ),4.7,10,30,180,no,yes,JP - NTT docomo 4G,JP,JP_10_30_IIJ,PAK783GRS,16.83,Japan,4.7,258
+Single 1️⃣,Full Speed,Japan,Japan 10GB 30Days (nonhkip),6.6,10,30,180,API,yes,JP - KDDI 5G,JP,JP_10_30_nonhkip,PR2V54EPD,23.63,Japan,6.6,258
+Single 1️⃣,Full Speed,Japan,Japan 20GB 30Days,8.2,20,30,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_20_30,JC145,29.36,Japan,8.2,258
+Single 1️⃣,Full Speed,Japan,Japan 20GB 30Days (IIJ),8.2,20,30,180,no,yes,JP - NTT docomo 4G,JP,JP_20_30_IIJ,PMR7KU23C,29.36,Japan,8.2,258
+Single 1️⃣,Full Speed,Japan,Japan 20GB 30Days (nonhkip),11,20,30,180,API,yes,JP - KDDI 5G,JP,JP_20_30_nonhkip,P7U1JSX2H,39.38,Japan,11,258
+Single 1️⃣,Full Speed,Japan,Japan 50GB 30Days,17,50,30,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_50_30,P98RPDQR0,60.86,Japan,17,258
+Single 1️⃣,Full Speed,Japan,Japan 50GB 30Days (IIJ),17,50,30,180,no,yes,JP - NTT docomo 4G,JP,JP_50_30_IIJ,PE5N02WZA,60.86,Japan,17,258
+Single 1️⃣,Full Speed,Japan,Japan 50GB 180Days,28,50,180,180,no,yes,"JP - KDDI 5G, SoftBank 5G, NTT docomo 5G",JP,JP_50_180,PL4E7JOWX,100.24,Japan,28,258
+Single 1️⃣,Full Speed,Jersey,Jersey 1GB 7Days,0.7,1,7,180,API,yes,JE - JT 5G,JE,JE_1_7,CKH262,2.83,Jersey,0.7,304
+Single 1️⃣,Full Speed,Jersey,Jersey 3GB 15Days,1.7,3,15,180,API,yes,JE - JT 5G,JE,JE_3_15,CKH263,6.87,Jersey,1.7,304
+Single 1️⃣,Full Speed,Jersey,Jersey 3GB 30Days,1.8,3,30,180,API,yes,JE - JT 5G,JE,JE_3_30,CKH107,7.27,Jersey,1.8,304
+Single 1️⃣,Full Speed,Jersey,Jersey 5GB 30Days,2.7,5,30,180,API,yes,JE - JT 5G,JE,JE_5_30,CKH146,10.91,Jersey,2.7,304
+Single 1️⃣,Full Speed,Jersey,Jersey 10GB 30Days,5.2,10,30,180,API,yes,JE - JT 5G,JE,JE_10_30,CKH264,21.01,Jersey,5.2,304
+Single 1️⃣,Full Speed,Jersey,Jersey 20GB 30Days,8.2,20,30,180,API,yes,JE - JT 5G,JE,JE_20_30,CKH753,33.13,Jersey,8.2,304
+Single 1️⃣,Full Speed,Jordan,Jordan 100MB 7Days,0.3,0.1,7,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_0.1_7,PF8LJK42E,0.67,Jordan,0.3,123
+Single 1️⃣,Full Speed,Jordan,Jordan 500MB 7Days,1,0.5,7,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_0.5_7,PJMMVWOED,2.23,Jordan,1,123
+Single 1️⃣,Full Speed,Jordan,Jordan 1GB 7Days,1.8,1,7,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_1_7,CKH269,4.01,Jordan,1.8,123
+Single 1️⃣,Full Speed,Jordan,Jordan 3GB 15Days,4.6,3,15,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_3_15,CKH270,10.26,Jordan,4.6,123
+Single 1️⃣,Full Speed,Jordan,Jordan 3GB 30Days,4.7,3,30,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_3_30,CKH026,10.48,Jordan,4.7,123
+Single 1️⃣,Full Speed,Jordan,Jordan 5GB 30Days,7,5,30,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_5_30,CKH271,15.61,Jordan,7,123
+Single 1️⃣,Full Speed,Jordan,Jordan 10GB 30Days,12.2,10,30,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_10_30,CKH272,27.21,Jordan,12.2,123
+Single 1️⃣,Full Speed,Jordan,Jordan 20GB 30Days,20,20,30,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_20_30,CKH790,44.6,Jordan,20,123
+Single 1️⃣,Full Speed,Jordan,Jordan 50GB 30Days,37.5,50,30,180,API,yes,"JO - Zain 5G, Umniah 5G",JO,JO_50_30,CKH791,83.62,Jordan,37.5,123
+Single 1️⃣,Full Speed,Kazakhstan,Kazakhstan 100MB 7Days,0.3,0.1,7,180,no,yes,KZ - Beeline 4G,KZ,KZ_0.1_7,PHGAWJM6O,0.57,Kazakhstan,0.3,89
+Single 1️⃣,Full Speed,Kazakhstan,Kazakhstan 500MB 7Days,0.8,0.5,7,180,no,yes,KZ - Beeline 4G,KZ,KZ_0.5_7,PDM9Z6FE4,1.51,Kazakhstan,0.8,89
+Single 1️⃣,Full Speed,Kazakhstan,Kazakhstan 1GB 7Days,1.5,1,7,180,no,yes,KZ - Beeline 4G,KZ,KZ_1_7,CKH1030,2.84,Kazakhstan,1.5,89
+Single 1️⃣,Full Speed,Kazakhstan,Kazakhstan 3GB 15Days,3.7,3,15,180,no,yes,KZ - Beeline 4G,KZ,KZ_3_15,CKH1031,6.99,Kazakhstan,3.7,89
+Single 1️⃣,Full Speed,Kazakhstan,Kazakhstan 3GB 30Days,3.8,3,30,180,no,yes,KZ - Beeline 4G,KZ,KZ_3_30,PY58ICLPM,7.18,Kazakhstan,3.8,89
+Single 1️⃣,Full Speed,Kazakhstan,Kazakhstan 5GB 30Days,5.7,5,30,180,no,yes,KZ - Beeline 4G,KZ,KZ_5_30,CKH1032,10.77,Kazakhstan,5.7,89
+Single 1️⃣,Full Speed,Kazakhstan,Kazakhstan 10GB 30Days,9.9,10,30,180,no,yes,KZ - Beeline 4G,KZ,KZ_10_30,CKH750,18.71,Kazakhstan,9.9,89
+Single 1️⃣,Full Speed,Kazakhstan,Kazakhstan 20GB 30Days,16.8,20,30,180,no,yes,KZ - Beeline 4G,KZ,KZ_20_30,CKH751,31.75,Kazakhstan,16.8,89
+Single 1️⃣,Full Speed,Kenya,Kenya 100MB 7Days,0.7,0.1,7,180,no,yes,KE - Airtel 4G,KE,KE_0.1_7,P9A3DBLOA,0.92,Kenya,0.7,32
+Single 1️⃣,Full Speed,Kenya,Kenya 500MB 7Days,3.1,0.5,7,180,no,yes,KE - Airtel 4G,KE,KE_0.5_7,PCL9P1W3O,4.09,Kenya,3.1,32
+Single 1️⃣,Full Speed,Kenya,Kenya 1GB 7Days,5.7,1,7,180,no,yes,KE - Airtel 4G,KE,KE_1_7,CKH379,7.52,Kenya,5.7,32
+Single 1️⃣,Full Speed,Kenya,Kenya 3GB 15Days,14.1,3,15,180,no,yes,KE - Airtel 4G,KE,KE_3_15,CKH408,18.61,Kenya,14.1,32
+Single 1️⃣,Full Speed,Kenya,Kenya 3GB 30Days,14.2,3,30,180,no,yes,KE - Airtel 4G,KE,KE_3_30,PEH7HFFBP,18.74,Kenya,14.2,32
+Single 1️⃣,Full Speed,Kenya,Kenya 5GB 30Days,21,5,30,180,no,yes,KE - Airtel 4G,KE,KE_5_30,CKH437,27.72,Kenya,21,32
+Single 1️⃣,Full Speed,Kenya,Kenya 10GB 30Days,40,10,30,180,no,yes,KE - Airtel 4G,KE,KE_10_30,CKH466,52.8,Kenya,40,32
+Single 1️⃣,Full Speed,Kenya,Kenya 20GB 30Days,75,20,30,180,no,yes,KE - Airtel 4G,KE,KE_20_30,CKH897,99,Kenya,75,32
+Single 1️⃣,Full Speed,Kosovo,Kosovo 1GB 7Days,5.7,1,7,180,no,yes,XK - IPKO 4G,XK,XK_1_7,CKH530,7.41,Kosovo,5.7,30
+Single 1️⃣,Full Speed,Kosovo,Kosovo 3GB 15Days,14.1,3,15,180,no,yes,XK - IPKO 4G,XK,XK_3_15,CKH625,18.33,Kosovo,14.1,30
+Single 1️⃣,Full Speed,Kosovo,Kosovo 3GB 30Days,14.4,3,30,180,no,no,XK - IPKO 4G,XK,XK_3_30,P6QQ216QM,18.72,Kosovo,14.4,30
+Single 1️⃣,Full Speed,Kosovo,Kosovo 5GB 30Days,21,5,30,180,no,yes,XK - IPKO 4G,XK,XK_5_30,CKH626,27.3,Kosovo,21,30
+Single 1️⃣,Full Speed,Kuwait,Kuwait 100MB 7Days,0.3,0.1,7,180,API,yes,KW - Ooredoo 4G,KW,KW_0.1_7,PDM89TRPE,0.45,Kuwait,0.3,50
+Single 1️⃣,Full Speed,Kuwait,Kuwait 500MB 7Days,1.3,0.5,7,180,API,yes,KW - Ooredoo 4G,KW,KW_0.5_7,PKQCL0J5I,1.95,Kuwait,1.3,50
+Single 1️⃣,Full Speed,Kuwait,Kuwait 1GB 7Days,2.3,1,7,180,no,yes,KW - Zain 5G,KW,KW_1_7,CKH512,3.45,Kuwait,2.3,50
+Single 1️⃣,Full Speed,Kuwait,Kuwait 3GB 15Days,5.7,3,15,180,no,yes,KW - Zain 5G,KW,KW_3_15,CKH628,8.55,Kuwait,5.7,50
+Single 1️⃣,Full Speed,Kuwait,Kuwait 3GB 30Days,5.9,3,30,180,no,yes,KW - Zain 5G,KW,KW_3_30,CKH027,8.85,Kuwait,5.9,50
+Single 1️⃣,Full Speed,Kuwait,Kuwait 5GB 30Days,8.8,5,30,180,API,yes,KW - Ooredoo 4G,KW,KW_5_30,CKH629,13.2,Kuwait,8.8,50
+Single 1️⃣,Full Speed,Kuwait,Kuwait 10GB 30Days,15,10,30,180,API,yes,KW - Ooredoo 4G,KW,KW_10_30,CKH747,22.5,Kuwait,15,50
+Single 1️⃣,Full Speed,Kuwait,Kuwait 20GB 30Days,25,20,30,180,API,yes,KW - Ooredoo 4G,KW,KW_20_30,CKH748,37.5,Kuwait,25,50
+Single 1️⃣,Full Speed,Kyrgyzstan,Kyrgyzstan 1GB 7Days,2.3,1,7,180,no,yes,KG - Beeline 4G,KG,KG_1_7,CKH755,5.06,Kyrgyzstan,2.3,120
+Single 1️⃣,Full Speed,Kyrgyzstan,Kyrgyzstan 3GB 15Days,5.7,3,15,180,no,yes,KG - Beeline 4G,KG,KG_3_15,CKH756,12.54,Kyrgyzstan,5.7,120
+Single 1️⃣,Full Speed,Kyrgyzstan,Kyrgyzstan 3GB 30Days,5.9,3,30,180,no,yes,KG - Beeline 4G,KG,KG_3_30,PNSXFJGWM,12.98,Kyrgyzstan,5.9,120
+Single 1️⃣,Full Speed,Kyrgyzstan,Kyrgyzstan 5GB 30Days,8.8,5,30,180,no,yes,KG - Beeline 4G,KG,KG_5_30,CKH757,19.36,Kyrgyzstan,8.8,120
+Single 1️⃣,Full Speed,Kyrgyzstan,Kyrgyzstan 10GB 30Days,15.2,10,30,180,no,yes,KG - Beeline 4G,KG,KG_10_30,CKH758,33.44,Kyrgyzstan,15.2,120
+Single 1️⃣,Full Speed,Kyrgyzstan,Kyrgyzstan 20GB 30Days,25,20,30,180,no,yes,KG - Beeline 4G,KG,KG_20_30,CKH759,55,Kyrgyzstan,25,120
+Single 1️⃣,Full Speed,Latvia,Latvia 1GB 7Days,0.9,1,7,180,API,yes,"LV - Tele2 5G, LMT 5G, Bite 5G",LV,LV_1_7,CKH181,2.82,Latvia,0.9,213
+Single 1️⃣,Full Speed,Latvia,Latvia 3GB 15Days,2.2,3,15,180,API,yes,"LV - Tele2 5G, LMT 5G, Bite 5G",LV,LV_3_15,CKH182,6.89,Latvia,2.2,213
+Single 1️⃣,Full Speed,Latvia,Latvia 3GB 30Days,2.3,3,30,180,API,yes,"LV - Tele2 5G, LMT 5G, Bite 5G",LV,LV_3_30,CKH092,7.2,Latvia,2.3,213
+Single 1️⃣,Full Speed,Latvia,Latvia 5GB 30Days,3.4,5,30,180,API,yes,"LV - Tele2 5G, LMT 5G, Bite 5G",LV,LV_5_30,CKH131,10.64,Latvia,3.4,213
+Single 1️⃣,Full Speed,Latvia,Latvia 10GB 30Days,6.1,10,30,180,API,yes,"LV - Tele2 5G, LMT 5G, Bite 5G",LV,LV_10_30,CKH183,19.09,Latvia,6.1,213
+Single 1️⃣,Full Speed,Latvia,Latvia 20GB 30Days,10.6,20,30,180,API,yes,"LV - Tele2 5G, LMT 5G, Bite 5G",LV,LV_20_30,CKH702,33.18,Latvia,10.6,213
+Single 1️⃣,Full Speed,Latvia,Latvia 50GB 180Days,30,50,180,180,API,yes,"LV - Tele2 5G, LMT 5G, Bite 5G",LV,LV_50_180,PUS1LIQUY,93.9,Latvia,30,213
+Single 1️⃣,Full Speed,Liberia,Liberia 1GB 7Days,5.7,1,7,180,API,yes,"LR - Lonestar Cell MTN 5G, Orange 5G",LR,LR_1_7,CKH380,8.61,Liberia,5.7,51
+Single 1️⃣,Full Speed,Liberia,Liberia 3GB 15Days,14.1,3,15,180,API,yes,"LR - Lonestar Cell MTN 5G, Orange 5G",LR,LR_3_15,CKH409,21.29,Liberia,14.1,51
+Single 1️⃣,Full Speed,Liberia,Liberia 3GB 30Days,14.4,3,30,180,API,no,"LR - Lonestar Cell MTN 5G, Orange 5G",LR,LR_3_30,P55TYKDMT,21.74,Liberia,14.4,51
+Single 1️⃣,Full Speed,Liberia,Liberia 5GB 30Days,21,5,30,180,API,yes,"LR - Lonestar Cell MTN 5G, Orange 5G",LR,LR_5_30,CKH438,31.71,Liberia,21,51
+Single 1️⃣,Full Speed,Liechtenstein,Liechtenstein 1GB 7Days,1.5,1,7,180,API,yes,"LI - FL1 5G, 7acht 5G",LI,LI_1_7,CKH1015,3.21,Liechtenstein,1.5,114
+Single 1️⃣,Full Speed,Liechtenstein,Liechtenstein 3GB 15Days,3.13,3,15,180,API,yes,"LI - FL1 5G, 7acht 5G",LI,LI_3_15,CKH1021,6.7,Liechtenstein,3.13,114
+Single 1️⃣,Full Speed,Liechtenstein,Liechtenstein 3GB 30Days,3.23,3,30,180,API,yes,"LI - FL1 5G, 7acht 5G",LI,LI_3_30,CKH981,6.91,Liechtenstein,3.23,114
+Single 1️⃣,Full Speed,Liechtenstein,Liechtenstein 10GB 30Days,9.9,10,30,180,API,yes,"LI - FL1 5G, 7acht 5G",LI,LI_10_30,PNQIKVPVA,21.19,Liechtenstein,9.9,114
+Single 1️⃣,Full Speed,Lithuania,Lithuania 1GB 7Days,0.9,1,7,180,API,yes,"LT - Telia 5G, BITĖ 5G, Tele2 5G",LT,LT_1_7,CKH184,2.56,Lithuania,0.9,185
+Single 1️⃣,Full Speed,Lithuania,Lithuania 3GB 15Days,2.2,3,15,180,API,yes,"LT - Telia 5G, BITĖ 5G, Tele2 5G",LT,LT_3_15,CKH185,6.27,Lithuania,2.2,185
+Single 1️⃣,Full Speed,Lithuania,Lithuania 3GB 30Days,2.3,3,30,180,API,yes,"LT - Telia 5G, BITĖ 5G, Tele2 5G",LT,LT_3_30,CKH093,6.56,Lithuania,2.3,185
+Single 1️⃣,Full Speed,Lithuania,Lithuania 5GB 30Days,3.4,5,30,180,API,yes,"LT - Telia 5G, BITĖ 5G, Tele2 5G",LT,LT_5_30,CKH132,9.69,Lithuania,3.4,185
+Single 1️⃣,Full Speed,Lithuania,Lithuania 10GB 30Days,9.9,10,30,180,API,yes,"LT - Telia 5G, BITĖ 5G, Tele2 5G",LT,LT_10_30,CKH186,28.22,Lithuania,9.9,185
+Single 1️⃣,Full Speed,Lithuania,Lithuania 20GB 30Days,16.8,20,30,180,API,yes,"LT - Telia 5G, BITĖ 5G, Tele2 5G",LT,LT_20_30,CKH704,47.88,Lithuania,16.8,185
+Single 1️⃣,Full Speed,Lithuania,Lithuania 50GB 180Days,37,50,180,180,API,yes,"LT - Telia 5G, BITĖ 5G, Tele2 5G",LT,LT_50_180,PDCRKSTTY,105.45,Lithuania,37,185
+Single 1️⃣,Full Speed,Luxembourg,Luxembourg 1GB 7Days,0.9,1,7,180,API,yes,"LU - POST 5G, Tango 5G, Orange 5G",LU,LU_1_7,CKH230,2.89,Luxembourg,0.9,221
+Single 1️⃣,Full Speed,Luxembourg,Luxembourg 3GB 15Days,2.2,3,15,180,API,yes,"LU - POST 5G, Tango 5G, Orange 5G",LU,LU_3_15,CKH231,7.06,Luxembourg,2.2,221
+Single 1️⃣,Full Speed,Luxembourg,Luxembourg 3GB 30Days,2.3,3,30,180,API,yes,"LU - POST 5G, Tango 5G, Orange 5G",LU,LU_3_30,CKH094,7.38,Luxembourg,2.3,221
+Single 1️⃣,Full Speed,Luxembourg,Luxembourg 5GB 30Days,3.4,5,30,180,API,yes,"LU - POST 5G, Tango 5G, Orange 5G",LU,LU_5_30,CKH133,10.91,Luxembourg,3.4,221
+Single 1️⃣,Full Speed,Luxembourg,Luxembourg 10GB 30Days,6.1,10,30,180,API,yes,"LU - POST 5G, Tango 5G, Orange 5G",LU,LU_10_30,CKH232,19.58,Luxembourg,6.1,221
+Single 1️⃣,Full Speed,Luxembourg,Luxembourg 20GB 30Days,10.6,20,30,180,API,yes,"LU - POST 5G, Tango 5G, Orange 5G",LU,LU_20_30,CKH716,34.03,Luxembourg,10.6,221
+Single 1️⃣,Full Speed,Luxembourg,Luxembourg 50GB 180Days,30,50,180,180,API,yes,"LU - POST 5G, Tango 5G, Orange 5G",LU,LU_50_180,PQIWDILIV,96.3,Luxembourg,30,221
+Single 1️⃣,Full Speed,Macao (China),Macao 1GB 7Days,0.7,1,7,180,API,yes,MO - CTM 5G,MO,MO_1_7,JC024,2.33,Macao (China),0.7,233
+Single 1️⃣,Full Speed,Macao (China),Macao 1GB 7Days (nonhkip),0.96,1,7,180,API,yes,MO - CTM 5G,MO,MO_1_7_nonhkip,PNLL0N5F4,3.2,Macao (China),0.96,233
+Single 1️⃣,Full Speed,Macao (China),Macao 3GB 15Days,1.7,3,15,180,API,yes,MO - CTM 5G,MO,MO_3_15,JC025,5.66,Macao (China),1.7,233
+Single 1️⃣,Full Speed,Macao (China),Macao 3GB 30Days,1.8,3,30,180,API,yes,MO - CTM 5G,MO,MO_3_30,JC010,5.99,Macao (China),1.8,233
+Single 1️⃣,Full Speed,Macao (China),Macao 3GB 15Days (nonhkip),2.46,3,15,180,API,yes,MO - CTM 5G,MO,MO_3_15_nonhkip,PTJM6R2V5,8.19,Macao (China),2.46,233
+Single 1️⃣,Full Speed,Macao (China),Macao 5GB 30Days,2.7,5,30,180,API,yes,MO - CTM 5G,MO,MO_5_30,JC011,8.99,Macao (China),2.7,233
+Single 1️⃣,Full Speed,Macao (China),Macao 5GB 30Days (nonhkip),3.52,5,30,180,API,yes,MO - CTM 5G,MO,MO_5_30_nonhkip,PBR7AJ6V0,11.72,Macao (China),3.52,233
+Single 1️⃣,Full Speed,Macao (China),Macao 10GB 30Days,4.7,10,30,180,API,yes,MO - CTM 5G,MO,MO_10_30,JC026,15.65,Macao (China),4.7,233
+Single 1️⃣,Full Speed,Macao (China),Macao 10GB 30Days (nonhkip),6.16,10,30,180,API,yes,MO - CTM 5G,MO,MO_10_30_nonhkip,PEM0EL2D9,20.51,Macao (China),6.16,233
+Single 1️⃣,Full Speed,Macao (China),Macao 20GB 30Days,8.2,20,30,180,API,yes,MO - CTM 5G,MO,MO_20_30,JC106,27.31,Macao (China),8.2,233
+Single 1️⃣,Full Speed,Macao (China),Macao 20GB 30Days (nonhkip),10.56,20,30,180,API,yes,MO - CTM 5G,MO,MO_20_30_nonhkip,PYY68S4KT,35.16,Macao (China),10.56,233
+Single 1️⃣,Full Speed,Macao (China),Macao 50GB 30Days,17,50,30,180,API,yes,MO - CTM 5G,MO,MO_50_30,JC107,56.61,Macao (China),17,233
+Single 1️⃣,Full Speed,Macao (China),Macao 50GB 180Days,28,50,180,180,API,yes,MO - CTM 5G,MO,MO_50_180,PDRBEISAJ,93.24,Macao (China),28,233
+Single 1️⃣,Full Speed,Madagascar,Madagascar 1GB 7Days,4.6,1,7,180,API,yes,MG - Airtel 5G,MG,MG_1_7,CKH366,6.3,Madagascar,4.6,37
+Single 1️⃣,Full Speed,Madagascar,Madagascar 3GB 15Days,11.2,3,15,180,API,yes,MG - Airtel 5G,MG,MG_3_15,CKH395,15.34,Madagascar,11.2,37
+Single 1️⃣,Full Speed,Malawi,Malawi 1GB 7Days,5.7,1,7,180,no,yes,MW - Airtel 4G,MW,MW_1_7,CKH367,7.52,Malawi,5.7,32
+Single 1️⃣,Full Speed,Malawi,Malawi 3GB 15Days,14.1,3,15,180,no,yes,MW - Airtel 4G,MW,MW_3_15,CKH396,18.61,Malawi,14.1,32
+Single 1️⃣,Full Speed,Malawi,Malawi 3GB 30Days,14.4,3,30,180,no,no,MW - Airtel 4G,MW,MW_3_30,PWWH5GS8N,19.01,Malawi,14.4,32
+Single 1️⃣,Full Speed,Malawi,Malawi 5GB 30Days,21,5,30,180,no,yes,MW - Airtel 4G,MW,MW_5_30,CKH425,27.72,Malawi,21,32
+Single 1️⃣,Full Speed,Malaysia,Malaysia 100MB 7Days,0.3,0.1,7,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_0.1_7,PT4RIB8UL,1.03,Malaysia,0.3,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 500MB 7Days,0.4,0.5,7,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_0.5_7,PA2YSC03Y,1.37,Malaysia,0.4,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 1GB 7Days,0.7,1,7,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_1_7,JC027,2.4,Malaysia,0.7,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 1GB 7Days (nonhkip),0.88,1,7,180,API,yes,MY - Maxis 5G,MY,MY_1_7_nonhkip,P298MQEKY,3.02,Malaysia,0.88,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 3GB 15Days,1.7,3,15,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_3_15,JC028,5.83,Malaysia,1.7,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 3GB 30Days,1.8,3,30,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_3_30,PIZYDS75Z,6.17,Malaysia,1.8,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 3GB 15Days (nonhkip),2.28,3,15,180,API,yes,MY - Maxis 5G,MY,MY_3_15_nonhkip,P1UL34KDX,7.82,Malaysia,2.28,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 5GB 30Days,2.7,5,30,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_5_30,JC029,9.26,Malaysia,2.7,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 5GB 30Days (nonhkip),3.52,5,30,180,API,yes,MY - Maxis 5G,MY,MY_5_30_nonhkip,PSG213EBL,12.07,Malaysia,3.52,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 10GB 30Days,4.7,10,30,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_10_30,JC030,16.12,Malaysia,4.7,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 10GB 30Days (nonhkip),6.16,10,30,180,API,yes,MY - Maxis 5G,MY,MY_10_30_nonhkip,PLDG73P5E,21.13,Malaysia,6.16,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 20GB 30Days,8.2,20,30,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_20_30,JC097,28.13,Malaysia,8.2,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 20GB 30Days (nonhkip),10.56,20,30,180,API,yes,MY - Maxis 5G,MY,MY_20_30_nonhkip,P04JBY6XN,36.22,Malaysia,10.56,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 50GB 30Days,17,50,30,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_50_30,JC098,58.31,Malaysia,17,243
+Single 1️⃣,Full Speed,Malaysia,Malaysia 50GB 180Days,28,50,180,180,no,yes,"MY - DiGi 5G, Celcom 5G",MY,MY_50_180,PBAGTADCE,96.04,Malaysia,28,243
+Single 1️⃣,Full Speed,Maldives,Maldives 1GB 7Days,7.1,1,7,180,API,yes,MV - Dhiraagu 4G,MV,MV_1_7,P7DC2DM7H,12.07,Maldives,7.1,70
+Single 1️⃣,Full Speed,Maldives,Maldives 3GB 15Days,19.3,3,15,180,API,yes,MV - Dhiraagu 4G,MV,MV_3_15,P9KIVYTAJ,32.81,Maldives,19.3,70
+Single 1️⃣,Full Speed,Maldives,Maldives 3GB 30Days,20,3,30,180,API,yes,MV - Dhiraagu 4G,MV,MV_3_30,PPLHDC5E8,34,Maldives,20,70
+Single 1️⃣,Full Speed,Maldives,Maldives 5GB 30Days,31.75,5,30,180,API,yes,MV - Dhiraagu 4G,MV,MV_5_30,PAEOVF1UW,53.98,Maldives,31.75,70
+Single 1️⃣,Full Speed,Maldives,Maldives 10GB 30Days,60.4,10,30,180,API,yes,MV - Dhiraagu 4G,MV,MV_10_30,PK9JVIKVM,102.68,Maldives,60.4,70
+Single 1️⃣,Full Speed,Maldives,Maldives 20GB 30Days,109.85,20,30,180,API,yes,MV - Dhiraagu 4G,MV,MV_20_30,PXL4ZM3IY,186.74,Maldives,109.85,70
+Single 1️⃣,Full Speed,Mali,Mali 1GB 7Days,7.1,1,7,180,API,yes,ML - Orange 5G,ML,ML_1_7,CKH381,9.23,Mali,7.1,30
+Single 1️⃣,Full Speed,Mali,Mali 3GB 15Days,17.6,3,15,180,API,yes,ML - Orange 5G,ML,ML_3_15,CKH410,22.88,Mali,17.6,30
+Single 1️⃣,Full Speed,Malta,Malta 1GB 7Days,1.5,1,7,180,API,yes,"MT - GO 5G, Vodafone 5G, Melita 5G",MT,MT_1_7,CKH187,3.45,Malta,1.5,130
+Single 1️⃣,Full Speed,Malta,Malta 3GB 15Days,2.88,3,15,180,API,yes,"MT - GO 5G, Vodafone 5G, Melita 5G",MT,MT_3_15,CKH188,6.62,Malta,2.88,130
+Single 1️⃣,Full Speed,Malta,Malta 3GB 30Days,2.98,3,30,180,API,yes,"MT - GO 5G, Vodafone 5G, Melita 5G",MT,MT_3_30,CKH095,6.85,Malta,2.98,130
+Single 1️⃣,Full Speed,Malta,Malta 5GB 30Days,5.7,5,30,180,API,yes,"MT - GO 5G, Vodafone 5G, Melita 5G",MT,MT_5_30,CKH134,13.11,Malta,5.7,130
+Single 1️⃣,Full Speed,Malta,Malta 10GB 30Days,9.9,10,30,180,API,yes,"MT - GO 5G, Vodafone 5G, Melita 5G",MT,MT_10_30,CKH189,22.77,Malta,9.9,130
+Single 1️⃣,Full Speed,Malta,Malta 20GB 30Days,16.8,20,30,180,API,yes,"MT - GO 5G, Vodafone 5G, Melita 5G",MT,MT_20_30,CKH706,38.64,Malta,16.8,130
+Single 1️⃣,Full Speed,Mauritius,Mauritius 1GB 7Days,6.05,1,7,180,API,yes,MU - my.t 5G,MU,MU_1_7,PWBKLPF8P,7.86,Mauritius,6.05,30
+Single 1️⃣,Full Speed,Mauritius,Mauritius 3GB 15Days,16.5,3,15,180,API,yes,MU - my.t 5G,MU,MU_3_15,PHIJO4KMX,21.45,Mauritius,16.5,30
+Single 1️⃣,Full Speed,Mauritius,Mauritius 3GB 30Days,17,3,30,180,API,yes,MU - my.t 5G,MU,MU_3_30,P87BXZ6N0,22.1,Mauritius,17,30
+Single 1️⃣,Full Speed,Mauritius,Mauritius 5GB 30Days,27.5,5,30,180,API,yes,MU - my.t 5G,MU,MU_5_30,PRDIISVBG,35.75,Mauritius,27.5,30
+Single 1️⃣,Full Speed,Mauritius,Mauritius 10GB 30Days,51,10,30,180,API,yes,MU - my.t 5G,MU,MU_10_30,P7AGRL8Z3,66.3,Mauritius,51,30
+Single 1️⃣,Full Speed,Mauritius,Mauritius 20GB 30Days,94,20,30,180,API,yes,MU - my.t 5G,MU,MU_20_30,PV6NYYK7X,122.2,Mauritius,94,30
+Single 1️⃣,Full Speed,Mexico,Mexico 100MB 7Days,0.3,0.1,7,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_0.1_7,PF4COP483,0.46,Mexico,0.3,55
+Single 1️⃣,Full Speed,Mexico,Mexico 500MB 7Days,1.3,0.5,7,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_0.5_7,PGF5F40E7,2.02,Mexico,1.3,55
+Single 1️⃣,Full Speed,Mexico,Mexico 1GB 7Days,2.3,1,7,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_1_7,CKH518,3.56,Mexico,2.3,55
+Single 1️⃣,Full Speed,Mexico,Mexico 3GB 15Days,5.7,3,15,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_3_15,CKH644,8.84,Mexico,5.7,55
+Single 1️⃣,Full Speed,Mexico,Mexico 3GB 30Days,5.9,3,30,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_3_30,P8DKZK30Q,9.15,Mexico,5.9,55
+Single 1️⃣,Full Speed,Mexico,Mexico 5GB 30Days,8.8,5,30,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_5_30,CKH645,13.64,Mexico,8.8,55
+Single 1️⃣,Full Speed,Mexico,Mexico 10GB 30Days,15.2,10,30,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_10_30,P84BJ7UTL,23.56,Mexico,15.2,55
+Single 1️⃣,Full Speed,Mexico,Mexico 20GB 30Days,25,20,30,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_20_30,CKH798,38.75,Mexico,25,55
+Single 1️⃣,Full Speed,Mexico,Mexico 50GB 30Days,57.5,50,30,180,API,yes,"MX - Telcel 4G, Movistar 4G",MX,MX_50_30,CKH799,89.12,Mexico,57.5,55
+Single 1️⃣,Full Speed,Moldova,Moldova 1GB 7Days,1.8,1,7,180,API,yes,"MD - Orange 5G, Unité 5G",MD,MD_1_7,CKH523,3.94,Moldova,1.8,119
+Single 1️⃣,Full Speed,Moldova,Moldova 3GB 15Days,4.6,3,15,180,API,yes,"MD - Orange 5G, Unité 5G",MD,MD_3_15,CKH647,10.07,Moldova,4.6,119
+Single 1️⃣,Full Speed,Moldova,Moldova 3GB 30Days,4.7,3,30,180,API,yes,"MD - Orange 5G, Unité 5G",MD,MD_3_30,PJQKPDV5E,10.29,Moldova,4.7,119
+Single 1️⃣,Full Speed,Moldova,Moldova 5GB 30Days,7,5,30,180,API,yes,"MD - Orange 5G, Unité 5G",MD,MD_5_30,CKH648,15.33,Moldova,7,119
+Single 1️⃣,Full Speed,Moldova,Moldova 10GB 30Days,12.2,10,30,180,API,yes,"MD - Orange 5G, Unité 5G",MD,MD_10_30,CKH944,26.72,Moldova,12.2,119
+Single 1️⃣,Full Speed,Moldova,Moldova 20GB 30Days,20,20,30,180,API,yes,"MD - Orange 5G, Unité 5G",MD,MD_20_30,CKH945,43.8,Moldova,20,119
+Single 1️⃣,Full Speed,Monaco,Monaco 1GB 7Days,7.1,1,7,180,API,yes,MC - Monaco Telecom 5G,MC,MC_1_7,CKH524,12.07,Monaco,7.1,70
+Single 1️⃣,Full Speed,Monaco,Monaco 3GB 15Days,17.6,3,15,180,API,yes,MC - Monaco Telecom 5G,MC,MC_3_15,CKH650,29.92,Monaco,17.6,70
+Single 1️⃣,Full Speed,Monaco,Monaco 5GB 30Days,26,5,30,180,API,yes,MC - Monaco Telecom 5G,MC,MC_5_30,CKH651,44.2,Monaco,26,70
+Single 1️⃣,Full Speed,Mongolia,Mongolia 1GB 7Days,14,1,7,180,API,yes,MN - Unitel 4G,MN,MN_1_7,MB004,18.2,Mongolia,14,30
+Single 1️⃣,Full Speed,Mongolia,Mongolia 3GB 15Days,34,3,15,180,API,yes,MN - Unitel 4G,MN,MN_3_15,MB010,44.2,Mongolia,34,30
+Single 1️⃣,Full Speed,Montenegro,Montenegro 1GB 7Days,2.3,1,7,180,no,yes,"ME - Telenor 4G, m:tel CG 4G",ME,ME_1_7,CKH1023,3.61,Montenegro,2.3,57
+Single 1️⃣,Full Speed,Montenegro,Montenegro 3GB 15Days,5.7,3,15,180,no,yes,"ME - Telenor 4G, m:tel CG 4G",ME,ME_3_15,CKH1024,8.95,Montenegro,5.7,57
+Single 1️⃣,Full Speed,Montenegro,Montenegro 3GB 30Days,5.8,3,30,180,no,yes,"ME - Telenor 4G, m:tel CG 4G",ME,ME_3_30,PR9F00PSM,9.11,Montenegro,5.8,57
+Single 1️⃣,Full Speed,Montenegro,Montenegro 5GB 30Days,9.5,5,30,180,no,yes,"ME - Telenor 4G, m:tel CG 4G",ME,ME_5_30,CKH1025,14.92,Montenegro,9.5,57
+Single 1️⃣,Full Speed,Montenegro,Montenegro 10GB 30Days,17,10,30,180,no,yes,"ME - Telenor 4G, m:tel CG 4G",ME,ME_10_30,CKH950,26.69,Montenegro,17,57
+Single 1️⃣,Full Speed,Montenegro,Montenegro 20GB 30Days,32,20,30,180,no,yes,"ME - Telenor 4G, m:tel CG 4G",ME,ME_20_30,CKH951,50.24,Montenegro,32,57
+Single 1️⃣,Full Speed,Morocco,Morocco 100MB 7Days,0.3,0.1,7,180,no,yes,MA - Orange Morocco 5G,MA,MA_0.1_7,PNQOJTLBQ,1.24,Morocco,0.3,313
+Single 1️⃣,Full Speed,Morocco,Morocco 500MB 7Days,0.8,0.5,7,180,no,yes,MA - Orange Morocco 5G,MA,MA_0.5_7,PQOD5XI4W,3.3,Morocco,0.8,313
+Single 1️⃣,Full Speed,Morocco,Morocco 1GB 7Days,1.5,1,7,180,no,yes,MA - Orange Morocco 5G,MA,MA_1_7,CKH382,6.2,Morocco,1.5,313
+Single 1️⃣,Full Speed,Morocco,Morocco 3GB 15Days,3.7,3,15,180,no,yes,MA - Orange Morocco 5G,MA,MA_3_15,CKH411,15.28,Morocco,3.7,313
+Single 1️⃣,Full Speed,Morocco,Morocco 3GB 30Days,3.8,3,30,180,no,yes,MA - Orange Morocco 5G,MA,MA_3_30,PPHIWSELT,15.69,Morocco,3.8,313
+Single 1️⃣,Full Speed,Morocco,Morocco 5GB 30Days,5.7,5,30,180,no,yes,MA - Orange Morocco 5G,MA,MA_5_30,P7BXAR31R,23.54,Morocco,5.7,313
+Single 1️⃣,Full Speed,Morocco,Morocco 10GB 30Days,9.9,10,30,180,no,yes,MA - Orange Morocco 5G,MA,MA_10_30,PO5WKZOPV,40.89,Morocco,9.9,313
+Single 1️⃣,Full Speed,Morocco,Morocco 20GB 30Days,16.8,20,30,180,no,yes,MA - Orange Morocco 5G,MA,MA_20_30,CKH829,69.38,Morocco,16.8,313
+Single 1️⃣,Full Speed,Morocco,Morocco 50GB 30Days,34,50,30,180,no,yes,MA - Orange Morocco 5G,MA,MA_50_30,CKH830,140.42,Morocco,34,313
+Single 1️⃣,Full Speed,Mozambique,Mozambique 1GB 7Days,5.7,1,7,180,API,yes,MZ - Vodafone 4G,MZ,MZ_1_7,MB043,7.41,Mozambique,5.7,30
+Single 1️⃣,Full Speed,Mozambique,Mozambique 3GB 15Days,14.1,3,15,180,API,yes,MZ - Vodafone 4G,MZ,MZ_3_15,MB047,18.33,Mozambique,14.1,30
+Single 1️⃣,Full Speed,Mozambique,Mozambique 3GB 30Days,14.4,3,30,180,API,no,MZ - Vodafone 4G,MZ,MZ_3_30,PA9FOA9CF,18.72,Mozambique,14.4,30
+Single 1️⃣,Full Speed,Mozambique,Mozambique 20GB 30Days,63,20,30,180,API,yes,MZ - Vodafone 4G,MZ,MZ_20_30,MB055,81.9,Mozambique,63,30
+Single 1️⃣,Full Speed,Nepal,Nepal 1GB 7Days,8.9,1,7,180,API,yes,NP - NT Mobile 4G,NP,NP_1_7,MB003,11.57,Nepal,8.9,30
+Single 1️⃣,Full Speed,Nepal,Nepal 3GB 15Days,21,3,15,180,API,yes,NP - NT Mobile 4G,NP,NP_3_15,MB013,27.3,Nepal,21,30
+Single 1️⃣,Full Speed,Netherlands,Netherlands 1GB 7Days,0.9,1,7,180,API,yes,"NL - Vodafone 5G, KPN 5G",NL,NL_1_7,CKH233,2.71,Netherlands,0.9,201
+Single 1️⃣,Full Speed,Netherlands,Netherlands 3GB 15Days,2.2,3,15,180,API,yes,"NL - Vodafone 5G, KPN 5G",NL,NL_3_15,CKH234,6.62,Netherlands,2.2,201
+Single 1️⃣,Full Speed,Netherlands,Netherlands 3GB 30Days,2.3,3,30,180,API,yes,"NL - Vodafone 5G, KPN 5G",NL,NL_3_30,CKH009,6.92,Netherlands,2.3,201
+Single 1️⃣,Full Speed,Netherlands,Netherlands 5GB 30Days,3.4,5,30,180,API,yes,"NL - Vodafone 5G, KPN 5G",NL,NL_5_30,CKH010,10.23,Netherlands,3.4,201
+Single 1️⃣,Full Speed,Netherlands,Netherlands 10GB 30Days,6.1,10,30,180,API,yes,"NL - Vodafone 5G, KPN 5G",NL,NL_10_30,CKH235,18.36,Netherlands,6.1,201
+Single 1️⃣,Full Speed,Netherlands,Netherlands 20GB 30Days,10.6,20,30,180,API,yes,"NL - Vodafone 5G, KPN 5G",NL,NL_20_30,CKH724,31.91,Netherlands,10.6,201
+Single 1️⃣,Full Speed,Netherlands,Netherlands 50GB 180Days,30,50,180,180,API,yes,"NL - Vodafone 5G, KPN 5G",NL,NL_50_180,P6D7MCOBF,90.3,Netherlands,30,201
+Single 1️⃣,Full Speed,New Zealand,New Zealand 100MB 7Days,0.3,0.1,7,180,API,yes,NZ - Spark 4G,NZ,NZ_0.1_7,PLTOJ7B6Z,0.83,New Zealand,0.3,176
+Single 1️⃣,Full Speed,New Zealand,New Zealand 500MB 7Days,0.7,0.5,7,180,API,yes,NZ - Spark 4G,NZ,NZ_0.5_7,PE96WYIJD,1.93,New Zealand,0.7,176
+Single 1️⃣,Full Speed,New Zealand,New Zealand 1GB 7Days,1.2,1,7,180,API,yes,NZ - Spark 4G,NZ,NZ_1_7,JC031,3.31,New Zealand,1.2,176
+Single 1️⃣,Full Speed,New Zealand,New Zealand 3GB 15Days,3.2,3,15,180,API,yes,NZ - Spark 4G,NZ,NZ_3_15,JC032,8.83,New Zealand,3.2,176
+Single 1️⃣,Full Speed,New Zealand,New Zealand 3GB 30Days,3.3,3,30,180,API,yes,NZ - Spark 4G,NZ,NZ_3_30,PHX1H7KZ5,9.11,New Zealand,3.3,176
+Single 1️⃣,Full Speed,New Zealand,New Zealand 5GB 30Days,5.2,5,30,180,API,yes,NZ - Spark 4G,NZ,NZ_5_30,JC033,14.35,New Zealand,5.2,176
+Single 1️⃣,Full Speed,New Zealand,New Zealand 10GB 30Days,8.3,10,30,180,API,yes,NZ - Spark 4G,NZ,NZ_10_30,JC082,22.91,New Zealand,8.3,176
+Single 1️⃣,Full Speed,New Zealand,New Zealand 20GB 30Days,14,20,30,180,API,yes,NZ - Spark 4G,NZ,NZ_20_30,JC083,38.64,New Zealand,14,176
+Single 1️⃣,Full Speed,New Zealand,New Zealand 50GB 180Days,31,50,180,180,API,yes,NZ - Spark 4G,NZ,NZ_50_180,PEIHJAQVY,85.56,New Zealand,31,176
+Single 1️⃣,Full Speed,Nicaragua,Nicaragua 100MB 7Days,0.57,0.1,7,180,API,yes,NI - movistar 4G,NI,NI_0.1_7,PUHSFBY6P,0.78,Nicaragua,0.57,37
+Single 1️⃣,Full Speed,Nicaragua,Nicaragua 500MB 7Days,2.5,0.5,7,180,API,yes,NI - movistar 4G,NI,NI_0.5_7,PM77ZUQ9Y,3.42,Nicaragua,2.5,37
+Single 1️⃣,Full Speed,Nicaragua,Nicaragua 1GB 7Days,4.6,1,7,180,API,yes,NI - movistar 4G,NI,NI_1_7,CKH311,6.3,Nicaragua,4.6,37
+Single 1️⃣,Full Speed,Nicaragua,Nicaragua 3GB 15Days,11.2,3,15,180,API,yes,NI - movistar 4G,NI,NI_3_15,CKH327,15.34,Nicaragua,11.2,37
+Single 1️⃣,Full Speed,Niger,Niger 100MB 7Days,0.86,0.1,7,180,API,yes,"NE - Orange 3G, Airtel 3G",NE,NE_0.1_7,P8Y35DWA0,1.12,Niger,0.86,30
+Single 1️⃣,Full Speed,Niger,Niger 500MB 7Days,3.9,0.5,7,180,API,yes,"NE - Orange 3G, Airtel 3G",NE,NE_0.5_7,PVJCSDPRY,5.07,Niger,3.9,30
+Single 1️⃣,Full Speed,Niger,Niger 1GB 7Days,7.1,1,7,180,API,yes,"NE - Orange 3G, Airtel 3G",NE,NE_1_7,CKH383,9.23,Niger,7.1,30
+Single 1️⃣,Full Speed,Niger,Niger 3GB 15Days,17.6,3,15,180,API,yes,"NE - Orange 3G, Airtel 3G",NE,NE_3_15,CKH412,22.88,Niger,17.6,30
+Single 1️⃣,Full Speed,Nigeria,Nigeria 100MB 7Days,0.47,0.1,7,180,API,yes,"NG - MTN 5G, Airtel 5G",NG,NG_0.1_7,P0Q24KI1C,0.71,Nigeria,0.47,52
+Single 1️⃣,Full Speed,Nigeria,Nigeria 500MB 7Days,2.5,0.5,7,180,API,yes,"NG - MTN 5G, Airtel 5G",NG,NG_0.5_7,PYNQZM3O7,3.8,Nigeria,2.5,52
+Single 1️⃣,Full Speed,Nigeria,Nigeria 1GB 7Days,4.6,1,7,180,API,yes,"NG - MTN 5G, Airtel 5G",NG,NG_1_7,CKH384,6.99,Nigeria,4.6,52
+Single 1️⃣,Full Speed,Nigeria,Nigeria 3GB 15Days,11.2,3,15,180,API,yes,"NG - MTN 5G, Airtel 5G",NG,NG_3_15,CKH413,17.02,Nigeria,11.2,52
+Single 1️⃣,Full Speed,Nigeria,Nigeria 3GB 30Days,11.3,3,30,180,API,yes,"NG - MTN 5G, Airtel 5G",NG,NG_3_30,P6DFLYG3M,17.18,Nigeria,11.3,52
+Single 1️⃣,Full Speed,Nigeria,Nigeria 5GB 30Days,17,5,30,180,API,yes,"NG - MTN 5G, Airtel 5G",NG,NG_5_30,CKH442,25.84,Nigeria,17,52
+Single 1️⃣,Full Speed,Nigeria,Nigeria 10GB 30Days,32,10,30,180,API,yes,"NG - MTN 5G, Airtel 5G",NG,NG_10_30,CKH471,48.64,Nigeria,32,52
+Single 1️⃣,Full Speed,Nigeria,Nigeria 20GB 30Days,60,20,30,180,API,yes,"NG - MTN 5G, Airtel 5G",NG,NG_20_30,CKH911,91.2,Nigeria,60,52
+Single 1️⃣,Full Speed,North Macedonia,North Macedonia of  1GB 7Days,2.3,1,7,180,API,yes,"MK - vip 5G, Telekom.mk 5G",MK,MK_1_7,CKH517,3.24,North Macedonia,2.3,41
+Single 1️⃣,Full Speed,North Macedonia,North Macedonia of  3GB 15Days,5.7,3,15,180,API,yes,"MK - vip 5G, Telekom.mk 5G",MK,MK_3_15,CKH637,8.04,North Macedonia,5.7,41
+Single 1️⃣,Full Speed,North Macedonia,North Macedonia of  5GB 30Days,8.8,5,30,180,API,yes,"MK - vip 5G, Telekom.mk 5G",MK,MK_5_30,CKH638,12.41,North Macedonia,8.8,41
+Single 1️⃣,Full Speed,North Macedonia,North Macedonia of 10GB 30Days,16,10,30,180,API,yes,"MK - vip 5G, Telekom.mk 5G",MK,MK_10_30,PJ7N7OVRF,22.56,North Macedonia,16,41
+Single 1️⃣,Full Speed,North Macedonia,North Macedonia of 20GB 30Days,30,20,30,180,API,yes,"MK - vip 5G, Telekom.mk 5G",MK,MK_20_30,PXAIUDUP2,42.3,North Macedonia,30,41
+Single 1️⃣,Full Speed,Norway,Norway 1GB 7Days,0.7,1,7,180,API,yes,"NO - Telia 5G, Telenor 5G",NO,NO_1_7,CKH999,2.67,Norway,0.7,282
+Single 1️⃣,Full Speed,Norway,Norway 3GB 15Days,1.7,3,15,180,API,yes,"NO - Telia 5G, Telenor 5G",NO,NO_3_15,CKH1000,6.49,Norway,1.7,282
+Single 1️⃣,Full Speed,Norway,Norway 3GB 30Days,1.8,3,30,180,API,yes,"NO - Telia 5G, Telenor 5G",NO,NO_3_30,CKH982,6.88,Norway,1.8,282
+Single 1️⃣,Full Speed,Norway,Norway 5GB 30Days,2.7,5,30,180,API,yes,"NO - Telia 5G, Telenor 5G",NO,NO_5_30,CKH988,10.31,Norway,2.7,282
+Single 1️⃣,Full Speed,Norway,Norway 10GB 30Days,4.7,10,30,180,API,yes,"NO - Telia 5G, Telenor 5G",NO,NO_10_30,CKH1001,17.95,Norway,4.7,282
+Single 1️⃣,Full Speed,Norway,Norway 20GB 30Days,8.2,20,30,180,API,yes,"NO - Telia 5G, Telenor 5G",NO,NO_20_30,CKH1009,31.32,Norway,8.2,282
+Single 1️⃣,Full Speed,Norway,Norway 50GB 180Days,28,50,180,180,API,yes,"NO - Telia 5G, Telenor 5G",NO,NO_50_180,PDUMILX5C,106.96,Norway,28,282
+Single 1️⃣,Full Speed,Oman,Oman 1GB 7Days,2.86,1,7,180,API,yes,"OM - Omantel 5G, ooredoo 5G",OM,OM_1_7,CKH273,3.78,Oman,2.86,32
+Single 1️⃣,Full Speed,Oman,Oman 3GB 15Days,8.5,3,15,180,API,yes,"OM - Omantel 5G, ooredoo 5G",OM,OM_3_15,CKH274,11.22,Oman,8.5,32
+Single 1️⃣,Full Speed,Oman,Oman 3GB 30Days,8.58,3,30,180,API,yes,"OM - Omantel 5G, ooredoo 5G",OM,OM_3_30,CKH028,11.33,Oman,8.58,32
+Single 1️⃣,Full Speed,Oman,Oman 5GB 30Days,14,5,30,180,API,yes,"OM - Omantel 5G, ooredoo 5G",OM,OM_5_30,CKH275,18.48,Oman,14,32
+Single 1️⃣,Full Speed,Oman,Oman 10GB 30Days,27.5,10,30,180,API,yes,"OM - Omantel 5G, ooredoo 5G",OM,OM_10_30,CKH276,36.3,Oman,27.5,32
+Single 1️⃣,Full Speed,Oman,Oman 20GB 30Days,45,20,30,180,API,yes,"OM - Omantel 5G, ooredoo 5G",OM,OM_20_30,CKH807,59.4,Oman,45,32
+Single 1️⃣,Full Speed,Pakistan,Pakistan 100MB 7Days,0.3,0.1,7,180,no,yes,PK - Jazz 4G,PK,PK_0.1_7,P96CDAE48,0.47,Pakistan,0.3,57
+Single 1️⃣,Full Speed,Pakistan,Pakistan 500MB 7Days,1,0.5,7,180,no,yes,PK - Jazz 4G,PK,PK_0.5_7,PTOLC574D,1.57,Pakistan,1,57
+Single 1️⃣,Full Speed,Pakistan,Pakistan 1GB 7Days,1.8,1,7,180,API,yes,PK - Jazz 4G,PK,PK_1_7,JC111,2.83,Pakistan,1.8,57
+Single 1️⃣,Full Speed,Pakistan,Pakistan 3GB 15Days,4.6,3,15,180,no,yes,PK - Jazz 4G,PK,PK_3_15,JC129,7.22,Pakistan,4.6,57
+Single 1️⃣,Full Speed,Pakistan,Pakistan 3GB 30Days,4.7,3,30,180,no,yes,PK - Jazz 4G,PK,PK_3_30,P70ZZFLRP,7.38,Pakistan,4.7,57
+Single 1️⃣,Full Speed,Pakistan,Pakistan 5GB 30Days,7,5,30,180,API,yes,PK - Jazz 4G,PK,PK_5_30,JC130,10.99,Pakistan,7,57
+Single 1️⃣,Full Speed,Pakistan,Pakistan 10GB 30Days,12.2,10,30,180,no,yes,PK - Jazz 4G,PK,PK_10_30,JC152,19.15,Pakistan,12.2,57
+Single 1️⃣,Full Speed,Pakistan,Pakistan 20GB 30Days,20,20,30,180,no,yes,PK - Jazz 4G,PK,PK_20_30,JC153,31.4,Pakistan,20,57
+Single 1️⃣,Full Speed,Panama,Panama 100MB 7Days,0.57,0.1,7,180,API,yes,PA - movistar 4G,PA,PA_0.1_7,P76PJ8WFO,0.85,Panama,0.57,49
+Single 1️⃣,Full Speed,Panama,Panama 500MB 7Days,2.5,0.5,7,180,API,yes,PA - movistar 4G,PA,PA_0.5_7,PO7L569RE,3.72,Panama,2.5,49
+Single 1️⃣,Full Speed,Panama,Panama 1GB 7Days,4.6,1,7,180,API,yes,PA - movistar 4G,PA,PA_1_7,CKH312,6.85,Panama,4.6,49
+Single 1️⃣,Full Speed,Panama,Panama 3GB 15Days,11.2,3,15,180,API,yes,PA - movistar 4G,PA,PA_3_15,CKH328,16.69,Panama,11.2,49
+Single 1️⃣,Full Speed,Panama,Panama 3GB 30Days,11.3,3,30,180,API,yes,PA - movistar 4G,PA,PA_3_30,PL85BR1W4,16.84,Panama,11.3,49
+Single 1️⃣,Full Speed,Panama,Panama 5GB 30Days,18.5,5,30,180,API,yes,PA - movistar 4G,PA,PA_5_30,CKH344,27.56,Panama,18.5,49
+Single 1️⃣,Full Speed,Panama,Panama 10GB 30Days,35,10,30,180,API,yes,PA - movistar 4G,PA,PA_10_30,CKH360,52.15,Panama,35,49
+Single 1️⃣,Full Speed,Panama,Panama 20GB 30Days,68,20,30,180,API,yes,PA - movistar 4G,PA,PA_20_30,CKH913,101.32,Panama,68,49
+Single 1️⃣,Full Speed,Paraguay,Paraguay 100MB 7Days,0.53,0.1,7,180,API,yes,"PY - Tigo 4G, Claro 4G",PY,PY_0.1_7,P0112XJDY,0.75,Paraguay,0.53,41
+Single 1️⃣,Full Speed,Paraguay,Paraguay 500MB 7Days,2.5,0.5,7,180,API,yes,"PY - Tigo 4G, Claro 4G",PY,PY_0.5_7,P1WIRJJCB,3.52,Paraguay,2.5,41
+Single 1️⃣,Full Speed,Paraguay,Paraguay 1GB 7Days,4.6,1,7,180,API,yes,"PY - Tigo 4G, Claro 4G",PY,PY_1_7,CKH313,6.49,Paraguay,4.6,41
+Single 1️⃣,Full Speed,Paraguay,Paraguay 3GB 15Days,11.2,3,15,180,API,yes,"PY - Tigo 4G, Claro 4G",PY,PY_3_15,CKH329,15.79,Paraguay,11.2,41
+Single 1️⃣,Full Speed,Paraguay,Paraguay 3GB 30Days,11.3,3,30,180,API,yes,"PY - Tigo 4G, Claro 4G",PY,PY_3_30,PNF73FQGH,15.93,Paraguay,11.3,41
+Single 1️⃣,Full Speed,Paraguay,Paraguay 5GB 30Days,17,5,30,180,API,yes,"PY - Tigo 4G, Claro 4G",PY,PY_5_30,CKH345,23.97,Paraguay,17,41
+Single 1️⃣,Full Speed,Paraguay,Paraguay 10GB 30Days,32,10,30,180,API,yes,"PY - Tigo 4G, Claro 4G",PY,PY_10_30,CKH361,45.12,Paraguay,32,41
+Single 1️⃣,Full Speed,Paraguay,Paraguay 20GB 30Days,60,20,30,180,API,yes,"PY - Tigo 4G, Claro 4G",PY,PY_20_30,CKH915,84.6,Paraguay,60,41
+Single 1️⃣,Full Speed,Peru,Peru 100MB 7Days,0.65,0.1,7,180,API,yes,"PE - Entel 5G, Movistar 5G, Claro 5G",PE,PE_0.1_7,PZ5R7GI4K,0.85,Peru,0.65,30
+Single 1️⃣,Full Speed,Peru,Peru 500MB 7Days,3.1,0.5,7,180,API,yes,"PE - Entel 5G, Movistar 5G, Claro 5G",PE,PE_0.5_7,PZ8KWP0BH,4.03,Peru,3.1,30
+Single 1️⃣,Full Speed,Peru,Peru 1GB 7Days,5.7,1,7,180,API,yes,"PE - Entel 5G, Movistar 5G, Claro 5G",PE,PE_1_7,CKH314,7.41,Peru,5.7,30
+Single 1️⃣,Full Speed,Peru,Peru 3GB 15Days,14.1,3,15,180,API,yes,"PE - Entel 5G, Movistar 5G, Claro 5G",PE,PE_3_15,CKH330,18.33,Peru,14.1,30
+Single 1️⃣,Full Speed,Peru,Peru 3GB 30Days,14.4,3,30,180,API,yes,"PE - Entel 5G, Movistar 5G, Claro 5G",PE,PE_3_30,PW1MQDJDN,18.72,Peru,14.4,30
+Single 1️⃣,Full Speed,Peru,Peru 5GB 30Days,49.5,5,30,180,API,yes,"PE - Entel 5G, Movistar 5G, Claro 5G",PE,PE_5_30,CKH346,64.35,Peru,49.5,30
+Single 1️⃣,Full Speed,Peru,Peru 10GB 30Days,84.15,10,30,180,API,yes,"PE - Entel 5G, Movistar 5G, Claro 5G",PE,PE_10_30,CKH362,109.4,Peru,84.15,30
+Single 1️⃣,Full Speed,Peru,Peru 20GB 30Days,98,20,30,180,API,yes,"PE - Entel 5G, Movistar 5G, Claro 5G",PE,PE_20_30,CKH862,127.4,Peru,98,30
+Single 1️⃣,Full Speed,Philippines,Philippines 100MB 7Days,0.3,0.1,7,180,API,yes,"PH - Globe 5G, SMART 5G",PH,PH_0.1_7,PXB3QI9EJ,0.48,Philippines,0.3,59
+Single 1️⃣,Full Speed,Philippines,Philippines 500MB 7Days,1,0.5,7,180,API,yes,"PH - Globe 5G, SMART 5G",PH,PH_0.5_7,P7NPVLHM1,1.59,Philippines,1,59
+Single 1️⃣,Full Speed,Philippines,Philippines 1GB 7Days,1.8,1,7,180,no,yes,PH - Globe 5G,PH,PH_1_7,JC034,2.86,Philippines,1.8,59
+Single 1️⃣,Full Speed,Philippines,Philippines 3GB 15Days,4.6,3,15,180,API,yes,"PH - Globe 5G, SMART 5G",PH,PH_3_15,JC035,7.31,Philippines,4.6,59
+Single 1️⃣,Full Speed,Philippines,Philippine 3GB 30Days,4.7,3,30,180,API,yes,"PH - Globe 5G, SMART 5G",PH,PH_3_30,PV7L2P3BV,7.47,Philippines,4.7,59
+Single 1️⃣,Full Speed,Philippines,Philippines 5GB 30Days,7,5,30,180,API,yes,"PH - Globe 5G, SMART 5G",PH,PH_5_30,JC036,11.13,Philippines,7,59
+Single 1️⃣,Full Speed,Philippines,Philippines 10GB 30Days,12.2,10,30,180,API,yes,"PH - Globe 5G, SMART 5G",PH,PH_10_30,JC037,19.4,Philippines,12.2,59
+Single 1️⃣,Full Speed,Philippines,Philippines 20GB 30Days,20,20,30,180,API,yes,"PH - Globe 5G, SMART 5G",PH,PH_20_30,JC099,31.8,Philippines,20,59
+Single 1️⃣,Full Speed,Philippines,Philippines 50GB 180Days,45,50,180,180,API,yes,"PH - Globe 5G, SMART 5G",PH,PH_50_180,PYEPCSNFU,71.55,Philippines,45,59
+Single 1️⃣,Full Speed,Poland,Poland 1GB 7Days,0.7,1,7,180,API,yes,"PL - Orange 5G, Play 5G, Plus 5G",PL,PL_1_7,CKH236,2.15,Poland,0.7,207
+Single 1️⃣,Full Speed,Poland,Poland 3GB 15Days,1.7,3,15,180,API,yes,"PL - Orange 5G, Play 5G, Plus 5G",PL,PL_3_15,CKH237,5.22,Poland,1.7,207
+Single 1️⃣,Full Speed,Poland,Poland 3GB 30Days,1.8,3,30,180,API,yes,"PL - Orange 5G, Play 5G, Plus 5G",PL,PL_3_30,CKH096,5.53,Poland,1.8,207
+Single 1️⃣,Full Speed,Poland,Poland 5GB 30Days,2.7,5,30,180,API,yes,"PL - Orange 5G, Play 5G, Plus 5G",PL,PL_5_30,CKH135,8.29,Poland,2.7,207
+Single 1️⃣,Full Speed,Poland,Poland 10GB 30Days,5,10,30,180,API,yes,"PL - Orange 5G, Play 5G, Plus 5G",PL,PL_10_30,CKH238,15.35,Poland,5,207
+Single 1️⃣,Full Speed,Poland,Poland 20GB 30Days,8.2,20,30,180,API,yes,"PL - Orange 5G, Play 5G, Plus 5G",PL,PL_20_30,CKH726,25.17,Poland,8.2,207
+Single 1️⃣,Full Speed,Poland,Poland 50GB 180Days,28,50,180,180,API,yes,"PL - Orange 5G, Play 5G, Plus 5G",PL,PL_50_180,PZMKJMCWN,85.96,Poland,28,207
+Single 1️⃣,Full Speed,Portugal,Portugal 1GB 7Days,0.9,1,7,180,API,yes,"PT - NOS 5G, Vodafone 5G, MEO 5G",PT,PT_1_7,CKH1002,1.46,Portugal,0.9,62
+Single 1️⃣,Full Speed,Portugal,Portugal 3GB 15Days,2.2,3,15,180,API,yes,"PT - NOS 5G, Vodafone 5G, MEO 5G",PT,PT_3_15,CKH1003,3.56,Portugal,2.2,62
+Single 1️⃣,Full Speed,Portugal,Portugal 3GB 30Days,2.3,3,30,180,API,yes,"PT - NOS 5G, Vodafone 5G, MEO 5G",PT,PT_3_30,CKH980,3.73,Portugal,2.3,62
+Single 1️⃣,Full Speed,Portugal,Portugal 5GB 30Days,3.4,5,30,180,API,yes,"PT - NOS 5G, Vodafone 5G, MEO 5G",PT,PT_5_30,CKH986,5.51,Portugal,3.4,62
+Single 1️⃣,Full Speed,Portugal,Portugal 10GB 30Days,6.1,10,30,180,API,yes,"PT - NOS 5G, Vodafone 5G, MEO 5G",PT,PT_10_30,CKH1004,9.88,Portugal,6.1,62
+Single 1️⃣,Full Speed,Portugal,Portugal 20GB 30Days,10.6,20,30,180,API,yes,"PT - NOS 5G, Vodafone 5G, MEO 5G",PT,PT_20_30,CKH1011,17.17,Portugal,10.6,62
+Single 1️⃣,Full Speed,Puerto Rico,Puerto Rico 1GB 7Days,2.9,1,7,180,API,yes,PR - Claro 4G,PR,PR_1_7,CKH315,3.97,Puerto Rico,2.9,37
+Single 1️⃣,Full Speed,Puerto Rico,Puerto Rico 3GB 15Days,7.2,3,15,180,API,yes,PR - Claro 4G,PR,PR_3_15,CKH331,9.86,Puerto Rico,7.2,37
+Single 1️⃣,Full Speed,Puerto Rico,Puerto Rico 5GB 30Days,11,5,30,180,API,yes,PR - Claro 4G,PR,PR_5_30,CKH347,15.07,Puerto Rico,11,37
+Single 1️⃣,Full Speed,Qatar,Qatar 100MB 7Days,0.45,0.1,7,180,API,yes,"QA - Vodafone 4G, ooredoo 5G",QA,QA_0.1_7,PIPAFTMRE,0.59,Qatar,0.45,30
+Single 1️⃣,Full Speed,Qatar,Qatar 500MB 7Days,2,0.5,7,180,API,yes,"QA - Vodafone 4G, ooredoo 5G",QA,QA_0.5_7,PWZ5FXSJ3,2.6,Qatar,2,30
+Single 1️⃣,Full Speed,Qatar,Qatar 1GB 7Days,3.6,1,7,180,API,yes,"QA - Vodafone 4G, ooredoo 5G",QA,QA_1_7,CKH513,4.68,Qatar,3.6,30
+Single 1️⃣,Full Speed,Qatar,Qatar 3GB 15Days,8.9,3,15,180,API,yes,"QA - Vodafone 4G, ooredoo 5G",QA,QA_3_15,CKH667,11.57,Qatar,8.9,30
+Single 1️⃣,Full Speed,Qatar,Qatar 3GB 30Days,9.1,3,30,180,API,yes,"QA - Vodafone 4G, ooredoo 5G",QA,QA_3_30,CKH029,11.83,Qatar,9.1,30
+Single 1️⃣,Full Speed,Qatar,Qatar 5GB 30Days,13.6,5,30,180,API,yes,"QA - Vodafone 4G, ooredoo 5G",QA,QA_5_30,CKH668,17.68,Qatar,13.6,30
+Single 1️⃣,Full Speed,Qatar,Qatar 10GB 30Days,25,10,30,180,API,yes,"QA - Vodafone 4G, ooredoo 5G",QA,QA_10_30,CKH761,32.5,Qatar,25,30
+Single 1️⃣,Full Speed,Qatar,Qatar 20GB 30Days,40,20,30,180,API,yes,"QA - Vodafone 4G, ooredoo 5G",QA,QA_20_30,CKH762,52,Qatar,40,30
+Single 1️⃣,Full Speed,Republic of the Congo,Republic of the Congo 1GB 7Days,5.7,1,7,180,API,yes,CG - Airtel 4G,CG,CG_1_7,MB023,7.52,Republic of the Congo,5.7,32
+Single 1️⃣,Full Speed,Republic of the Congo,Republic of the Congo 3GB 15Days,14.1,3,15,180,API,yes,CG - Airtel 4G,CG,CG_3_15,MB028,18.61,Republic of the Congo,14.1,32
+Single 1️⃣,Full Speed,Republic of the Congo,Republic of the Congo 3GB 30Days,14.4,3,30,180,API,no,CG - Airtel 4G,CG,CG_3_30,PLF4J2VKM,19.01,Republic of the Congo,14.4,32
+Single 1️⃣,Full Speed,Republic of the Congo,Republic of the Congo 5GB 30Days,21,5,30,180,API,yes,CG - Airtel 4G,CG,CG_5_30,MB033,27.72,Republic of the Congo,21,32
+Single 1️⃣,Full Speed,Reunion,Reunion 100MB 7Days,0.3,0.1,7,180,API,yes,RE - Orange 5G,RE,RE_0.1_7,PN1JR359K,0.4,Reunion,0.3,33
+Single 1️⃣,Full Speed,Reunion,Reunion 500MB 7Days,1.6,0.5,7,180,API,yes,RE - Orange 5G,RE,RE_0.5_7,PVXXCK4BJ,2.13,Reunion,1.6,33
+Single 1️⃣,Full Speed,Reunion,Reunion 1GB 7Days,2.9,1,7,180,API,yes,RE - Orange 5G,RE,RE_1_7,CKH365,3.86,Reunion,2.9,33
+Single 1️⃣,Full Speed,Reunion,Reunion 3GB 15Days,7.2,3,15,180,API,yes,RE - Orange 5G,RE,RE_3_15,CKH394,9.58,Reunion,7.2,33
+Single 1️⃣,Full Speed,Reunion,Reunion 5GB 30Days,11,5,30,180,API,yes,RE - Orange 5G,RE,RE_5_30,CKH423,14.63,Reunion,11,33
+Single 1️⃣,Full Speed,Reunion,Reunion 10GB 30Days,19,10,30,180,API,yes,RE - Orange 5G,RE,RE_10_30,CKH452,25.27,Reunion,19,33
+Single 1️⃣,Full Speed,Romania,Romania 1GB 7Days,0.7,1,7,180,API,yes,"RO - Vodafone 5G, Orange 5G, Digi.Mobil 5G",RO,RO_1_7,CKH239,2.79,Romania,0.7,299
+Single 1️⃣,Full Speed,Romania,Romania 3GB 15Days,1.7,3,15,180,API,yes,"RO - Vodafone 5G, Orange 5G, Digi.Mobil 5G",RO,RO_3_15,CKH240,6.78,Romania,1.7,299
+Single 1️⃣,Full Speed,Romania,Romania 3GB 30Days,1.8,3,30,180,API,yes,"RO - Vodafone 5G, Orange 5G, Digi.Mobil 5G",RO,RO_3_30,CKH098,7.18,Romania,1.8,299
+Single 1️⃣,Full Speed,Romania,Romania 5GB 30Days,2.7,5,30,180,API,yes,"RO - Vodafone 5G, Orange 5G, Digi.Mobil 5G",RO,RO_5_30,CKH137,10.77,Romania,2.7,299
+Single 1️⃣,Full Speed,Romania,Romania 10GB 30Days,4.7,10,30,180,API,yes,"RO - Vodafone 5G, Orange 5G, Digi.Mobil 5G",RO,RO_10_30,CKH241,18.75,Romania,4.7,299
+Single 1️⃣,Full Speed,Romania,Romania 20GB 30Days,8.2,20,30,180,API,yes,"RO - Vodafone 5G, Orange 5G, Digi.Mobil 5G",RO,RO_20_30,CKH728,32.72,Romania,8.2,299
+Single 1️⃣,Full Speed,Romania,Romania 50GB 180Days,30,50,180,180,API,yes,"RO - Vodafone 5G, Orange 5G, Digi.Mobil 5G",RO,RO_50_180,PBOG35WTO,119.7,Romania,30,299
+Single 1️⃣,Full Speed,Russia,Russia 100MB 7Days,0.4,0.1,7,180,API,yes,RU - MTS 4G,RU,RU_0.1_7,PVP4RSUMR,0.68,Russia,0.4,70
+Single 1️⃣,Full Speed,Russia,Russia 500MB 7Days,1.6,0.5,7,180,API,yes,RU - MTS 4G,RU,RU_0.5_7,PKLM729JK,2.72,Russia,1.6,70
+Single 1️⃣,Full Speed,Russia,Russia 1GB 7Days,2.9,1,7,180,API,yes,RU - MTS 4G,RU,RU_1_7,JC070,4.93,Russia,2.9,70
+Single 1️⃣,Full Speed,Russia,Russia 3GB 15Days,7.2,3,15,180,API,yes,RU - MTS 4G,RU,RU_3_15,JC071,12.24,Russia,7.2,70
+Single 1️⃣,Full Speed,Russia,Russia 3GB 30Days,7.3,3,30,180,API,yes,RU - MTS 4G,RU,RU_3_30,JC068,12.41,Russia,7.3,70
+Single 1️⃣,Full Speed,Russia,Russia 5GB 30Days,11,5,30,180,API,yes,RU - MTS 4G,RU,RU_5_30,JC069,18.7,Russia,11,70
+Single 1️⃣,Full Speed,Russia,Russia 10GB 30Days,20,10,30,180,API,yes,RU - MTS 4G,RU,RU_10_30,PQOSLY3JW,34,Russia,20,70
+Single 1️⃣,Full Speed,Russia,Russia 20GB 30Days,38,20,30,180,API,yes,RU - MTS 4G,RU,RU_20_30,P4G1R48B6,64.6,Russia,38,70
+Single 1️⃣,Full Speed,Saudi Arabia,Saudi Arabia 1GB 7Days,2.4,1,7,180,API,yes,SA - Mobily 5G,SA,SA_1_7,CKH277,3.22,Saudi Arabia,2.4,34
+Single 1️⃣,Full Speed,Saudi Arabia,Saudi Arabia 3GB 15Days,6,3,15,180,API,yes,SA - Mobily 5G,SA,SA_3_15,CKH278,8.04,Saudi Arabia,6,34
+Single 1️⃣,Full Speed,Saudi Arabia,Saudi Arabia 3GB 30Days,6.4,3,30,180,API,yes,SA - Mobily 5G,SA,SA_3_30,CKH036,8.58,Saudi Arabia,6.4,34
+Single 1️⃣,Full Speed,Saudi Arabia,Saudi Arabia 5GB 30Days,10,5,30,180,API,yes,SA - Mobily 5G,SA,SA_5_30,CKH279,13.4,Saudi Arabia,10,34
+Single 1️⃣,Full Speed,Saudi Arabia,Saudi Arabia 10GB 30Days,17.2,10,30,180,API,yes,SA - Mobily 5G,SA,SA_10_30,CKH280,23.05,Saudi Arabia,17.2,34
+Single 1️⃣,Full Speed,Saudi Arabia,Saudi Arabia 20GB 30Days,31.8,20,30,180,API,yes,SA - Mobily 5G,SA,SA_20_30,CKH800,42.61,Saudi Arabia,31.8,34
+Single 1️⃣,Full Speed,Senegal,Senegal 100MB 7Days,0.86,0.1,7,180,API,yes,SN - Orange 4G,SN,SN_0.1_7,PBBWJ5ZI6,1.12,Senegal,0.86,30
+Single 1️⃣,Full Speed,Senegal,Senegal 500MB 7Days,3.9,0.5,7,180,API,yes,SN - Orange 4G,SN,SN_0.5_7,PDW064AF9,5.07,Senegal,3.9,30
+Single 1️⃣,Full Speed,Senegal,Senegal 1GB 7Days,7.1,1,7,180,API,yes,SN - Orange 4G,SN,SN_1_7,CKH385,9.23,Senegal,7.1,30
+Single 1️⃣,Full Speed,Senegal,Senegal 3GB 15Days,17.6,3,15,180,API,yes,SN - Orange 4G,SN,SN_3_15,CKH414,22.88,Senegal,17.6,30
+Single 1️⃣,Full Speed,Senegal,Senegal 5GB 30Days,26,5,30,180,API,yes,SN - Orange 4G,SN,SN_5_30,CKH443,33.8,Senegal,26,30
+Single 1️⃣,Full Speed,Serbia,Serbia 100MB 7Days,0.32,0.1,7,180,no,yes,"RS - VIP 4G, Telenor 4G",RS,RS_0.1_7,PHLQ4R8Z8,0.42,Serbia,0.32,32
+Single 1️⃣,Full Speed,Serbia,Serbia 500MB 7Days,1.6,0.5,7,180,no,yes,"RS - VIP 4G, Telenor 4G",RS,RS_0.5_7,P5VCERVEZ,2.11,Serbia,1.6,32
+Single 1️⃣,Full Speed,Serbia,Serbia 1GB 7Days,2.9,1,7,180,no,yes,"RS - VIP 4G, Telenor 4G",RS,RS_1_7,CKH1016,3.83,Serbia,2.9,32
+Single 1️⃣,Full Speed,Serbia,Serbia 3GB 15Days,7.2,3,15,180,no,yes,"RS - VIP 4G, Telenor 4G",RS,RS_3_15,CKH677,9.5,Serbia,7.2,32
+Single 1️⃣,Full Speed,Serbia,Serbia 3GB 30Days,7.3,3,30,180,no,yes,"RS - VIP 4G, Telenor 4G",RS,RS_3_30,CKH113,9.64,Serbia,7.3,32
+Single 1️⃣,Full Speed,Serbia,Serbia 5GB 30Days,11,5,30,180,no,yes,"RS - VIP 4G, Telenor 4G",RS,RS_5_30,CKH152,14.52,Serbia,11,32
+Single 1️⃣,Full Speed,Serbia,Serbia 10GB 30Days,19,10,30,180,no,yes,"RS - VIP 4G, Telenor 4G",RS,RS_10_30,CKH802,25.08,Serbia,19,32
+Single 1️⃣,Full Speed,Serbia,Serbia 20GB 30Days,32,20,30,180,no,yes,"RS - VIP 4G, Telenor 4G",RS,RS_20_30,CKH803,42.24,Serbia,32,32
+Single 1️⃣,Full Speed,Seychelles,Seychelles 1GB 7Days,4.6,1,7,180,API,yes,SC - Airtel 5G,SC,SC_1_7,CKH386,7.45,Seychelles,4.6,62
+Single 1️⃣,Full Speed,Seychelles,Seychelles 3GB 15Days,11.2,3,15,180,API,yes,SC - Airtel 5G,SC,SC_3_15,CKH415,18.14,Seychelles,11.2,62
+Single 1️⃣,Full Speed,Seychelles,Seychelles 3GB 30Days,11.3,3,30,180,API,yes,SC - Airtel 5G,SC,SC_3_30,PXDKMMGM7,18.31,Seychelles,11.3,62
+Single 1️⃣,Full Speed,Seychelles,Seychelles 5GB 30Days,17.1,5,30,180,API,yes,SC - Airtel 5G,SC,SC_5_30,CKH444,27.7,Seychelles,17.1,62
+Single 1️⃣,Full Speed,Seychelles,Seychelles 10GB 30Days,33,10,30,180,API,yes,SC - Airtel 5G,SC,SC_10_30,CKH473,53.46,Seychelles,33,62
+Single 1️⃣,Full Speed,Seychelles,Seychelles 20GB 30Days,60,20,30,180,API,yes,SC - Airtel 5G,SC,SC_20_30,CKH926,97.2,Seychelles,60,62
+Single 1️⃣,Full Speed,Singapore,Singapore 100MB 7Days,0.3,0.1,7,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_0.1_7,PS67RZTVO,0.99,Singapore,0.3,230
+Single 1️⃣,Full Speed,Singapore,Singapore 500MB 7Days,0.4,0.5,7,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_0.5_7,PXJ279C0P,1.32,Singapore,0.4,230
+Single 1️⃣,Full Speed,Singapore,Singapore 1GB 7Days,0.7,1,7,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_1_7,JC038,2.31,Singapore,0.7,230
+Single 1️⃣,Full Speed,Singapore,Singapore 1GB 7Days (nonhkip),0.88,1,7,180,API,yes,SG - SingTel 5G,SG,SG_1_7_nonhkip,PMYUL0A89,2.9,Singapore,0.88,230
+Single 1️⃣,Full Speed,Singapore,Singapore 3GB 15Days,1.7,3,15,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_3_15,JC039,5.61,Singapore,1.7,230
+Single 1️⃣,Full Speed,Singapore,Singapore 3GB 30Days,1.8,3,30,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_3_30,PR2GUXUD5,5.94,Singapore,1.8,230
+Single 1️⃣,Full Speed,Singapore,Singapore 3GB 15Days (nonhkip),2.46,3,15,180,API,yes,SG - SingTel 5G,SG,SG_3_15_nonhkip,P8FS5BQQ7,8.12,Singapore,2.46,230
+Single 1️⃣,Full Speed,Singapore,Singapore 5GB 30Days,2.7,5,30,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_5_30,JC040,8.91,Singapore,2.7,230
+Single 1️⃣,Full Speed,Singapore,Singapore 5GB 30Days (nonhkip),3.52,5,30,180,API,yes,SG - SingTel 5G,SG,SG_5_30_nonhkip,P74SEFQ1M,11.62,Singapore,3.52,230
+Single 1️⃣,Full Speed,Singapore,Singapore 10GB 30Days,4.7,10,30,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_10_30,JC041,15.51,Singapore,4.7,230
+Single 1️⃣,Full Speed,Singapore,Singapore 10GB 30Days (nonhkip),6.16,10,30,180,API,yes,SG - SingTel 5G,SG,SG_10_30_nonhkip,PWX40HHM7,20.33,Singapore,6.16,230
+Single 1️⃣,Full Speed,Singapore,Singapore 20GB 30Days,8.2,20,30,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_20_30,JC092,27.06,Singapore,8.2,230
+Single 1️⃣,Full Speed,Singapore,Singapore 20GB 30Days (nonhkip),10.56,20,30,180,API,yes,SG - SingTel 5G,SG,SG_20_30_nonhkip,PN0S4RKN6,34.85,Singapore,10.56,230
+Single 1️⃣,Full Speed,Singapore,Singapore 50GB 30Days,17,50,30,180,API,yes,"SG - Simba 5G, StarHub 5G",SG,SG_50_30,JC093,56.1,Singapore,17,230
+Single 1️⃣,Full Speed,Slovakia,Slovakia 1GB 7Days,0.9,1,7,180,API,yes,"SK - Orange 5G, O2 5G",SK,SK_1_7,CKH196,2.65,Slovakia,0.9,194
+Single 1️⃣,Full Speed,Slovakia,Slovakia 3GB 15Days,2.2,3,15,180,API,yes,"SK - Orange 5G, O2 5G",SK,SK_3_15,CKH197,6.47,Slovakia,2.2,194
+Single 1️⃣,Full Speed,Slovakia,Slovakia 3GB 30Days,2.3,3,30,180,API,yes,"SK - Orange 5G, O2 5G",SK,SK_3_30,CKH099,6.76,Slovakia,2.3,194
+Single 1️⃣,Full Speed,Slovakia,Slovakia 5GB 30Days,3.4,5,30,180,API,yes,"SK - Orange 5G, O2 5G",SK,SK_5_30,CKH138,10,Slovakia,3.4,194
+Single 1️⃣,Full Speed,Slovakia,Slovakia 10GB 30Days,6.1,10,30,180,API,yes,"SK - Orange 5G, O2 5G",SK,SK_10_30,CKH198,17.93,Slovakia,6.1,194
+Single 1️⃣,Full Speed,Slovakia,Slovakia 20GB 30Days,10.6,20,30,180,API,yes,"SK - Orange 5G, O2 5G",SK,SK_20_30,CKH730,31.16,Slovakia,10.6,194
+Single 1️⃣,Full Speed,Slovakia,Slovakia 50GB 180Days,30,50,180,180,API,yes,"SK - Orange 5G, O2 5G",SK,SK_50_180,PG4XMKAYQ,88.2,Slovakia,30,194
+Single 1️⃣,Full Speed,Slovenia,Slovenia 1GB 7Days,0.9,1,7,180,API,yes,"SI - Mobitel 5G, Telemach 5G, A1 5G",SI,SI_1_7,CKH242,3.01,Slovenia,0.9,234
+Single 1️⃣,Full Speed,Slovenia,Slovenia 3GB 15Days,2.2,3,15,180,API,yes,"SI - Mobitel 5G, Telemach 5G, A1 5G",SI,SI_3_15,CKH243,7.35,Slovenia,2.2,234
+Single 1️⃣,Full Speed,Slovenia,Slovenia 3GB 30Days,2.3,3,30,180,API,yes,"SI - Mobitel 5G, Telemach 5G, A1 5G",SI,SI_3_30,CKH100,7.68,Slovenia,2.3,234
+Single 1️⃣,Full Speed,Slovenia,Slovenia 5GB 30Days,3.4,5,30,180,API,yes,"SI - Mobitel 5G, Telemach 5G, A1 5G",SI,SI_5_30,CKH139,11.36,Slovenia,3.4,234
+Single 1️⃣,Full Speed,Slovenia,Slovenia 10GB 30Days,6.1,10,30,180,API,yes,"SI - Mobitel 5G, Telemach 5G, A1 5G",SI,SI_10_30,CKH244,20.37,Slovenia,6.1,234
+Single 1️⃣,Full Speed,Slovenia,Slovenia 20GB 30Days,10.6,20,30,180,API,yes,"SI - Mobitel 5G, Telemach 5G, A1 5G",SI,SI_20_30,CKH732,35.4,Slovenia,10.6,234
+Single 1️⃣,Full Speed,Slovenia,Slovenia 50GB 180Days,30,50,180,180,API,yes,"SI - Mobitel 5G, Telemach 5G, A1 5G",SI,SI_50_180,PCMQJGTVB,100.2,Slovenia,30,234
+Single 1️⃣,Full Speed,South Africa,South Africa 100MB 7Days,0.68,0.1,7,180,API,yes,ZA - Vodacom 4G,ZA,ZA_0.1_7,PJ91RFXJL,1.03,South Africa,0.68,51
+Single 1️⃣,Full Speed,South Africa,South Africa 500MB 7Days,1.1,0.5,7,180,API,yes,ZA - Vodacom 4G,ZA,ZA_0.5_7,PF5021KYM,1.66,South Africa,1.1,51
+Single 1️⃣,Full Speed,South Africa,South Africa 1GB 7Days,2,1,7,180,API,yes,ZA - Vodacom 4G,ZA,ZA_1_7,MB026,3.02,South Africa,2,51
+Single 1️⃣,Full Speed,South Africa,South Africa 3GB 15Days,6,3,15,180,API,yes,ZA - Vodacom 4G,ZA,ZA_3_15,MB031,9.06,South Africa,6,51
+Single 1️⃣,Full Speed,South Africa,South Africa 3GB 30Days,6.1,3,30,180,API,yes,ZA - Vodacom 4G,ZA,ZA_3_30,MB065,9.21,South Africa,6.1,51
+Single 1️⃣,Full Speed,South Africa,South Africa 5GB 30Days,9.14,5,30,180,API,yes,ZA - Vodacom 4G,ZA,ZA_5_30,MB036,13.8,South Africa,9.14,51
+Single 1️⃣,Full Speed,South Africa,South Africa 10GB 30Days,16,10,30,180,API,yes,ZA - Vodacom 4G,ZA,ZA_10_30,MB041,24.16,South Africa,16,51
+Single 1️⃣,Full Speed,South Africa,South Africa 20GB 30Days,32,20,30,180,API,yes,ZA - Vodacom 4G,ZA,ZA_20_30,MB052,48.32,South Africa,32,51
+Single 1️⃣,Full Speed,South Korea,South Korea 100MB 7Days,0.3,0.1,7,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_0.1_7,PKLF9M3N7,1.25,South Korea,0.3,316
+Single 1️⃣,Full Speed,South Korea,South Korea 500MB 7Days,0.4,0.5,7,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_0.5_7,PTCH9WAB7,1.66,South Korea,0.4,316
+Single 1️⃣,Full Speed,South Korea,South Korea 1GB 7Days,0.7,1,7,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_1_7,JC072,2.91,South Korea,0.7,316
+Single 1️⃣,Full Speed,South Korea,South Korea 1GB 7Days (nonhkip),0.92,1,7,180,API,yes,KR - SKTelecom 5G,KR,KR_1_7_nonhkip,PU60C7NHY,3.83,South Korea,0.92,316
+Single 1️⃣,Full Speed,South Korea,South Korea 3GB 15Days,1.7,3,15,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_3_15,JC073,7.07,South Korea,1.7,316
+Single 1️⃣,Full Speed,South Korea,South Korea 3GB 30Days,1.8,3,30,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_3_30,PBH8K67KC,7.49,South Korea,1.8,316
+Single 1️⃣,Full Speed,South Korea,South Korea 3GB 15Days (nonhkip),2.28,3,15,180,API,yes,KR - SKTelecom 5G,KR,KR_3_15_nonhkip,P2FQ0VL1B,9.48,South Korea,2.28,316
+Single 1️⃣,Full Speed,South Korea,South Korea 5GB 30Days,2.7,5,30,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_5_30,JC074,11.23,South Korea,2.7,316
+Single 1️⃣,Full Speed,South Korea,South Korea 5GB 30Days (nonhkip),3.74,5,30,180,API,yes,KR - SKTelecom 5G,KR,KR_5_30_nonhkip,PQ708AANE,15.56,South Korea,3.74,316
+Single 1️⃣,Full Speed,South Korea,South Korea 10GB 30Days,4.7,10,30,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_10_30,JC075,19.55,South Korea,4.7,316
+Single 1️⃣,Full Speed,South Korea,South Korea 10GB 30Days (nonhkip),6.6,10,30,180,API,yes,KR - SKTelecom 5G,KR,KR_10_30_nonhkip,PRT9KC28R,27.46,South Korea,6.6,316
+Single 1️⃣,Full Speed,South Korea,South Korea 20GB 30Days,8.2,20,30,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_20_30,JC147,34.11,South Korea,8.2,316
+Single 1️⃣,Full Speed,South Korea,South Korea 20GB 30Days (nonhkip),11,20,30,180,API,yes,KR - SKTelecom 5G,KR,KR_20_30_nonhkip,PXYKK106H,45.76,South Korea,11,316
+Single 1️⃣,Full Speed,South Korea,South Korea 50GB 30Days,17,50,30,180,no,yes,"KR - SKTelecom 5G, LG U+ 5G",KR,KR_50_30,P38XDXR4N,70.72,South Korea,17,316
+Single 1️⃣,Full Speed,Spain,Spain 1GB 7Days,0.7,1,7,180,API,yes,"ES - Vodafone 5G, Orange 5G, Movistar 5G, Yoigo 5G",ES,ES_1_7,CKH245,2.48,Spain,0.7,255
+Single 1️⃣,Full Speed,Spain,Spain 3GB 15Days,1.7,3,15,180,API,yes,"ES - Vodafone 5G, Orange 5G, Movistar 5G, Yoigo 5G",ES,ES_3_15,CKH246,6.03,Spain,1.7,255
+Single 1️⃣,Full Speed,Spain,Spain 3GB 30Days,1.8,3,30,180,API,yes,"ES - Vodafone 5G, Orange 5G, Movistar 5G, Yoigo 5G",ES,ES_3_30,CKH002,6.39,Spain,1.8,255
+Single 1️⃣,Full Speed,Spain,Spain 5GB 30Days,2.7,5,30,180,API,yes,"ES - Vodafone 5G, Orange 5G, Movistar 5G, Yoigo 5G",ES,ES_5_30,CKH003,9.59,Spain,2.7,255
+Single 1️⃣,Full Speed,Spain,Spain 10GB 30Days,4.7,10,30,180,API,yes,"ES - Vodafone 5G, Orange 5G, Movistar 5G, Yoigo 5G",ES,ES_10_30,CKH506,16.68,Spain,4.7,255
+Single 1️⃣,Full Speed,Spain,Spain 20GB 30Days,8.2,20,30,180,API,yes,"ES - Vodafone 5G, Orange 5G, Movistar 5G, Yoigo 5G",ES,ES_20_30,CKH507,29.11,Spain,8.2,255
+Single 1️⃣,Full Speed,Spain,Spain 50GB 30Days,17,50,30,180,API,yes,"ES - Vodafone 5G, Orange 5G, Movistar 5G, Yoigo 5G",ES,ES_50_30,CKH508,60.35,Spain,17,255
+Single 1️⃣,Full Speed,Spain,Spain 50GB 180Days,22,50,180,180,API,yes,"ES - Vodafone 5G, Orange 5G, Movistar 5G, Yoigo 5G",ES,ES_50_180,PSUZGLKSQ,78.1,Spain,22,255
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 100MB 7Days,0.3,0.1,7,180,no,yes,LK - Mobitel 4G,LK,LK_0.1_7,PWJT28BG0,0.48,Sri Lanka,0.3,59
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 500MB 7Days,1.2,0.5,7,180,no,yes,LK - Mobitel 4G,LK,LK_0.5_7,PXGSZ3M1M,1.91,Sri Lanka,1.2,59
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 1GB 7Days,1.5,1,7,180,no,yes,"LK - Mobitel 4G, Hutch 4G",LK,LK_1_7,JC042,2.38,Sri Lanka,1.5,59
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 3GB 15Days,4.2,3,15,180,no,yes,LK - Mobitel 4G,LK,LK_3_15,JC043,6.68,Sri Lanka,4.2,59
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 3GB 30Days,4.25,3,30,180,no,yes,"LK - Mobitel 4G, Hutch 4G",LK,LK_3_30,PTSKLWZVK,6.76,Sri Lanka,4.25,59
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 5GB 30Days,7,5,30,180,no,yes,"LK - Mobitel 4G, Hutch 4G",LK,LK_5_30,JC044,11.13,Sri Lanka,7,59
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 10GB 30Days,13.4,10,30,180,no,yes,"LK - Mobitel 4G, Hutch 4G",LK,LK_10_30,JC085,21.31,Sri Lanka,13.4,59
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 20GB 30Days,27,20,30,180,no,yes,LK - Mobitel 4G,LK,LK_20_30,JC086,42.93,Sri Lanka,27,59
+Single 1️⃣,Full Speed,Sri Lanka,Sri Lanka 50GB 180Days,71,50,180,180,no,yes,LK - Mobitel 4G,LK,LK_50_180,PVCA0JAXV,112.89,Sri Lanka,71,59
+Single 1️⃣,Full Speed,Sudan,Sudan 1GB 7Days,11.2,1,7,180,API,yes,SD - MTN 4G,SD,SD_1_7,CKH388,19.04,Sudan,11.2,70
+Single 1️⃣,Full Speed,Sudan,Sudan 3GB 15Days,27,3,15,180,API,yes,SD - MTN 4G,SD,SD_3_15,CKH417,45.9,Sudan,27,70
+Single 1️⃣,Full Speed,Sudan,Sudan 5GB 30Days,41,5,30,180,API,yes,SD - MTN 4G,SD,SD_5_30,CKH446,69.7,Sudan,41,70
+Single 1️⃣,Full Speed,Sweden,Sweden 1GB 7Days,0.9,1,7,180,API,yes,"SE - 3 5G, Tele2 5G, Telia 5G, Telenor 5G",SE,SE_1_7,CKH199,2.62,Sweden,0.9,191
+Single 1️⃣,Full Speed,Sweden,Sweden 3GB 15Days,2.2,3,15,180,API,yes,"SE - 3 5G, Tele2 5G, Telia 5G, Telenor 5G",SE,SE_3_15,CKH200,6.4,Sweden,2.2,191
+Single 1️⃣,Full Speed,Sweden,Sweden 3GB 30Days,2.3,3,30,180,API,yes,"SE - 3 5G, Tele2 5G, Telia 5G, Telenor 5G",SE,SE_3_30,CKH101,6.69,Sweden,2.3,191
+Single 1️⃣,Full Speed,Sweden,Sweden 5GB 30Days,3.4,5,30,180,API,yes,"SE - 3 5G, Tele2 5G, Telia 5G, Telenor 5G",SE,SE_5_30,CKH140,9.89,Sweden,3.4,191
+Single 1️⃣,Full Speed,Sweden,Sweden 10GB 30Days,6.1,10,30,180,API,yes,"SE - 3 5G, Tele2 5G, Telia 5G, Telenor 5G",SE,SE_10_30,CKH201,17.75,Sweden,6.1,191
+Single 1️⃣,Full Speed,Sweden,Sweden 20GB 30Days,10.6,20,30,180,API,yes,"SE - 3 5G, Tele2 5G, Telia 5G, Telenor 5G",SE,SE_20_30,CKH734,30.85,Sweden,10.6,191
+Single 1️⃣,Full Speed,Switzerland,Switzerland 100MB 7Days,0.3,0.1,7,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_0.1_7,P4PQQ616Q,1.41,Switzerland,0.3,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 500MB 7Days,0.4,0.5,7,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_0.5_7,PTXS8UYP5,1.88,Switzerland,0.4,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 1GB 7Days,0.7,1,7,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_1_7,CKH247,3.28,Switzerland,0.7,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 3GB 15Days,1.7,3,15,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_3_15,CKH248,7.97,Switzerland,1.7,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 3GB 30Days,1.8,3,30,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_3_30,CKH102,8.44,Switzerland,1.8,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 5GB 30Days,2.7,5,30,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_5_30,CKH141,12.66,Switzerland,2.7,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 10GB 30Days,4.7,10,30,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_10_30,CKH249,22.04,Switzerland,4.7,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 20GB 30Days,8.2,20,30,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_20_30,CKH736,38.46,Switzerland,8.2,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 50GB 30Days,17,50,30,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_50_30,CKH737,79.73,Switzerland,17,369
+Single 1️⃣,Full Speed,Switzerland,Switzerland 50GB 180Days,22,50,180,180,API,yes,"CH - Sunrise 5G, Salt 5G",CH,CH_50_180,PUOG8W99P,103.18,Switzerland,22,369
+Single 1️⃣,Full Speed,Tajikistan,Tajikistan 1GB 7Days,9.4,1,7,180,API,yes,TJ - ZET 4G,TJ,TJ_1_7,P21KJJ67K,12.22,Tajikistan,9.4,30
+Single 1️⃣,Full Speed,Tajikistan,Tajikistan 3GB 15Days,26.35,3,15,180,API,yes,TJ - ZET 4G,TJ,TJ_3_15,P2TT8OQ7F,34.26,Tajikistan,26.35,30
+Single 1️⃣,Full Speed,Tajikistan,Tajikistan 3GB 30Days,27.85,3,30,180,API,yes,TJ - ZET 4G,TJ,TJ_3_30,P9FYGGNE7,36.21,Tajikistan,27.85,30
+Single 1️⃣,Full Speed,Tajikistan,Tajikistan 5GB 30Days,44.78,5,30,180,API,yes,TJ - ZET 4G,TJ,TJ_5_30,PUISZF0K5,58.21,Tajikistan,44.78,30
+Single 1️⃣,Full Speed,Tajikistan,Tajikistan 10GB 30Days,85.24,10,30,180,API,yes,TJ - ZET 4G,TJ,TJ_10_30,PFL063QDR,110.81,Tajikistan,85.24,30
+Single 1️⃣,Full Speed,Tajikistan,Tajikistan 20GB 30Days,161.53,20,30,180,API,yes,TJ - ZET 4G,TJ,TJ_20_30,PFWOI21ED,209.99,Tajikistan,161.53,30
+Single 1️⃣,Full Speed,Tanzania,Tanzania 100MB 7Days,0.68,0.1,7,180,API,yes,TZ - Vodafone 3G,TZ,TZ_0.1_7,P1W5NQVN1,0.88,Tanzania,0.68,30
+Single 1️⃣,Full Speed,Tanzania,Tanzania 500MB 7Days,2,0.5,7,180,API,yes,TZ - Vodafone 3G,TZ,TZ_0.5_7,PQ01XX4IY,2.6,Tanzania,2,30
+Single 1️⃣,Full Speed,Tanzania,Tanzania 1GB 7Days,5.3,1,7,180,API,yes,TZ - Vodafone 3G,TZ,TZ_1_7,MB027,6.89,Tanzania,5.3,30
+Single 1️⃣,Full Speed,Tanzania,Tanzania 3GB 15Days,15,3,15,180,API,yes,TZ - Vodafone 3G,TZ,TZ_3_15,MB032,19.5,Tanzania,15,30
+Single 1️⃣,Full Speed,Tanzania,Tanzania 3GB 30Days,15.5,3,30,180,API,yes,TZ - Vodafone 3G,TZ,TZ_3_30,P38I07GG9,20.15,Tanzania,15.5,30
+Single 1️⃣,Full Speed,Tanzania,Tanzania 5GB 30Days,24,5,30,180,API,yes,TZ - Vodafone 3G,TZ,TZ_5_30,MB037,31.2,Tanzania,24,30
+Single 1️⃣,Full Speed,Tanzania,Tanzania 10GB 30Days,45,10,30,180,API,yes,TZ - Vodafone 3G,TZ,TZ_10_30,MB042,58.5,Tanzania,45,30
+Single 1️⃣,Full Speed,Tanzania,Tanzania 20GB 30Days,89,20,30,180,API,yes,TZ - Vodafone 3G,TZ,TZ_20_30,MB063,115.7,Tanzania,89,30
+Single 1️⃣,Full Speed,Thailand,Thailand 100MB 7Days,0.3,0.1,7,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_0.1_7,PQ2I5PFIT,0.67,Thailand,0.3,124
+Single 1️⃣,Full Speed,Thailand,Thailand 500MB 7Days,0.4,0.5,7,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_0.5_7,PLBDYMED4,0.9,Thailand,0.4,124
+Single 1️⃣,Full Speed,Thailand,Thailand 1GB 7Days,0.7,1,7,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_1_7,JC045,1.57,Thailand,0.7,124
+Single 1️⃣,Full Speed,Thailand,Thailand 1GB 7Days (nonhkip),1.14,1,7,180,API,yes,TH - AIS 5G,TH,TH_1_7_nonhkip,PH1M5M9DL,2.55,Thailand,1.14,124
+Single 1️⃣,Full Speed,Thailand,Thailand 3GB 15Days,1.7,3,15,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_3_15,JC046,3.81,Thailand,1.7,124
+Single 1️⃣,Full Speed,Thailand,Thailand 3GB 30Days,1.8,3,30,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_3_30,JC013,4.03,Thailand,1.8,124
+Single 1️⃣,Full Speed,Thailand,Thailand 3GB 15Days (nonhkip),2.28,3,15,180,API,yes,TH - AIS 5G,TH,TH_3_15_nonhkip,PV67L3JSU,5.11,Thailand,2.28,124
+Single 1️⃣,Full Speed,Thailand,Thailand 5GB 30Days,2.7,5,30,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_5_30,JC014,6.05,Thailand,2.7,124
+Single 1️⃣,Full Speed,Thailand,Thailand 5GB 30Days (nonhkip),3.52,5,30,180,API,yes,TH - AIS 5G,TH,TH_5_30_nonhkip,PUX3JWK41,7.88,Thailand,3.52,124
+Single 1️⃣,Full Speed,Thailand,Thailand 10GB 30Days,4.7,10,30,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_10_30,JC047,10.53,Thailand,4.7,124
+Single 1️⃣,Full Speed,Thailand,Thailand 10GB 30Days (nonhkip),5.54,10,30,180,API,yes,TH - AIS 5G,TH,TH_10_30_nonhkip,P4MBRSL75,12.41,Thailand,5.54,124
+Single 1️⃣,Full Speed,Thailand,Thailand 20GB 30Days,8.2,20,30,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_20_30,JC080,18.37,Thailand,8.2,124
+Single 1️⃣,Full Speed,Thailand,Thailand 20GB 30Days (nonhkip),8.8,20,30,180,API,yes,TH - AIS 5G,TH,TH_20_30_nonhkip,PZXY42KN5,19.71,Thailand,8.8,124
+Single 1️⃣,Full Speed,Thailand,Thailand 50GB 180Days,32,50,180,180,no,yes,"TH - AIS 5G, TrueMove H 5G",TH,TH_50_180,PNJW9PBXH,71.68,Thailand,32,124
+Single 1️⃣,Full Speed,Tunisia,Tunisia 100MB 7Days,0.3,0.1,7,180,API,yes,TN - OOREDOO TN 4G,TN,TN_0.1_7,PMJ2GNEEK,0.49,Tunisia,0.3,63
+Single 1️⃣,Full Speed,Tunisia,Tunisia 500MB 7Days,1,0.5,7,180,API,yes,TN - OOREDOO TN 4G,TN,TN_0.5_7,PCFHVT6UG,1.63,Tunisia,1,63
+Single 1️⃣,Full Speed,Tunisia,Tunisia 1GB 7Days,1.8,1,7,180,API,yes,TN - OOREDOO TN 4G,TN,TN_1_7,KR001,2.93,Tunisia,1.8,63
+Single 1️⃣,Full Speed,Tunisia,Tunisia 3GB 15Days,4.6,3,15,180,API,yes,TN - OOREDOO TN 4G,TN,TN_3_15,KR002,7.5,Tunisia,4.6,63
+Single 1️⃣,Full Speed,Tunisia,Tunisia 3GB 30Days,4.7,3,30,180,API,yes,TN - OOREDOO TN 4G,TN,TN_3_30,PXX3PDGRD,7.66,Tunisia,4.7,63
+Single 1️⃣,Full Speed,Tunisia,Tunisia 5GB 30Days,7,5,30,180,API,yes,TN - OOREDOO TN 4G,TN,TN_5_30,KR003,11.41,Tunisia,7,63
+Single 1️⃣,Full Speed,Tunisia,Tunisia 10GB 30Days,12.2,10,30,180,API,yes,TN - OOREDOO TN 4G,TN,TN_10_30,KR004,19.89,Tunisia,12.2,63
+Single 1️⃣,Full Speed,Tunisia,Tunisia 20GB 30Days,22,20,30,180,API,yes,TN - OOREDOO TN 4G,TN,TN_20_30,KR006,35.86,Tunisia,22,63
+Single 1️⃣,Full Speed,Turkey,Turkey 500MB 1Day,0.3,0.5,1,180,no,yes,TR - Türk Telekom 5G,TR,TR_0.5_1,P99PK3JV6,1.28,Turkey,0.3,327
+Single 1️⃣,Full Speed,Turkey,Turkey 100MB 7Days,0.3,0.1,7,180,no,yes,TR - Türk Telekom 5G,TR,TR_0.1_7,PL0M7ICXR,1.28,Turkey,0.3,327
+Single 1️⃣,Full Speed,Turkey,Turkey 500MB 7Days,0.3,0.5,7,180,no,yes,TR - Türk Telekom 5G,TR,TR_0.5_7,PRC9WA4Z0,1.28,Turkey,0.3,327
+Single 1️⃣,Full Speed,Turkey,Turkey 1GB 7Days,0.46,1,7,180,no,yes,TR - Türk Telekom 5G,TR,TR_1_7,CKH265,1.96,Turkey,0.46,327
+Single 1️⃣,Full Speed,Turkey,Turkey 3GB 15Days,1.39,3,15,180,no,yes,TR - Türk Telekom 5G,TR,TR_3_15,CKH266,5.94,Turkey,1.39,327
+Single 1️⃣,Full Speed,Turkey,Turkey 3GB 30Days,1.42,3,30,180,no,yes,TR - Türk Telekom 5G,TR,TR_3_30,CKH025,6.06,Turkey,1.42,327
+Single 1️⃣,Full Speed,Turkey,Turkey 5GB 30Days,2.3,5,30,180,no,yes,TR - Türk Telekom 5G,TR,TR_5_30,CKH267,9.82,Turkey,2.3,327
+Single 1️⃣,Full Speed,Turkey,Turkey 10GB 30Days,4.2,10,30,180,no,yes,TR - Türk Telekom 5G,TR,TR_10_30,CKH268,17.93,Turkey,4.2,327
+Single 1️⃣,Full Speed,Turkey,Turkey 20GB 30Days,7,20,30,180,no,yes,TR - Türk Telekom 5G,TR,TR_20_30,CKH738,29.89,Turkey,7,327
+Single 1️⃣,Full Speed,Turkey,Turkey 50GB 180Days,18,50,180,180,no,yes,TR - Türk Telekom 5G,TR,TR_50_180,PAV5NMZ28,76.86,Turkey,18,327
+Single 1️⃣,Full Speed,Uganda,Uganda 1GB 7Days,5.7,1,7,180,no,yes,UG - Airtel 4G,UG,UG_1_7,CKH392,7.41,Uganda,5.7,30
+Single 1️⃣,Full Speed,Uganda,Uganda 3GB 15Days,14.1,3,15,180,no,yes,UG - Airtel 4G,UG,UG_3_15,CKH421,18.33,Uganda,14.1,30
+Single 1️⃣,Full Speed,Ukraine,Ukraine 1GB 7Days,0.7,1,7,180,no,yes,UA - Kyivstar 4G,UA,UA_1_7,CKH250,2.74,Ukraine,0.7,292
+Single 1️⃣,Full Speed,Ukraine,Ukraine 3GB 15Days,1.7,3,15,180,no,yes,UA - Kyivstar 4G,UA,UA_3_15,CKH251,6.66,Ukraine,1.7,292
+Single 1️⃣,Full Speed,Ukraine,Ukraine 3GB 30Days,1.8,3,30,180,no,yes,UA - Kyivstar 4G,UA,UA_3_30,CKH103,7.06,Ukraine,1.8,292
+Single 1️⃣,Full Speed,Ukraine,Ukraine 5GB 30Days,2.7,5,30,180,no,yes,UA - Kyivstar 4G,UA,UA_5_30,CKH142,10.58,Ukraine,2.7,292
+Single 1️⃣,Full Speed,Ukraine,Ukraine 10GB 30Days,4.7,10,30,180,no,yes,UA - Kyivstar 4G,UA,UA_10_30,CKH252,18.42,Ukraine,4.7,292
+Single 1️⃣,Full Speed,Ukraine,Ukraine 20GB 30Days,9,20,30,180,no,yes,UA - Kyivstar 4G,UA,UA_20_30,PZXYGILYN,35.28,Ukraine,9,292
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 100MB 7Days,0.3,0.1,7,180,API,yes,AE - Du 5G,AE,AE_0.1_7,PFI5O971X,0.42,United Arab Emirates,0.3,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 500MB 7Days,1.1,0.5,7,180,API,yes,AE - Du 5G,AE,AE_0.5_7,P0B2MJ9JR,1.53,United Arab Emirates,1.1,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 1GB 7Days,1.95,1,7,180,API,yes,AE - Du 5G,AE,AE_1_7,CKH527,2.71,United Arab Emirates,1.95,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 3GB 15Days,4.79,3,15,180,API,yes,AE - Du 5G,AE,AE_3_15,CKH692,6.66,United Arab Emirates,4.79,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 3GB 30Days,5,3,30,180,API,yes,AE - Du 5G,AE,AE_3_30,CKH031,6.95,United Arab Emirates,5,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 5GB 30Days,8,5,30,180,API,yes,AE - Du 5G,AE,AE_5_30,CKH693,11.12,United Arab Emirates,8,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 10GB 30Days,14.5,10,30,180,API,yes,AE - Du 5G,AE,AE_10_30,PQHJ267ZM,20.16,United Arab Emirates,14.5,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 10GB 60Days,14.98,10,60,180,API,yes,AE - Du 5G,AE,AE_10_60,CKH694,20.82,United Arab Emirates,14.98,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 20GB 30Days,26,20,30,180,API,yes,AE - Du 5G,AE,AE_20_30,P0LWCN1S2,36.14,United Arab Emirates,26,39
+Single 1️⃣,Full Speed,United Arab Emirates,United Arab Emirates 50GB 180Days,105,50,180,180,API,yes,AE - Du 5G,AE,AE_50_180,PBJCBSZU1,145.95,United Arab Emirates,105,39
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 100MB 7Days,0.3,0.1,7,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_0.1_7,PBV0LO9CW,1.39,United Kingdom,0.3,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 500MB 7Days,0.4,0.5,7,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_0.5_7,PVIOSUZV2,1.86,United Kingdom,0.4,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 1GB 7Days,0.7,1,7,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_1_7,CKH253,3.25,United Kingdom,0.7,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 3GB 15Days,1.7,3,15,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_3_15,CKH254,7.89,United Kingdom,1.7,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 3GB 30Days,1.8,3,30,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_3_30,CKH104,8.35,United Kingdom,1.8,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 5GB 30Days,2.7,5,30,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_5_30,CKH143,12.53,United Kingdom,2.7,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 10GB 30Days,4.7,10,30,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_10_30,CKH255,21.81,United Kingdom,4.7,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 20GB 30Days,8.2,20,30,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_20_30,CKH509,38.05,United Kingdom,8.2,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 50GB 30Days,17,50,30,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_50_30,CKH510,78.88,United Kingdom,17,364
+Single 1️⃣,Full Speed,United Kingdom,United Kingdom 50GB 180Days,28,50,180,180,API,yes,"GB - Vodafone 5G, O2 5G, 3 5G",GB,GB_50_180,PLLWT4O6B,129.92,United Kingdom,28,364
+Single 1️⃣,Full Speed,United States,United States 100MB 7Days,0.3,0.1,7,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_0.1_7,P3YTYXBRV,1.19,United States,0.3,297
+Single 1️⃣,Full Speed,United States,United States 500MB 7Days,0.5,0.5,7,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_0.5_7,P9BAB5V03,1.98,United States,0.5,297
+Single 1️⃣,Full Speed,United States,United States 1GB 7Days,0.9,1,7,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_1_7,PHAJHEAYP,3.57,United States,0.9,297
+Single 1️⃣,Full Speed,United States,United States 3GB 15Days,2.2,3,15,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_3_15,PGDINBJBY,8.73,United States,2.2,297
+Single 1️⃣,Full Speed,United States,United States 3GB 30Days,2.3,3,30,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_3_30,PKY3WHPRZ,9.13,United States,2.3,297
+Single 1️⃣,Full Speed,United States,United States 5GB 30Days,3.4,5,30,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_5_30,PKJNMJIIU,13.5,United States,3.4,297
+Single 1️⃣,Full Speed,United States,United States 10GB 30Days,6.1,10,30,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_10_30,PCRKRUHIL,24.22,United States,6.1,297
+Single 1️⃣,Full Speed,United States,United States 15GB 30Days,8.5,15,30,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_15_30,P7QQR3WW0,33.75,United States,8.5,297
+Single 1️⃣,Full Speed,United States,United States 20GB 30Days,11.9,20,30,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_20_30,CKH533,47.24,United States,11.9,297
+Single 1️⃣,Full Speed,United States,United States 20GB 90Days,14.27,20,90,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_20_90,P1HAXMKHP,56.65,United States,14.27,297
+Single 1️⃣,Full Speed,United States,United States 50GB 30Days,28,50,30,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_50_30,PCR902VVL,111.16,United States,28,297
+Single 1️⃣,Full Speed,United States,United States 50GB 180Days,35,50,180,180,API,yes,"US - Verizon 5G, T-Mobile 5G",US,US_50_180,P3ICIKSE8,138.95,United States,35,297
+Single 1️⃣,Full Speed,Uruguay,Uruguay 100MB 7Days,0.63,0.1,7,180,API,yes,"UY - Antel 5G, Movistar 5G, Claro 5G",UY,UY_0.1_7,PDPRP70HM,1.02,Uruguay,0.63,62
+Single 1️⃣,Full Speed,Uruguay,Uruguay 500MB 7Days,2.5,0.5,7,180,API,yes,"UY - Antel 5G, Movistar 5G, Claro 5G",UY,UY_0.5_7,PAM8H3YQN,4.05,Uruguay,2.5,62
+Single 1️⃣,Full Speed,Uruguay,Uruguay 1GB 7Days,4.6,1,7,180,API,yes,"UY - Antel 5G, Movistar 5G, Claro 5G",UY,UY_1_7,CKH316,7.45,Uruguay,4.6,62
+Single 1️⃣,Full Speed,Uruguay,Uruguay 3GB 15Days,11.2,3,15,180,API,yes,"UY - Antel 5G, Movistar 5G, Claro 5G",UY,UY_3_15,CKH332,18.14,Uruguay,11.2,62
+Single 1️⃣,Full Speed,Uzbekistan,Uzbekistan 100MB 7Days,0.3,0.1,7,180,no,yes,UZ - Beeline 4G,UZ,UZ_0.1_7,P5N4RG08H,0.62,Uzbekistan,0.3,106
+Single 1️⃣,Full Speed,Uzbekistan,Uzbekistan 500MB 7Days,0.8,0.5,7,180,no,yes,UZ - Beeline 4G,UZ,UZ_0.5_7,P1UNFUJLH,1.65,Uzbekistan,0.8,106
+Single 1️⃣,Full Speed,Uzbekistan,Uzbekistan 1GB 7Days,1.5,1,7,180,no,yes,UZ - Beeline 4G,UZ,UZ_1_7,CKH1017,3.09,Uzbekistan,1.5,106
+Single 1️⃣,Full Speed,Uzbekistan,Uzbekistan 3GB 15Days,3.7,3,15,180,no,yes,UZ - Beeline 4G,UZ,UZ_3_15,CKH1028,7.62,Uzbekistan,3.7,106
+Single 1️⃣,Full Speed,Uzbekistan,Uzbekistan 3GB 30Days,3.8,3,30,180,no,yes,UZ - Beeline 4G,UZ,UZ_3_30,PCHMVSA0P,7.83,Uzbekistan,3.8,106
+Single 1️⃣,Full Speed,Uzbekistan,Uzbekistan 5GB 30Days,5.7,5,30,180,no,yes,UZ - Beeline 4G,UZ,UZ_5_30,CKH1029,11.74,Uzbekistan,5.7,106
+Single 1️⃣,Full Speed,Uzbekistan,Uzbekistan 10GB 30Days,9.9,10,30,180,no,yes,UZ - Beeline 4G,UZ,UZ_10_30,CKH766,20.39,Uzbekistan,9.9,106
+Single 1️⃣,Full Speed,Uzbekistan,Uzbekistan 20GB 30Days,17,20,30,180,no,yes,UZ - Beeline 4G,UZ,UZ_20_30,CKH767,35.02,Uzbekistan,17,106
+Single 1️⃣,Full Speed,Vietnam,Vietnam 100MB 7Days,0.3,0.1,7,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_0.1_7,PIK0SW14Q,0.52,Vietnam,0.3,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 500MB 7Days,1,0.5,7,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_0.5_7,P2DH4RPAS,1.73,Vietnam,1,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 1GB 7Days (nonhkip),1.58,1,7,180,API,yes,VN - Vinaphone 4G,VN,VN_1_7_nonhkip,P06VBPU3J,2.73,Vietnam,1.58,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 1GB 7Days,1.8,1,7,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_1_7,JC048,3.11,Vietnam,1.8,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 3GB 15Days (nonhkip),4.04,3,15,180,API,yes,VN - Vinaphone 4G,VN,VN_3_15_nonhkip,P41ERHYB6,6.99,Vietnam,4.04,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 3GB 15Days,4.6,3,15,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_3_15,JC049,7.96,Vietnam,4.6,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 3GB 30Days,4.8,3,30,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_3_30,PYHXG02NQ,8.3,Vietnam,4.8,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 5GB 30Days (nonhkip),6.16,5,30,180,API,yes,VN - Vinaphone 4G,VN,VN_5_30_nonhkip,PEB708QBF,10.66,Vietnam,6.16,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 5GB 30Days,7,5,30,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_5_30,JC050,12.11,Vietnam,7,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 10GB 30Days (nonhkip),10.73,10,30,180,API,yes,VN - Vinaphone 4G,VN,VN_10_30_nonhkip,P2UWBW9F4,18.56,Vietnam,10.73,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 10GB 30Days,12.2,10,30,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_10_30,JC051,21.11,Vietnam,12.2,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 20GB 30Days (nonhkip),17.6,20,30,180,API,yes,VN - Vinaphone 4G,VN,VN_20_30_nonhkip,PTNY9DB82,30.45,Vietnam,17.6,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 20GB 30Days,19,20,30,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_20_30,JC088,32.87,Vietnam,19,73
+Single 1️⃣,Full Speed,Vietnam,Vietnam 50GB 180Days,45,50,180,180,no,yes,"VN - Vietnamobile 4G, Vinaphone 5G",VN,VN_50_180,PU3OJKPFD,77.85,Vietnam,45,73
+Single 1️⃣,Full Speed,Zambia,Zambia 1GB 7Days,4.6,1,7,180,API,yes,"ZM - Airtel 5G, MTN 5G",ZM,ZM_1_7,CKH393,6.3,Zambia,4.6,37
+Single 1️⃣,Full Speed,Zambia,Zambia 3GB 15Days,11.2,3,15,180,API,yes,"ZM - Airtel 5G, MTN 5G",ZM,ZM_3_15,CKH422,15.34,Zambia,11.2,37
+Single 1️⃣,Full Speed,Zambia,Zambia 3GB 30Days,11.4,3,30,180,API,no,"ZM - Airtel 5G, MTN 5G",ZM,ZM_3_30,PL9TGMXD6,15.62,Zambia,11.4,37
+Single 1️⃣,Full Speed,Zambia,Zambia 5GB 30Days,17.1,5,30,180,API,yes,"ZM - Airtel 5G, MTN 5G",ZM,ZM_5_30,CKH451,23.43,Zambia,17.1,37
